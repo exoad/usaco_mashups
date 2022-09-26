@@ -11,9 +11,9 @@ This pregeneration is also very slow in order to not overwhelm the host (current
 ## Layout of the generated data:
 
 ```
-PROBLEM-URL YEAR MONTH PROBLEM# PROBLEM-NAME
+PROBLEM-URL DIVISION YEAR MONTH PROBLEM# PROBLEM-NAME
 ...
-PROBLEM-URL YEAR MONTH PROBLEM# PROBLEM-NAME
+PROBLEM-URL DIVISION YEAR MONTH PROBLEM# PROBLEM-NAME
 ```
 Notice: Header attributes, like when the file was generated are only provided when the Scraper calls the Parser to convert it to JSON.
 
