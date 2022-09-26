@@ -16,7 +16,9 @@
     "commands-locale": "commands",
     "events-mocale": [
       "client"
-    ]
+    ],
+    "green_ping": 80,
+    "yellow_ping": 150
   },
   "urls": {
     "usaco_site": "http://www.usaco.org/"
