@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.5.0",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.4"
+  },
+  "name": "usaco-mashup-bot",
+  "version": "1.0.0",
+  "description": "USACO Mashup bot",
+  "main": "pkg/jackmeng/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "usaco-mashup",
+    "usaco"
+  ],
+  "author": "exoad",
+  "license": "GPL-3.0",
+  "displayName": "USACO Mashup Bot"
+}

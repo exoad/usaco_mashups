@@ -1,0 +1,21 @@
+{
+  "utils": {
+    "prefix": "&"
+  },
+  "internals": {
+    "listeners-max": 25,
+    "handlers-mocale": [
+      "cmd",
+      "ev"
+    ],
+    "commands-mocale": [
+      "general",
+      "utils",
+      "fun"
+    ],
+    "commands-locale": "commands",
+    "events-mocale": [
+      "client"
+    ]
+  }
+}
