@@ -27,7 +27,7 @@ public class Parser {
   }
 
   public static int getMonth(String line) {
-    String r = line.split(" ")[2];
+    String r = line.split(" ")[3];
     return r.contains("Nov") ? NOV
         : r.contains("Jan") ? JAN
             : r.contains("Open") ? USOPEN
