@@ -7,6 +7,8 @@ import java.io.File;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.URL;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -119,6 +121,7 @@ public class Scraper {
       f.createNewFile();
     }
     try (PrintWriter pw = new PrintWriter(f)) {
+      pw.println(new SimpleDateFormat("HH:mm MM/dd/yyyy").format(new Date(System.currentTimeMillis())));
       for (int i = MINIM_SEARCH_QUERY; i <= MAXIM_SEARCH_QUERY; i++) {
         search_loop: for (int j = 0; j < QUERY_LIST.length; j++) {
           Contest s = parse(i, QUERY_LIST[j]);
