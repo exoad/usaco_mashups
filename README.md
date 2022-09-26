@@ -1,3 +1,5 @@
+!!! READ THE LICENSE BEFORE YOU DO ANYTHING !!!
+
 # Pregenerated Data
 
 If you do not wish to run the Scraper, you may use the scraped data that I have generated in
