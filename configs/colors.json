@@ -1,3 +1,5 @@
 {
-  "default_orange": "#ffc64f"
+  "default_orange": "#ffc64f",
+  "default_green": "#4fff9e",
+  "default_purple": "#744fff"
 }

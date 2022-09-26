@@ -17,5 +17,11 @@
     "events-mocale": [
       "client"
     ]
+  },
+  "urls": {
+    "usaco_site": "http://www.usaco.org/"
+  },
+  "strings": {
+    "arguments_null": "No Arguments"
   }
 }

@@ -14,12 +14,6 @@ module.exports = (bot) => {
       if (cmd.config.aliases) {
         cmd.config.aliases.forEach((a) => bot.aliases.set(a, cmd.config.name));
       }
-      if (cmd.config.description) {
-        bot.description.set(cmd.config.description, cmd);
-      }
-      if (cmd.config.category) {
-        bot.category.set(cmd.config.category, cmd);
-      }
       console.log(
         count +
           1 +

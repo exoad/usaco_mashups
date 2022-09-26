@@ -5,12 +5,11 @@ module.exports = {
     name: "echo",
     category: "Fun",
     description: "Echos / repeats what you said",
+    usage: "args : [ anything after ]",
     aliases: ["mock", "say"],
   },
   run: async (bot, msg, args) => {
-    msg.channel.send("Amgous");
     let rety = msg.content.split(" ").slice(1);
-    console.log("Amogus");
     msg.channel.send(rety.join(" "));
   },
 };
