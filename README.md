@@ -11,7 +11,7 @@ This pregeneration is also very slow in order to not overwhelm the host (current
 ## Layout of the generated data:
 
 ```
-GENERATED DATE
+GENERATED-DATE MAXIM MINIM ATTRIBUTES_DELIMITER
 PROBLEM-URL YEAR MONTH PROBLEM# PROBLEM-NAME
 ...
 PROBLEM-URL YEAR MONTH PROBLEM# PROBLEM-NAME
