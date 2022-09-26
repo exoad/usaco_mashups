@@ -23,27 +23,69 @@ import org.jsoup.select.Elements;
  * @since 1.0
  */
 public class Scraper {
+  public static class Contest {
+    public STATE s;
+    public String attributes;
+
+    public Contest(STATE init, String aInit) {
+      this.s = init;
+      this.attributes = aInit;
+    }
+  }
+
   enum STATE {
     NOGOOD, BRONZE, SILVER, GOLD, PLATINUM
   }
 
   static final int MAXIM_SEARCH_QUERY = 1238;
   static final int MINIM_SEARCH_QUERY = 84;
-  static final long TIME_LIMIT_ON_HOLD = 100L;
+  static final long TIME_LIMIT_ON_HOLD = 50L;
   static final int[] QUERY_LIST = { 1, 2, 3, 4 };
   static final String QUERY_DELIMITER_QUERY_ID = "&x83";
   static final String CPID_DELIMITER = "#x83";
+  static final String ATTRIBUTES_DELIMITER = "$25x*"; // not bytes to minimize conflicts with the reader in JavaScript
   static final String URL_QUERY = "http://www.usaco.org/index.php?page=viewproblem" + QUERY_DELIMITER_QUERY_ID
       + "&cpid=" + CPID_DELIMITER;
 
-  public static STATE parse(int cpid, int arg) {
+  public static Contest parse(int cpid, int arg) {
     Document dc = Jsoup.parse(readURL(formatURL(cpid, arg)));
     Elements p = dc.select(".panel > h2:nth-child(1)");
-    return !p.text().startsWith("USACO 20") && !p.text().endsWith("Division") ? STATE.NOGOOD
-        : (p.text().endsWith("Bronze Division") ? STATE.BRONZE
-            : (p.text().endsWith("Gold Division") ? STATE.GOLD
-                : (p.text().endsWith("Silver Division") ? STATE.SILVER
-                    : (p.text().endsWith("Platinum Division") ? STATE.PLATINUM : STATE.NOGOOD))));
+    Elements p2 = dc.select(".panel > h2:nth-child(2)");
+    return parseAttributes(cpid, p.text(), p2.text());
+  }
+
+  public static Contest parseAttributes(int cpid, String hw1, String hw2) {
+    if ((!hw1.startsWith("USACO 20") && !hw1.endsWith("Division"))) {
+      return new Contest(STATE.NOGOOD, null);
+    }
+    String dateMaxim = hw1.split(" ")[1];
+    String monthMaxim = !hw1.split(" ")[2].equals("US") ? hw1.split(" ")[2] : hw1.split(" ")[2] + hw1.split(" ")[3];
+
+    String qN = hw2.split(" ", 3)[0] + hw2.split(" ", 3)[1];
+    String pName = hw2.split(" ", 3)[2];
+    pName = pName.replace(" ", ATTRIBUTES_DELIMITER);
+
+    return new Contest(cpid <= 139 ? (!hw1.startsWith("USACO 20") && !hw1.endsWith("Division") ? STATE.NOGOOD
+        : (hw1.endsWith("Bronze Division") ? STATE.BRONZE
+            : (hw1.endsWith("Gold Division") ? STATE.GOLD
+                : (hw1.endsWith("Silver Division") ? STATE.SILVER
+                    : (hw1.endsWith("Platinum Division") ? STATE.PLATINUM : STATE.NOGOOD)))))
+        : (!hw1.startsWith("USACO 20")
+            && !(matches(hw1.split(" ")[hw1.split(" ").length - 1], "Bronze", "Gold", "Silver", "Platinum"))
+                ? STATE.NOGOOD
+                : (hw1.endsWith("Bronze") ? STATE.BRONZE
+                    : (hw1.endsWith("Gold") ? STATE.GOLD
+                        : (hw1.endsWith("Silver") ? STATE.SILVER
+                            : (hw1.endsWith("Platinum") ? STATE.PLATINUM : STATE.NOGOOD))))),
+        dateMaxim + " " + monthMaxim + " " + qN + " " + pName);
+  }
+
+  public static boolean matches(String str, String... args) {
+    for (String t : args) {
+      if (t.equals(str))
+        return true;
+    }
+    return false;
   }
 
   public static String readURL(String url) {
@@ -79,14 +121,14 @@ public class Scraper {
     try (PrintWriter pw = new PrintWriter(f)) {
       for (int i = MINIM_SEARCH_QUERY; i <= MAXIM_SEARCH_QUERY; i++) {
         search_loop: for (int j = 0; j < QUERY_LIST.length; j++) {
-          STATE s = parse(i, QUERY_LIST[j]);
-          out.println(i + " " + QUERY_LIST[j]);
-          if (s != STATE.NOGOOD) {
-            pw.println(formatURL(i, QUERY_LIST[j]) + " " + s.name());
+          Contest s = parse(i, QUERY_LIST[j]);
+          if (s.s != STATE.NOGOOD) {
+            pw.println(formatURL(i, QUERY_LIST[j]) + " " + s.attributes);
             pw.flush();
-            out.println("ACCEPTED: " + i + " " + QUERY_LIST[j]);
+            out.println("[#] ACC: " + i + " " + QUERY_LIST[j] + " | " + s.attributes.split(ATTRIBUTES_DELIMITER)[0]);
+            break search_loop;
           } else {
-            out.println("DENIED: " + i + " " + QUERY_LIST[j]);
+            out.println("[.] DNE: " + i + " " + QUERY_LIST[j]);
           }
           Thread.sleep(TIME_LIMIT_ON_HOLD);
         }
