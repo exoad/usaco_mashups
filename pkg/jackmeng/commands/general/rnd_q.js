@@ -12,5 +12,7 @@ module.exports = {
     usage: "1 arg(s) : [div={platinum,gold,silver,bronze}]",
     aliases: [`randomproblem`, `randomquestion`, `gimme`, `singleton`],
   },
-  run: async (bot, msg, args) => {},
+  run: async (bot, msg, args) => {
+    
+  },
 };

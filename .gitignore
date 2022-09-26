@@ -1,3 +1,4 @@
 /internal
 /node_modules
 /.vscode
+/bin

@@ -23,5 +23,8 @@
   },
   "strings": {
     "arguments_null": "No Arguments"
+  },
+  "usaco" : {
+    "maxim" : "1238"
   }
 }
