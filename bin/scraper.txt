@@ -1,541 +1,540 @@
-09:57 09/26,2022
-http://www.usaco.org/index.php?page=viewproblem2&cpid=84 2011 November Problem1. Contest$25x*Timing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=85 2011 November Problem2. Awkward$25x*Digits
-http://www.usaco.org/index.php?page=viewproblem2&cpid=86 2011 November Problem3. Moo$25x*Sick
-http://www.usaco.org/index.php?page=viewproblem2&cpid=87 2011 November Problem4. Cow$25x*Beauty$25x*Pageant$25x*(Bronze$25x*Level)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=88 2011 November Problem1. Cow$25x*Beauty$25x*Pageant$25x*(Silver$25x*Level)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=89 2011 November Problem2. Cow$25x*Lineup
-http://www.usaco.org/index.php?page=viewproblem2&cpid=90 2011 November Problem3. Tile$25x*Exchanging
-http://www.usaco.org/index.php?page=viewproblem2&cpid=91 2011 November Problem1. Above$25x*the$25x*Median
-http://www.usaco.org/index.php?page=viewproblem2&cpid=92 2011 November Problem2. Binary$25x*Sudoku
-http://www.usaco.org/index.php?page=viewproblem2&cpid=93 2011 November Problem3. Cow$25x*Steeplechase
-http://www.usaco.org/index.php?page=viewproblem2&cpid=94 2011 December Problem1. Hay$25x*Bales
-http://www.usaco.org/index.php?page=viewproblem2&cpid=95 2011 December Problem2. Cow$25x*Photography$25x*(Bronze$25x*Level)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=96 2011 December Problem3. Escaping$25x*the$25x*Farm
-http://www.usaco.org/index.php?page=viewproblem2&cpid=97 2011 December Problem1. Cow$25x*Photography
-http://www.usaco.org/index.php?page=viewproblem2&cpid=98 2011 December Problem2. Roadblock
-http://www.usaco.org/index.php?page=viewproblem2&cpid=99 2011 December Problem3. Umbrellas$25x*for$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=100 2011 December Problem1. Cow$25x*Photography
-http://www.usaco.org/index.php?page=viewproblem2&cpid=101 2011 December Problem2. Simplifying$25x*the$25x*Farm
-http://www.usaco.org/index.php?page=viewproblem2&cpid=102 2011 December Problem3. Grass$25x*Planting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=103 2012 January Problem1. Gifts
-http://www.usaco.org/index.php?page=viewproblem2&cpid=104 2012 January Problem2. Haybale$25x*Stacking
-http://www.usaco.org/index.php?page=viewproblem2&cpid=105 2012 January Problem3. Grazing$25x*Patterns
-http://www.usaco.org/index.php?page=viewproblem2&cpid=106 2012 January Problem1. Delivery$25x*Route
-http://www.usaco.org/index.php?page=viewproblem2&cpid=107 2012 January Problem2. Bale$25x*Share
-http://www.usaco.org/index.php?page=viewproblem2&cpid=108 2012 January Problem3. Mountain$25x*Climbing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=109 2012 January Problem1. Video$25x*Game
-http://www.usaco.org/index.php?page=viewproblem2&cpid=110 2012 January Problem2. Cow$25x*Run
-http://www.usaco.org/index.php?page=viewproblem2&cpid=111 2012 January Problem3. Bovine$25x*Alliance
-http://www.usaco.org/index.php?page=viewproblem2&cpid=112 2012 February Problem1. Rope$25x*Folding
-http://www.usaco.org/index.php?page=viewproblem2&cpid=113 2012 February Problem2. Overplanting$25x*(Bronze)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=114 2012 February Problem3. Moo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=115 2012 February Problem1. Overplanting$25x*(Silver)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=116 2012 February Problem2. Cow$25x*IDs
-http://www.usaco.org/index.php?page=viewproblem2&cpid=117 2012 February Problem3. Relocation
-http://www.usaco.org/index.php?page=viewproblem2&cpid=118 2012 February Problem1. Cow$25x*Coupons
-http://www.usaco.org/index.php?page=viewproblem2&cpid=119 2012 February Problem2. Symmetry
-http://www.usaco.org/index.php?page=viewproblem2&cpid=120 2012 February Problem3. Nearby$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=121 2012 March Problem1. Times$25x*17
-http://www.usaco.org/index.php?page=viewproblem2&cpid=122 2012 March Problem2. Connect$25x*the$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=123 2012 March Problem3. Wrong$25x*Directions
-http://www.usaco.org/index.php?page=viewproblem2&cpid=124 2012 March Problem1. Tractor
-http://www.usaco.org/index.php?page=viewproblem2&cpid=125 2012 March Problem2. Flowerpot
-http://www.usaco.org/index.php?page=viewproblem2&cpid=126 2012 March Problem3. Landscaping
-http://www.usaco.org/index.php?page=viewproblem2&cpid=127 2012 March Problem1. Large$25x*Banner
-http://www.usaco.org/index.php?page=viewproblem2&cpid=128 2012 March Problem2. Haybale$25x*Restacking
-http://www.usaco.org/index.php?page=viewproblem2&cpid=129 2012 March Problem3. Cows$25x*in$25x*a$25x*Skyscraper
-http://www.usaco.org/index.php?page=viewproblem2&cpid=130 2012 USOpen, Problem1. Cows$25x*in$25x*a$25x*Row
-http://www.usaco.org/index.php?page=viewproblem2&cpid=131 2012 USOpen, Problem2. Three$25x*Lines
-http://www.usaco.org/index.php?page=viewproblem2&cpid=132 2012 USOpen, Problem3. Islands
-http://www.usaco.org/index.php?page=viewproblem2&cpid=133 2012 USOpen, Problem4. Unlocking$25x*Blocks
-http://www.usaco.org/index.php?page=viewproblem2&cpid=134 2012 USOpen, Problem1. Unlocking$25x*Blocks$25x*(Silver)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=135 2012 USOpen, Problem2. Bookshelf$25x*(Silver)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=136 2012 USOpen, Problem3. Running$25x*Laps
-http://www.usaco.org/index.php?page=viewproblem2&cpid=137 2012 USOpen, Problem1. Tied$25x*Down
-http://www.usaco.org/index.php?page=viewproblem2&cpid=138 2012 USOpen, Problem2. Bookshelf
-http://www.usaco.org/index.php?page=viewproblem2&cpid=139 2012 USOpen, Problem3. Balanced$25x*Cow$25x*Subsets
-http://www.usaco.org/index.php?page=viewproblem2&cpid=187 2012 November Problem1. Find$25x*the$25x*Cow!
-http://www.usaco.org/index.php?page=viewproblem2&cpid=188 2012 November Problem2. Typo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=189 2012 November Problem3. Horseshoes
-http://www.usaco.org/index.php?page=viewproblem2&cpid=190 2012 November Problem1. Clumsy$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=191 2012 November Problem2. Distant$25x*Pastures
-http://www.usaco.org/index.php?page=viewproblem2&cpid=192 2012 November Problem3. Balanced$25x*Cow$25x*Breeds
-http://www.usaco.org/index.php?page=viewproblem2&cpid=193 2012 November Problem1. Balanced$25x*Cow$25x*Breeds
-http://www.usaco.org/index.php?page=viewproblem2&cpid=194 2012 November Problem2. Concurrently$25x*Balanced$25x*Strings
-http://www.usaco.org/index.php?page=viewproblem2&cpid=195 2012 November Problem3. Balanced$25x*Trees
-http://www.usaco.org/index.php?page=viewproblem2&cpid=205 2012 December Problem1. Meet$25x*and$25x*Greet
-http://www.usaco.org/index.php?page=viewproblem2&cpid=206 2012 December Problem2. Scrambled$25x*Letters
-http://www.usaco.org/index.php?page=viewproblem2&cpid=207 2012 December Problem3. Crazy$25x*Fences
-http://www.usaco.org/index.php?page=viewproblem2&cpid=208 2012 December Problem1. Crazy$25x*Fences
-http://www.usaco.org/index.php?page=viewproblem2&cpid=209 2012 December Problem2. Wifi$25x*Setup
-http://www.usaco.org/index.php?page=viewproblem2&cpid=210 2012 December Problem3. Milk$25x*Routing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=211 2012 December Problem1. Gangs$25x*of$25x*Instanbull/Cowstantinople
-http://www.usaco.org/index.php?page=viewproblem2&cpid=212 2012 December Problem2. First!
-http://www.usaco.org/index.php?page=viewproblem2&cpid=213 2012 December Problem3. Running$25x*Away$25x*From$25x*the$25x*Barn
-http://www.usaco.org/index.php?page=viewproblem2&cpid=223 2013 January Problem1. Mirrors
-http://www.usaco.org/index.php?page=viewproblem2&cpid=224 2013 January Problem2. Painting$25x*the$25x*Fence
-http://www.usaco.org/index.php?page=viewproblem2&cpid=225 2013 January Problem3. Liars$25x*and$25x*Truth$25x*Tellers
-http://www.usaco.org/index.php?page=viewproblem2&cpid=226 2013 January Problem1. Painting$25x*the$25x*Fence
-http://www.usaco.org/index.php?page=viewproblem2&cpid=227 2013 January Problem2. Square$25x*Overlap
-http://www.usaco.org/index.php?page=viewproblem2&cpid=228 2013 January Problem3. Party$25x*Invitations
-http://www.usaco.org/index.php?page=viewproblem2&cpid=229 2013 January Problem1. Cow$25x*Lineup
-http://www.usaco.org/index.php?page=viewproblem2&cpid=230 2013 January Problem2. Island$25x*Travels
-http://www.usaco.org/index.php?page=viewproblem2&cpid=231 2013 January Problem3. Seating
-http://www.usaco.org/index.php?page=viewproblem2&cpid=241 2013 February Problem1. Message$25x*Relay
-http://www.usaco.org/index.php?page=viewproblem2&cpid=242 2013 February Problem2. Cow$25x*Crossings
-http://www.usaco.org/index.php?page=viewproblem2&cpid=243 2013 February Problem3. Perimeter
-http://www.usaco.org/index.php?page=viewproblem2&cpid=244 2013 February Problem1. Perimeter
-http://www.usaco.org/index.php?page=viewproblem2&cpid=245 2013 February Problem2. Tractor
-http://www.usaco.org/index.php?page=viewproblem2&cpid=246 2013 February Problem3. Milk$25x*Scheduling
-http://www.usaco.org/index.php?page=viewproblem2&cpid=247 2013 February Problem1. Partitioning$25x*the$25x*Farm
-http://www.usaco.org/index.php?page=viewproblem2&cpid=248 2013 February Problem2. Taxi
-http://www.usaco.org/index.php?page=viewproblem2&cpid=249 2013 February Problem3. Route$25x*Design
-http://www.usaco.org/index.php?page=viewproblem2&cpid=259 2013 March Problem1. Cow$25x*Race
-http://www.usaco.org/index.php?page=viewproblem2&cpid=260 2013 March Problem2. Breed$25x*Proximity
-http://www.usaco.org/index.php?page=viewproblem2&cpid=261 2013 March Problem3. Breed$25x*Assignment
-http://www.usaco.org/index.php?page=viewproblem2&cpid=262 2013 March Problem1. Poker$25x*Hands
-http://www.usaco.org/index.php?page=viewproblem2&cpid=263 2013 March Problem2. Farm$25x*Painting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=264 2013 March Problem3. The$25x*Cow$25x*Run
-http://www.usaco.org/index.php?page=viewproblem2&cpid=265 2013 March Problem1. The$25x*Cow$25x*Run
-http://www.usaco.org/index.php?page=viewproblem2&cpid=266 2013 March Problem2. Hill$25x*Walk
-http://www.usaco.org/index.php?page=viewproblem2&cpid=267 2013 March Problem3. Necklace
-http://www.usaco.org/index.php?page=viewproblem2&cpid=278 2013 USOpen, Problem1. Bovine$25x*Ballet
-http://www.usaco.org/index.php?page=viewproblem2&cpid=279 2013 USOpen, Problem2. Blink
-http://www.usaco.org/index.php?page=viewproblem2&cpid=280 2013 USOpen, Problem3. Photo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=281 2013 USOpen, Problem4. Haywire
-http://www.usaco.org/index.php?page=viewproblem2&cpid=282 2013 USOpen, Problem1. What's$25x*Up$25x*With$25x*Gravity
-http://www.usaco.org/index.php?page=viewproblem2&cpid=283 2013 USOpen, Problem2. Fuel$25x*Economy
-http://www.usaco.org/index.php?page=viewproblem2&cpid=284 2013 USOpen, Problem3. Luxury$25x*River$25x*Cruise
-http://www.usaco.org/index.php?page=viewproblem2&cpid=285 2013 USOpen, Problem1. Photo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=286 2013 USOpen, Problem2. Yin$25x*and$25x*Yang
-http://www.usaco.org/index.php?page=viewproblem2&cpid=287 2013 USOpen, Problem3. Figure$25x*Eight
-http://www.usaco.org/index.php?page=viewproblem2&cpid=340 2013 November Problem1. Combination$25x*Lock
-http://www.usaco.org/index.php?page=viewproblem2&cpid=341 2013 November Problem2. Goldilocks$25x*and$25x*the$25x*N$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=342 2013 November Problem3. Farmer$25x*John$25x*has$25x*no$25x*Large$25x*Brown$25x*Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=343 2013 November Problem1. Farmer$25x*John$25x*has$25x*no$25x*Large$25x*Brown$25x*Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=344 2013 November Problem2. Crowded$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=345 2013 November Problem3. Pogo-Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=346 2013 November Problem1. Empty$25x*Stalls
-http://www.usaco.org/index.php?page=viewproblem2&cpid=347 2013 November Problem2. Line$25x*of$25x*Sight
-http://www.usaco.org/index.php?page=viewproblem2&cpid=348 2013 November Problem3. No$25x*Change
-http://www.usaco.org/index.php?page=viewproblem2&cpid=358 2013 December Problem1. Record$25x*Keeping
-http://www.usaco.org/index.php?page=viewproblem2&cpid=359 2013 December Problem2. Cow$25x*Baseball
-http://www.usaco.org/index.php?page=viewproblem2&cpid=360 2013 December Problem3. Wormholes
-http://www.usaco.org/index.php?page=viewproblem2&cpid=361 2013 December Problem1. Milk$25x*Scheduling
-http://www.usaco.org/index.php?page=viewproblem2&cpid=362 2013 December Problem2. Vacation$25x*Planning
-http://www.usaco.org/index.php?page=viewproblem2&cpid=363 2013 December Problem3. The$25x*Bessie$25x*Shuffle
-http://www.usaco.org/index.php?page=viewproblem2&cpid=364 2013 December Problem1. Vacation$25x*Planning$25x*(gold)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=365 2013 December Problem2. Optimal$25x*Milking
-http://www.usaco.org/index.php?page=viewproblem2&cpid=366 2013 December Problem3. The$25x*Bessie$25x*Shuffle$25x*(gold)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=376 2014 January Problem1. Ski$25x*Course$25x*Design
-http://www.usaco.org/index.php?page=viewproblem2&cpid=377 2014 January Problem2. Bessie$25x*Slows$25x*Down
-http://www.usaco.org/index.php?page=viewproblem2&cpid=378 2014 January Problem3. Balanced$25x*Teams
-http://www.usaco.org/index.php?page=viewproblem2&cpid=379 2014 January Problem1. Bessie$25x*Slows$25x*Down
-http://www.usaco.org/index.php?page=viewproblem2&cpid=380 2014 January Problem2. Cross$25x*Country$25x*Skiing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=381 2014 January Problem3. Recording$25x*the$25x*Moolympics
-http://www.usaco.org/index.php?page=viewproblem2&cpid=382 2014 January Problem1. Cow$25x*Curling
-http://www.usaco.org/index.php?page=viewproblem2&cpid=383 2014 January Problem2. Building$25x*a$25x*Ski$25x*Course
-http://www.usaco.org/index.php?page=viewproblem2&cpid=384 2014 January Problem3. Ski$25x*Course$25x*Rating
-http://www.usaco.org/index.php?page=viewproblem2&cpid=394 2014 February Problem1. Mirror$25x*Field
-http://www.usaco.org/index.php?page=viewproblem2&cpid=395 2014 February Problem2. Auto-Complete
-http://www.usaco.org/index.php?page=viewproblem2&cpid=396 2014 February Problem3. Secret$25x*Code
-http://www.usaco.org/index.php?page=viewproblem2&cpid=397 2014 February Problem1. Auto-Complete
-http://www.usaco.org/index.php?page=viewproblem2&cpid=398 2014 February Problem2. Roadblock
-http://www.usaco.org/index.php?page=viewproblem2&cpid=399 2014 February Problem3. Secret$25x*Code
-http://www.usaco.org/index.php?page=viewproblem2&cpid=400 2014 February Problem1. Roadblock
-http://www.usaco.org/index.php?page=viewproblem2&cpid=401 2014 February Problem2. Cow$25x*Decathlon
-http://www.usaco.org/index.php?page=viewproblem2&cpid=402 2014 February Problem3. Airplane$25x*Boarding
-http://www.usaco.org/index.php?page=viewproblem2&cpid=412 2014 March Problem1. Reordering$25x*the$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=413 2014 March Problem2. The$25x*Lazy$25x*Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=414 2014 March Problem3. Cow$25x*Art
-http://www.usaco.org/index.php?page=viewproblem2&cpid=415 2014 March Problem1. Watering$25x*the$25x*Fields
-http://www.usaco.org/index.php?page=viewproblem2&cpid=416 2014 March Problem2. The$25x*Lazy$25x*Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=417 2014 March Problem3. Mooo$25x*Moo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=418 2014 March Problem1. The$25x*Lazy$25x*Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=419 2014 March Problem2. Sabotage
-http://www.usaco.org/index.php?page=viewproblem2&cpid=420 2014 March Problem3. Counting$25x*Friends
-http://www.usaco.org/index.php?page=viewproblem2&cpid=430 2014 USOpen, Problem1. Odometer
-http://www.usaco.org/index.php?page=viewproblem2&cpid=431 2014 USOpen, Problem2. Fair$25x*Photography
-http://www.usaco.org/index.php?page=viewproblem2&cpid=432 2014 USOpen, Problem3. Decorating$25x*the$25x*Pastures
-http://www.usaco.org/index.php?page=viewproblem2&cpid=433 2014 USOpen, Problem1. Fair$25x*Photography
-http://www.usaco.org/index.php?page=viewproblem2&cpid=434 2014 USOpen, Problem2. Dueling$25x*GPSs
-http://www.usaco.org/index.php?page=viewproblem2&cpid=435 2014 USOpen, Problem3. Odometer
-http://www.usaco.org/index.php?page=viewproblem2&cpid=436 2014 USOpen, Problem1. Fair$25x*Photography
-http://www.usaco.org/index.php?page=viewproblem2&cpid=437 2014 USOpen, Problem2. Cow$25x*Optics
-http://www.usaco.org/index.php?page=viewproblem2&cpid=438 2014 USOpen, Problem3. Code$25x*Breaking
-http://www.usaco.org/index.php?page=viewproblem2&cpid=487 2014 December Problem1. Marathon
-http://www.usaco.org/index.php?page=viewproblem2&cpid=488 2014 December Problem2. Crosswords
-http://www.usaco.org/index.php?page=viewproblem2&cpid=489 2014 December Problem3. Cow$25x*Jog
-http://www.usaco.org/index.php?page=viewproblem2&cpid=490 2014 December Problem4. Learning$25x*by$25x*Example
-http://www.usaco.org/index.php?page=viewproblem2&cpid=491 2014 December Problem1. Piggyback
-http://www.usaco.org/index.php?page=viewproblem2&cpid=492 2014 December Problem2. Marathon
-http://www.usaco.org/index.php?page=viewproblem2&cpid=493 2014 December Problem3. Cow$25x*Jog
-http://www.usaco.org/index.php?page=viewproblem2&cpid=494 2014 December Problem1. Guard$25x*Mark
-http://www.usaco.org/index.php?page=viewproblem2&cpid=495 2014 December Problem2. Marathon
-http://www.usaco.org/index.php?page=viewproblem2&cpid=496 2014 December Problem3. Cow$25x*Jog
-http://www.usaco.org/index.php?page=viewproblem2&cpid=507 2015 January Problem1. Cow$25x*Routing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=508 2015 January Problem2. Cow$25x*Routing$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=509 2015 January Problem3. It's$25x*All$25x*About$25x*the$25x*Base
-http://www.usaco.org/index.php?page=viewproblem2&cpid=510 2015 January Problem4. Meeting$25x*Time
-http://www.usaco.org/index.php?page=viewproblem2&cpid=511 2015 January Problem1. Stampede
-http://www.usaco.org/index.php?page=viewproblem2&cpid=512 2015 January Problem2. Cow$25x*Routing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=513 2015 January Problem3. Meeting$25x*Time
-http://www.usaco.org/index.php?page=viewproblem2&cpid=514 2015 January Problem1. Cow$25x*Rectangles
-http://www.usaco.org/index.php?page=viewproblem2&cpid=515 2015 January Problem2. Moovie$25x*Mooving
-http://www.usaco.org/index.php?page=viewproblem2&cpid=516 2015 January Problem3. Grass$25x*Cownoisseur
-http://www.usaco.org/index.php?page=viewproblem2&cpid=526 2015 February Problem1. Censoring$25x*(Bronze)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=527 2015 February Problem2. COW
-http://www.usaco.org/index.php?page=viewproblem2&cpid=528 2015 February Problem3. Cow$25x*Hopscotch$25x*(Bronze)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=529 2015 February Problem1. Censoring$25x*(Silver)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=530 2015 February Problem2. Cow$25x*Hopscotch$25x*(Silver)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=531 2015 February Problem3. Superbull
-http://www.usaco.org/index.php?page=viewproblem2&cpid=532 2015 February Problem1. Cow$25x*Hopscotch$25x*(Gold)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=533 2015 February Problem2. Censoring$25x*(Gold)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=534 2015 February Problem3. Fencing$25x*the$25x*Herd
-http://www.usaco.org/index.php?page=viewproblem2&cpid=545 2015 USOpen, Problem1. Moocryption
-http://www.usaco.org/index.php?page=viewproblem2&cpid=546 2015 USOpen, Problem2. Bessie$25x*Gets$25x*Even
-http://www.usaco.org/index.php?page=viewproblem2&cpid=547 2015 USOpen, Problem3. Trapped$25x*in$25x*the$25x*Haybales$25x*(Bronze)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=548 2015 USOpen, Problem4. Palindromic$25x*Paths$25x*(Bronze)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=549 2015 USOpen, Problem1. Bessie$25x*Goes$25x*Moo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=550 2015 USOpen, Problem2. Trapped$25x*in$25x*the$25x*Haybales$25x*(Silver)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=551 2015 USOpen, Problem3. Bessie's$25x*Birthday$25x*Buffet
-http://www.usaco.org/index.php?page=viewproblem2&cpid=552 2015 USOpen, Problem1. Googol
-http://www.usaco.org/index.php?page=viewproblem2&cpid=553 2015 USOpen, Problem2. Palindromic$25x*Paths
-http://www.usaco.org/index.php?page=viewproblem2&cpid=554 2015 USOpen, Problem3. Trapped$25x*in$25x*the$25x*Haybales$25x*(Gold)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=567 2015 December Problem1. Fence$25x*Painting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=568 2015 December Problem2. Speeding$25x*Ticket
-http://www.usaco.org/index.php?page=viewproblem2&cpid=569 2015 December Problem3. Contaminated$25x*Milk
-http://www.usaco.org/index.php?page=viewproblem2&cpid=570 2015 December Problem1. Switching$25x*on$25x*the$25x*Lights
-http://www.usaco.org/index.php?page=viewproblem2&cpid=571 2015 December Problem2. High$25x*Card$25x*Wins
-http://www.usaco.org/index.php?page=viewproblem2&cpid=572 2015 December Problem3. Breed$25x*Counting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=573 2015 December Problem1. High$25x*Card$25x*Low$25x*Card$25x*(Gold)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=574 2015 December Problem2. Fruit$25x*Feast
-http://www.usaco.org/index.php?page=viewproblem2&cpid=575 2015 December Problem3. Bessie's$25x*Dream
-http://www.usaco.org/index.php?page=viewproblem2&cpid=576 2015 December Problem1. Max$25x*Flow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=577 2015 December Problem2. High$25x*Card$25x*Low$25x*Card$25x*(Platinum)
-http://www.usaco.org/index.php?page=viewproblem2&cpid=578 2015 December Problem3. Counting$25x*Haybales
-http://www.usaco.org/index.php?page=viewproblem2&cpid=591 2016 January Problem1. Promotion$25x*Counting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=592 2016 January Problem2. Angry$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=593 2016 January Problem3. Mowing$25x*the$25x*Field
-http://www.usaco.org/index.php?page=viewproblem2&cpid=594 2016 January Problem1. Angry$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=595 2016 January Problem2. Subsequences$25x*Summing$25x*to$25x*Sevens
-http://www.usaco.org/index.php?page=viewproblem2&cpid=596 2016 January Problem3. Build$25x*Gates
-http://www.usaco.org/index.php?page=viewproblem2&cpid=597 2016 January Problem1. Angry$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=598 2016 January Problem2. Radio$25x*Contact
-http://www.usaco.org/index.php?page=viewproblem2&cpid=599 2016 January Problem3. Lights$25x*Out
-http://www.usaco.org/index.php?page=viewproblem2&cpid=600 2016 January Problem1. Fort$25x*Moo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=601 2016 January Problem2. Mowing$25x*the$25x*Field
-http://www.usaco.org/index.php?page=viewproblem2&cpid=602 2016 January Problem3. Lights$25x*Out
-http://www.usaco.org/index.php?page=viewproblem2&cpid=615 2016 February Problem1. Milk$25x*Pails
-http://www.usaco.org/index.php?page=viewproblem2&cpid=616 2016 February Problem2. Circular$25x*Barn
-http://www.usaco.org/index.php?page=viewproblem2&cpid=617 2016 February Problem3. Load$25x*Balancing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=618 2016 February Problem1. Circular$25x*Barn
-http://www.usaco.org/index.php?page=viewproblem2&cpid=619 2016 February Problem2. Load$25x*Balancing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=620 2016 February Problem3. Milk$25x*Pails
-http://www.usaco.org/index.php?page=viewproblem2&cpid=621 2016 February Problem1. Circular$25x*Barn
-http://www.usaco.org/index.php?page=viewproblem2&cpid=622 2016 February Problem2. Circular$25x*Barn$25x*Revisited
-http://www.usaco.org/index.php?page=viewproblem2&cpid=623 2016 February Problem3. Fenced$25x*In
-http://www.usaco.org/index.php?page=viewproblem2&cpid=624 2016 February Problem1. Load$25x*Balancing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=625 2016 February Problem2. Fenced$25x*In
-http://www.usaco.org/index.php?page=viewproblem2&cpid=626 2016 February Problem3. Circular$25x*Barn
-http://www.usaco.org/index.php?page=viewproblem2&cpid=639 2016 USOpen Problem1. Diamond$25x*Collector
-http://www.usaco.org/index.php?page=viewproblem2&cpid=640 2016 USOpen Problem2. Bull$25x*in$25x*a$25x*China$25x*Shop
-http://www.usaco.org/index.php?page=viewproblem2&cpid=641 2016 USOpen Problem3. Field$25x*Reduction
-http://www.usaco.org/index.php?page=viewproblem2&cpid=642 2016 USOpen Problem1. Field$25x*Reduction
-http://www.usaco.org/index.php?page=viewproblem2&cpid=643 2016 USOpen Problem2. Diamond$25x*Collector
-http://www.usaco.org/index.php?page=viewproblem2&cpid=644 2016 USOpen Problem3. Closing$25x*the$25x*Farm
-http://www.usaco.org/index.php?page=viewproblem2&cpid=645 2016 USOpen Problem1. Splitting$25x*the$25x*Field
-http://www.usaco.org/index.php?page=viewproblem2&cpid=646 2016 USOpen Problem2. Closing$25x*the$25x*Farm
-http://www.usaco.org/index.php?page=viewproblem2&cpid=647 2016 USOpen Problem3. 248
-http://www.usaco.org/index.php?page=viewproblem2&cpid=648 2016 USOpen Problem1. 262144
-http://www.usaco.org/index.php?page=viewproblem2&cpid=649 2016 USOpen Problem2. Bull$25x*in$25x*a$25x*China$25x*Shop
-http://www.usaco.org/index.php?page=viewproblem2&cpid=650 2016 USOpen Problem3. Landscaping
-http://www.usaco.org/index.php?page=viewproblem2&cpid=663 2016 December Problem1. Square$25x*Pasture
-http://www.usaco.org/index.php?page=viewproblem2&cpid=664 2016 December Problem2. Block$25x*Game
-http://www.usaco.org/index.php?page=viewproblem2&cpid=665 2016 December Problem3. The$25x*Cow-Signal
-http://www.usaco.org/index.php?page=viewproblem2&cpid=666 2016 December Problem1. Counting$25x*Haybales
-http://www.usaco.org/index.php?page=viewproblem2&cpid=667 2016 December Problem2. Cities$25x*and$25x*States
-http://www.usaco.org/index.php?page=viewproblem2&cpid=668 2016 December Problem3. Moocast
-http://www.usaco.org/index.php?page=viewproblem2&cpid=669 2016 December Problem1. Moocast
-http://www.usaco.org/index.php?page=viewproblem2&cpid=670 2016 December Problem2. Cow$25x*Checklist
-http://www.usaco.org/index.php?page=viewproblem2&cpid=671 2016 December Problem3. Lasers$25x*and$25x*Mirrors
-http://www.usaco.org/index.php?page=viewproblem2&cpid=672 2016 December Problem1. Lots$25x*of$25x*Triangles
-http://www.usaco.org/index.php?page=viewproblem2&cpid=673 2016 December Problem2. Team$25x*Building
-http://www.usaco.org/index.php?page=viewproblem2&cpid=674 2016 December Problem3. Robotic$25x*Cow$25x*Herd
-http://www.usaco.org/index.php?page=viewproblem2&cpid=687 2017 January Problem1. Don't$25x*Be$25x*Last!
-http://www.usaco.org/index.php?page=viewproblem2&cpid=688 2017 January Problem2. Hoof,$25x*Paper,$25x*Scissors
-http://www.usaco.org/index.php?page=viewproblem2&cpid=689 2017 January Problem3. Cow$25x*Tipping
-http://www.usaco.org/index.php?page=viewproblem2&cpid=690 2017 January Problem1. Cow$25x*Dance$25x*Show
-http://www.usaco.org/index.php?page=viewproblem2&cpid=691 2017 January Problem2. Hoof,$25x*Paper,$25x*Scissors
-http://www.usaco.org/index.php?page=viewproblem2&cpid=692 2017 January Problem3. Secret$25x*Cow$25x*Code
-http://www.usaco.org/index.php?page=viewproblem2&cpid=693 2017 January Problem1. Balanced$25x*Photo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=694 2017 January Problem2. Hoof,$25x*Paper,$25x*Scissors
-http://www.usaco.org/index.php?page=viewproblem2&cpid=695 2017 January Problem3. Cow$25x*Navigation
-http://www.usaco.org/index.php?page=viewproblem2&cpid=696 2017 January Problem1. Promotion$25x*Counting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=697 2017 January Problem2. Building$25x*a$25x*Tall$25x*Barn
-http://www.usaco.org/index.php?page=viewproblem2&cpid=698 2017 January Problem3. Subsequence$25x*Reversal
-http://www.usaco.org/index.php?page=viewproblem2&cpid=711 2017 February Problem1. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road
-http://www.usaco.org/index.php?page=viewproblem2&cpid=712 2017 February Problem2. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=713 2017 February Problem3. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*III
-http://www.usaco.org/index.php?page=viewproblem2&cpid=714 2017 February Problem1. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road
-http://www.usaco.org/index.php?page=viewproblem2&cpid=715 2017 February Problem2. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=716 2017 February Problem3. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*III
-http://www.usaco.org/index.php?page=viewproblem2&cpid=717 2017 February Problem1. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road
-http://www.usaco.org/index.php?page=viewproblem2&cpid=718 2017 February Problem2. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=719 2017 February Problem3. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*III
-http://www.usaco.org/index.php?page=viewproblem2&cpid=720 2017 February Problem1. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road
-http://www.usaco.org/index.php?page=viewproblem2&cpid=721 2017 February Problem2. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=722 2017 February Problem3. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*III
-http://www.usaco.org/index.php?page=viewproblem2&cpid=735 2017 USOpen Problem1. The$25x*Lost$25x*Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=736 2017 USOpen Problem2. Bovine$25x*Genomics
-http://www.usaco.org/index.php?page=viewproblem2&cpid=737 2017 USOpen Problem3. Modern$25x*Art
-http://www.usaco.org/index.php?page=viewproblem2&cpid=738 2017 USOpen Problem1. Paired$25x*Up
-http://www.usaco.org/index.php?page=viewproblem2&cpid=739 2017 USOpen Problem2. Bovine$25x*Genomics
-http://www.usaco.org/index.php?page=viewproblem2&cpid=740 2017 USOpen Problem3. Where's$25x*Bessie?
-http://www.usaco.org/index.php?page=viewproblem2&cpid=741 2017 USOpen Problem1. Bovine$25x*Genomics
-http://www.usaco.org/index.php?page=viewproblem2&cpid=742 2017 USOpen Problem2. Modern$25x*Art
-http://www.usaco.org/index.php?page=viewproblem2&cpid=743 2017 USOpen Problem3. Modern$25x*Art$25x*2
-http://www.usaco.org/index.php?page=viewproblem2&cpid=744 2017 USOpen Problem1. Modern$25x*Art
-http://www.usaco.org/index.php?page=viewproblem2&cpid=745 2017 USOpen Problem2. Switch$25x*Grass
-http://www.usaco.org/index.php?page=viewproblem2&cpid=746 2017 USOpen Problem3. COWBASIC
-http://www.usaco.org/index.php?page=viewproblem2&cpid=759 2017 December Problem1. Blocked$25x*Billboard
-http://www.usaco.org/index.php?page=viewproblem2&cpid=760 2017 December Problem2. The$25x*Bovine$25x*Shuffle
-http://www.usaco.org/index.php?page=viewproblem2&cpid=761 2017 December Problem3. Milk$25x*Measurement
-http://www.usaco.org/index.php?page=viewproblem2&cpid=762 2017 December Problem1. My$25x*Cow$25x*Ate$25x*My$25x*Homework
-http://www.usaco.org/index.php?page=viewproblem2&cpid=763 2017 December Problem2. Milk$25x*Measurement
-http://www.usaco.org/index.php?page=viewproblem2&cpid=764 2017 December Problem3. The$25x*Bovine$25x*Shuffle
-http://www.usaco.org/index.php?page=viewproblem2&cpid=765 2017 December Problem1. A$25x*Pie$25x*for$25x*a$25x*Pie
-http://www.usaco.org/index.php?page=viewproblem2&cpid=766 2017 December Problem2. Barn$25x*Painting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=767 2017 December Problem3. Haybale$25x*Feast
-http://www.usaco.org/index.php?page=viewproblem2&cpid=768 2017 December Problem1. Standing$25x*Out$25x*from$25x*the$25x*Herd
-http://www.usaco.org/index.php?page=viewproblem2&cpid=769 2017 December Problem2. Push$25x*a$25x*Box
-http://www.usaco.org/index.php?page=viewproblem2&cpid=770 2017 December Problem3. Greedy$25x*Gift$25x*Takers
-http://www.usaco.org/index.php?page=viewproblem2&cpid=783 2018 January Problem1. Blocked$25x*Billboard$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=784 2018 January Problem2. Lifeguards
-http://www.usaco.org/index.php?page=viewproblem2&cpid=785 2018 January Problem3. Out$25x*of$25x*Place
-http://www.usaco.org/index.php?page=viewproblem2&cpid=786 2018 January Problem1. Lifeguards
-http://www.usaco.org/index.php?page=viewproblem2&cpid=787 2018 January Problem2. Rental$25x*Service
-http://www.usaco.org/index.php?page=viewproblem2&cpid=788 2018 January Problem3. MooTube
-http://www.usaco.org/index.php?page=viewproblem2&cpid=789 2018 January Problem1. MooTube
-http://www.usaco.org/index.php?page=viewproblem2&cpid=790 2018 January Problem2. Cow$25x*at$25x*Large
-http://www.usaco.org/index.php?page=viewproblem2&cpid=791 2018 January Problem3. Stamp$25x*Painting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=792 2018 January Problem1. Lifeguards
-http://www.usaco.org/index.php?page=viewproblem2&cpid=793 2018 January Problem2. Cow$25x*at$25x*Large
-http://www.usaco.org/index.php?page=viewproblem2&cpid=794 2018 January Problem3. Sprinklers
-http://www.usaco.org/index.php?page=viewproblem2&cpid=807 2018 February Problem1. Teleportation
-http://www.usaco.org/index.php?page=viewproblem2&cpid=808 2018 February Problem2. Hoofball
-http://www.usaco.org/index.php?page=viewproblem2&cpid=809 2018 February Problem3. Taming$25x*the$25x*Herd
-http://www.usaco.org/index.php?page=viewproblem2&cpid=810 2018 February Problem1. Rest$25x*Stops
-http://www.usaco.org/index.php?page=viewproblem2&cpid=811 2018 February Problem2. Snow$25x*Boots
-http://www.usaco.org/index.php?page=viewproblem2&cpid=812 2018 February Problem3. Teleportation
-http://www.usaco.org/index.php?page=viewproblem2&cpid=813 2018 February Problem1. Snow$25x*Boots
-http://www.usaco.org/index.php?page=viewproblem2&cpid=814 2018 February Problem2. Directory$25x*Traversal
-http://www.usaco.org/index.php?page=viewproblem2&cpid=815 2018 February Problem3. Taming$25x*the$25x*Herd
-http://www.usaco.org/index.php?page=viewproblem2&cpid=816 2018 February Problem1. Slingshot
-http://www.usaco.org/index.php?page=viewproblem2&cpid=817 2018 February Problem2. New$25x*Barns
-http://www.usaco.org/index.php?page=viewproblem2&cpid=818 2018 February Problem3. Cow$25x*Gymnasts
-http://www.usaco.org/index.php?page=viewproblem2&cpid=831 2018 USOpen Problem1. Team$25x*Tic$25x*Tac$25x*Toe
-http://www.usaco.org/index.php?page=viewproblem2&cpid=832 2018 USOpen Problem2. Milking$25x*Order
-http://www.usaco.org/index.php?page=viewproblem2&cpid=833 2018 USOpen Problem3. Family$25x*Tree
-http://www.usaco.org/index.php?page=viewproblem2&cpid=834 2018 USOpen Problem1. Out$25x*of$25x*Sorts
-http://www.usaco.org/index.php?page=viewproblem2&cpid=835 2018 USOpen Problem2. Lemonade$25x*Line
-http://www.usaco.org/index.php?page=viewproblem2&cpid=836 2018 USOpen Problem3. Multiplayer$25x*Moo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=837 2018 USOpen Problem1. Out$25x*of$25x*Sorts
-http://www.usaco.org/index.php?page=viewproblem2&cpid=838 2018 USOpen Problem2. Milking$25x*Order
-http://www.usaco.org/index.php?page=viewproblem2&cpid=839 2018 USOpen Problem3. Talent$25x*Show
-http://www.usaco.org/index.php?page=viewproblem2&cpid=840 2018 USOpen Problem1. Out$25x*of$25x*Sorts
-http://www.usaco.org/index.php?page=viewproblem2&cpid=841 2018 USOpen Problem2. Train$25x*Tracking
-http://www.usaco.org/index.php?page=viewproblem2&cpid=842 2018 USOpen Problem3. Disruption
-http://www.usaco.org/index.php?page=viewproblem2&cpid=855 2018 December Problem1. Mixing$25x*Milk
-http://www.usaco.org/index.php?page=viewproblem2&cpid=856 2018 December Problem2. The$25x*Bucket$25x*List
-http://www.usaco.org/index.php?page=viewproblem2&cpid=857 2018 December Problem3. Back$25x*and$25x*Forth
-http://www.usaco.org/index.php?page=viewproblem2&cpid=858 2018 December Problem1. Convention
-http://www.usaco.org/index.php?page=viewproblem2&cpid=859 2018 December Problem2. Convention$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=860 2018 December Problem3. Mooyo$25x*Mooyo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=861 2018 December Problem1. Fine$25x*Dining
-http://www.usaco.org/index.php?page=viewproblem2&cpid=862 2018 December Problem2. Cowpatibility
-http://www.usaco.org/index.php?page=viewproblem2&cpid=863 2018 December Problem3. Teamwork
-http://www.usaco.org/index.php?page=viewproblem2&cpid=864 2018 December Problem1. Balance$25x*Beam
-http://www.usaco.org/index.php?page=viewproblem2&cpid=865 2018 December Problem2. Sort$25x*It$25x*Out
-http://www.usaco.org/index.php?page=viewproblem2&cpid=866 2018 December Problem3. The$25x*Cow$25x*Gathering
-http://www.usaco.org/index.php?page=viewproblem2&cpid=891 2019 January Problem1. Shell$25x*Game
-http://www.usaco.org/index.php?page=viewproblem2&cpid=892 2019 January Problem2. Sleepy$25x*Cow$25x*Sorting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=893 2019 January Problem3. Guess$25x*the$25x*Animal
-http://www.usaco.org/index.php?page=viewproblem2&cpid=894 2019 January Problem1. Grass$25x*Planting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=895 2019 January Problem2. Icy$25x*Perimeter
-http://www.usaco.org/index.php?page=viewproblem2&cpid=896 2019 January Problem3. Mountain$25x*View
-http://www.usaco.org/index.php?page=viewproblem2&cpid=897 2019 January Problem1. Cow$25x*Poetry
-http://www.usaco.org/index.php?page=viewproblem2&cpid=898 2019 January Problem2. Sleepy$25x*Cow$25x*Sorting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=899 2019 January Problem3. Shortcut
-http://www.usaco.org/index.php?page=viewproblem2&cpid=900 2019 January Problem1. Redistricting
-http://www.usaco.org/index.php?page=viewproblem2&cpid=901 2019 January Problem2. Exercise$25x*Route
-http://www.usaco.org/index.php?page=viewproblem2&cpid=902 2019 January Problem3. Train$25x*Tracking$25x*2
-http://www.usaco.org/index.php?page=viewproblem2&cpid=915 2019 February Problem1. Sleepy$25x*Cow$25x*Herding
-http://www.usaco.org/index.php?page=viewproblem2&cpid=916 2019 February Problem2. The$25x*Great$25x*Revegetation
-http://www.usaco.org/index.php?page=viewproblem2&cpid=917 2019 February Problem3. Measuring$25x*Traffic
-http://www.usaco.org/index.php?page=viewproblem2&cpid=918 2019 February Problem1. Sleepy$25x*Cow$25x*Herding
-http://www.usaco.org/index.php?page=viewproblem2&cpid=919 2019 February Problem2. Painting$25x*the$25x*Barn
-http://www.usaco.org/index.php?page=viewproblem2&cpid=920 2019 February Problem3. The$25x*Great$25x*Revegetation
-http://www.usaco.org/index.php?page=viewproblem2&cpid=921 2019 February Problem1. Cow$25x*Land
-http://www.usaco.org/index.php?page=viewproblem2&cpid=922 2019 February Problem2. Dishwashing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=923 2019 February Problem3. Painting$25x*the$25x*Barn
-http://www.usaco.org/index.php?page=viewproblem2&cpid=924 2019 February Problem1. Cow$25x*Dating
-http://www.usaco.org/index.php?page=viewproblem2&cpid=925 2019 February Problem2. Moorio$25x*Kart
-http://www.usaco.org/index.php?page=viewproblem2&cpid=926 2019 February Problem3. Mowing$25x*Mischief
-http://www.usaco.org/index.php?page=viewproblem2&cpid=939 2019 USOpen Problem1. Bucket$25x*Brigade
-http://www.usaco.org/index.php?page=viewproblem2&cpid=940 2019 USOpen Problem2. Milk$25x*Factory
-http://www.usaco.org/index.php?page=viewproblem2&cpid=941 2019 USOpen Problem3. Cow$25x*Evolution
-http://www.usaco.org/index.php?page=viewproblem2&cpid=942 2019 USOpen Problem1. Left$25x*Out
-http://www.usaco.org/index.php?page=viewproblem2&cpid=943 2019 USOpen Problem2. Cow$25x*Steeplechase$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=944 2019 USOpen Problem3. Fence$25x*Planning
-http://www.usaco.org/index.php?page=viewproblem2&cpid=945 2019 USOpen Problem1. Snakes
-http://www.usaco.org/index.php?page=viewproblem2&cpid=946 2019 USOpen Problem2. I$25x*Would$25x*Walk$25x*500$25x*Miles
-http://www.usaco.org/index.php?page=viewproblem2&cpid=947 2019 USOpen Problem3. Balancing$25x*Inversions
-http://www.usaco.org/index.php?page=viewproblem2&cpid=948 2019 USOpen Problem1. Tree$25x*Boxes
-http://www.usaco.org/index.php?page=viewproblem2&cpid=949 2019 USOpen Problem2. Compound$25x*Escape
-http://www.usaco.org/index.php?page=viewproblem2&cpid=950 2019 USOpen Problem3. Valleys
-http://www.usaco.org/index.php?page=viewproblem2&cpid=963 2019 December Problem1. Cow$25x*Gymnastics
-http://www.usaco.org/index.php?page=viewproblem2&cpid=964 2019 December Problem2. Where$25x*Am$25x*I?
-http://www.usaco.org/index.php?page=viewproblem2&cpid=965 2019 December Problem3. Livestock$25x*Lineup
-http://www.usaco.org/index.php?page=viewproblem2&cpid=966 2019 December Problem1. MooBuzz
-http://www.usaco.org/index.php?page=viewproblem2&cpid=967 2019 December Problem2. Meetings
-http://www.usaco.org/index.php?page=viewproblem2&cpid=968 2019 December Problem3. Milk$25x*Visits
-http://www.usaco.org/index.php?page=viewproblem2&cpid=969 2019 December Problem1. Milk$25x*Pumping
-http://www.usaco.org/index.php?page=viewproblem2&cpid=970 2019 December Problem2. Milk$25x*Visits
-http://www.usaco.org/index.php?page=viewproblem2&cpid=971 2019 December Problem3. Moortal$25x*Cowmbat
-http://www.usaco.org/index.php?page=viewproblem2&cpid=972 2019 December Problem1. Greedy$25x*Pie$25x*Eaters
-http://www.usaco.org/index.php?page=viewproblem2&cpid=973 2019 December Problem2. Bessie's$25x*Snow$25x*Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=974 2019 December Problem3. Tree$25x*Depth
-http://www.usaco.org/index.php?page=viewproblem2&cpid=987 2020 January Problem1. Word$25x*Processor
-http://www.usaco.org/index.php?page=viewproblem2&cpid=988 2020 January Problem2. Photoshoot
-http://www.usaco.org/index.php?page=viewproblem2&cpid=989 2020 January Problem3. Race
-http://www.usaco.org/index.php?page=viewproblem2&cpid=990 2020 January Problem1. Berry$25x*Picking
-http://www.usaco.org/index.php?page=viewproblem2&cpid=991 2020 January Problem2. Loan$25x*Repayment
-http://www.usaco.org/index.php?page=viewproblem2&cpid=992 2020 January Problem3. Wormhole$25x*Sort
-http://www.usaco.org/index.php?page=viewproblem2&cpid=993 2020 January Problem1. Time$25x*is$25x*Mooney
-http://www.usaco.org/index.php?page=viewproblem2&cpid=994 2020 January Problem2. Farmer$25x*John$25x*Solves$25x*3SUM
-http://www.usaco.org/index.php?page=viewproblem2&cpid=995 2020 January Problem3. Springboards
-http://www.usaco.org/index.php?page=viewproblem2&cpid=996 2020 January Problem1. Cave$25x*Paintings
-http://www.usaco.org/index.php?page=viewproblem2&cpid=997 2020 January Problem2. Non-Decreasing$25x*Subsequences
-http://www.usaco.org/index.php?page=viewproblem2&cpid=998 2020 January Problem3. Falling$25x*Portals
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1011 2020 February Problem1. Triangles
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1012 2020 February Problem2. Mad$25x*Scientist
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1013 2020 February Problem3. Swapity$25x*Swap
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1014 2020 February Problem1. Swapity$25x*Swapity$25x*Swap
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1015 2020 February Problem2. Triangles
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1016 2020 February Problem3. Clock$25x*Tree
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1017 2020 February Problem1. Timeline
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1018 2020 February Problem2. Help$25x*Yourself
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1019 2020 February Problem3. Delegation
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1020 2020 February Problem1. Delegation
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1021 2020 February Problem2. Equilateral$25x*Triangles
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1022 2020 February Problem3. Help$25x*Yourself
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1035 2020 USOpen Problem1. Social$25x*Distancing$25x*I
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1036 2020 USOpen Problem2. Social$25x*Distancing$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1037 2020 USOpen Problem3. Cowntact$25x*Tracing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1038 2020 USOpen Problem1. Social$25x*Distancing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1039 2020 USOpen Problem2. Cereal
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1040 2020 USOpen Problem3. The$25x*Moo$25x*Particle
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1041 2020 USOpen Problem1. Haircut
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1042 2020 USOpen Problem2. Favorite$25x*Colors
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1043 2020 USOpen Problem3. Exercise
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1044 2020 USOpen Problem1. Sprinklers$25x*2:$25x*Return$25x*of$25x*the$25x*Alfalfa
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1045 2020 USOpen Problem2. Exercise
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1046 2020 USOpen Problem3. Circus
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1059 2020 December Problem1. Do$25x*You$25x*Know$25x*Your$25x*ABCs?
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1060 2020 December Problem2. Daisy$25x*Chains
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1061 2020 December Problem3. Stuck$25x*in$25x*a$25x*Rut
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1062 2020 December Problem1. Cowntagion
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1063 2020 December Problem2. Rectangular$25x*Pasture
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1064 2020 December Problem3. Stuck$25x*in$25x*a$25x*Rut
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1065 2020 December Problem1. Replication
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1066 2020 December Problem2. Bovine$25x*Genetics
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1067 2020 December Problem3. Square$25x*Pasture
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1068 2020 December Problem1. Sleeping$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1069 2020 December Problem2. Spaceship
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1070 2020 December Problem3. Cowmistry
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1083 2021 January Problem1. Uddered$25x*but$25x*not$25x*Herd
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1084 2021 January Problem2. Even$25x*More$25x*Odd$25x*Photos
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1085 2021 January Problem3. Just$25x*Stalling
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1086 2021 January Problem1. Dance$25x*Mooves
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1087 2021 January Problem2. No$25x*Time$25x*to$25x*Paint
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1088 2021 January Problem3. Spaced$25x*Out
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1089 2021 January Problem1. Uddered$25x*but$25x*not$25x*Herd
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1090 2021 January Problem2. Telephone
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1091 2021 January Problem3. Dance$25x*Mooves
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1092 2021 January Problem1. Sum$25x*of$25x*Distances
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1093 2021 January Problem2. Minimum$25x*Cost$25x*Paths
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1094 2021 January Problem3. Paint$25x*by$25x*Letters
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1107 2021 February Problem1. Year$25x*of$25x*the$25x*Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1108 2021 February Problem2. Comfortable$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1109 2021 February Problem3. Clockwise$25x*Fence
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1110 2021 February Problem1. Comfortable$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1111 2021 February Problem2. Year$25x*of$25x*the$25x*Cow
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1112 2021 February Problem3. Just$25x*Green$25x*Enough
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1113 2021 February Problem1. Stone$25x*Game
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1114 2021 February Problem2. Modern$25x*Art$25x*3
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1115 2021 February Problem3. Count$25x*the$25x*Cows
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1116 2021 February Problem1. No$25x*Time$25x*to$25x*Dry
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1117 2021 February Problem2. Minimizing$25x*Edges
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1118 2021 February Problem3. Counting$25x*Graphs
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1131 2021 USOpen, Problem1. Acowdemia$25x*I
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1132 2021 USOpen, Problem2. Acowdemia$25x*II
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1133 2021 USOpen, Problem3. Acowdemia$25x*III
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1134 2021 USOpen, Problem1. Maze$25x*Tac$25x*Toe
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1135 2021 USOpen, Problem2. Do$25x*You$25x*Know$25x*Your$25x*ABCs?
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1136 2021 USOpen, Problem3. Acowdemia
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1137 2021 USOpen, Problem1. United$25x*Cows$25x*of$25x*Farmer$25x*John
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1138 2021 USOpen, Problem2. Portals
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1139 2021 USOpen, Problem3. Permutation
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1140 2021 USOpen, Problem1. United$25x*Cows$25x*of$25x*Farmer$25x*John
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1141 2021 USOpen, Problem2. Routing$25x*Schemes
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1142 2021 USOpen, Problem3. Balanced$25x*Subsets
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1155 2021 December Problem1. Lonely$25x*Photo
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1156 2021 December Problem2. Air$25x*Cownditioning
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1157 2021 December Problem3. Walking$25x*Home
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1158 2021 December Problem1. Closest$25x*Cow$25x*Wins
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1159 2021 December Problem2. Connecting$25x*Two$25x*Barns
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1160 2021 December Problem3. Convoluted$25x*Intervals
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1161 2021 December Problem1. Paired$25x*Up
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1162 2021 December Problem2. HILO
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1163 2021 December Problem3. Bracelet$25x*Crossings
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1164 2021 December Problem1. Tickets
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1165 2021 December Problem2. Paired$25x*Up
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1166 2021 December Problem3. HILO
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1179 2022 January Problem1. Herdle
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1180 2022 January Problem2. Non-Transitive$25x*Dice
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1181 2022 January Problem3. Drought
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1182 2022 January Problem1. Searching$25x*for$25x*Soulmates
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1183 2022 January Problem2. Cow$25x*Frisbee
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1184 2022 January Problem3. Cereal$25x*2
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1185 2022 January Problem1. Drought
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1186 2022 January Problem2. Farm$25x*Updates
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1187 2022 January Problem3. Tests$25x*for$25x*Haybales
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1188 2022 January Problem1. Minimizing$25x*Haybales
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1189 2022 January Problem2. Counting$25x*Haybales
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1190 2022 January Problem3. Multiple$25x*Choice$25x*Test
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1203 2022 February Problem1. Sleeping$25x*in$25x*Class
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1204 2022 February Problem2. Photoshoot$25x*2
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1205 2022 February Problem3. Blocks
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1206 2022 February Problem1. Redistributing$25x*Gifts
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1207 2022 February Problem2. Robot$25x*Instructions
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1208 2022 February Problem3. Email$25x*Filing
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1209 2022 February Problem1. Redistributing$25x*Gifts
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1210 2022 February Problem2. Cow$25x*Camp
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1211 2022 February Problem3. Moo$25x*Network
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1212 2022 February Problem1. Paint$25x*by$25x*Rectangles
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1213 2022 February Problem2. Sleeping$25x*in$25x*Class
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1214 2022 February Problem3. Phone$25x*Numbers
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1227 2022 USOpen Problem1. Photoshoot
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1228 2022 USOpen Problem2. Counting$25x*Liars
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1229 2022 USOpen Problem3. Alchemy
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1230 2022 USOpen Problem1. Visits
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1231 2022 USOpen Problem2. Subset$25x*Equality
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1232 2022 USOpen Problem3. COW$25x*Operations
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1233 2022 USOpen Problem1. Apple$25x*Catching
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1234 2022 USOpen Problem2. Pair$25x*Programming
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1235 2022 USOpen Problem3. Balancing$25x*a$25x*Tree
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1236 2022 USOpen Problem1. 262144$25x*Revisited
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1237 2022 USOpen Problem2. Hoof$25x*and$25x*Brain
-http://www.usaco.org/index.php?page=viewproblem2&cpid=1238 2022 USOpen Problem3. Up$25x*Down$25x*Subsequence
+http://www.usaco.org/index.php?page=viewproblem2&cpid=84 BRONZE 2011 November Problem1. Contest$25x*Timing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=85 BRONZE 2011 November Problem2. Awkward$25x*Digits
+http://www.usaco.org/index.php?page=viewproblem2&cpid=86 BRONZE 2011 November Problem3. Moo$25x*Sick
+http://www.usaco.org/index.php?page=viewproblem2&cpid=87 BRONZE 2011 November Problem4. Cow$25x*Beauty$25x*Pageant$25x*(Bronze$25x*Level)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=88 SILVER 2011 November Problem1. Cow$25x*Beauty$25x*Pageant$25x*(Silver$25x*Level)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=89 SILVER 2011 November Problem2. Cow$25x*Lineup
+http://www.usaco.org/index.php?page=viewproblem2&cpid=90 SILVER 2011 November Problem3. Tile$25x*Exchanging
+http://www.usaco.org/index.php?page=viewproblem2&cpid=91 GOLD 2011 November Problem1. Above$25x*the$25x*Median
+http://www.usaco.org/index.php?page=viewproblem2&cpid=92 GOLD 2011 November Problem2. Binary$25x*Sudoku
+http://www.usaco.org/index.php?page=viewproblem2&cpid=93 GOLD 2011 November Problem3. Cow$25x*Steeplechase
+http://www.usaco.org/index.php?page=viewproblem2&cpid=94 BRONZE 2011 December Problem1. Hay$25x*Bales
+http://www.usaco.org/index.php?page=viewproblem2&cpid=95 BRONZE 2011 December Problem2. Cow$25x*Photography$25x*(Bronze$25x*Level)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=96 BRONZE 2011 December Problem3. Escaping$25x*the$25x*Farm
+http://www.usaco.org/index.php?page=viewproblem2&cpid=97 SILVER 2011 December Problem1. Cow$25x*Photography
+http://www.usaco.org/index.php?page=viewproblem2&cpid=98 SILVER 2011 December Problem2. Roadblock
+http://www.usaco.org/index.php?page=viewproblem2&cpid=99 SILVER 2011 December Problem3. Umbrellas$25x*for$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=100 GOLD 2011 December Problem1. Cow$25x*Photography
+http://www.usaco.org/index.php?page=viewproblem2&cpid=101 GOLD 2011 December Problem2. Simplifying$25x*the$25x*Farm
+http://www.usaco.org/index.php?page=viewproblem2&cpid=102 GOLD 2011 December Problem3. Grass$25x*Planting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=103 BRONZE 2012 January Problem1. Gifts
+http://www.usaco.org/index.php?page=viewproblem2&cpid=104 BRONZE 2012 January Problem2. Haybale$25x*Stacking
+http://www.usaco.org/index.php?page=viewproblem2&cpid=105 BRONZE 2012 January Problem3. Grazing$25x*Patterns
+http://www.usaco.org/index.php?page=viewproblem2&cpid=106 SILVER 2012 January Problem1. Delivery$25x*Route
+http://www.usaco.org/index.php?page=viewproblem2&cpid=107 SILVER 2012 January Problem2. Bale$25x*Share
+http://www.usaco.org/index.php?page=viewproblem2&cpid=108 SILVER 2012 January Problem3. Mountain$25x*Climbing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=109 GOLD 2012 January Problem1. Video$25x*Game
+http://www.usaco.org/index.php?page=viewproblem2&cpid=110 GOLD 2012 January Problem2. Cow$25x*Run
+http://www.usaco.org/index.php?page=viewproblem2&cpid=111 GOLD 2012 January Problem3. Bovine$25x*Alliance
+http://www.usaco.org/index.php?page=viewproblem2&cpid=112 BRONZE 2012 February Problem1. Rope$25x*Folding
+http://www.usaco.org/index.php?page=viewproblem2&cpid=113 BRONZE 2012 February Problem2. Overplanting$25x*(Bronze)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=114 BRONZE 2012 February Problem3. Moo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=115 SILVER 2012 February Problem1. Overplanting$25x*(Silver)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=116 SILVER 2012 February Problem2. Cow$25x*IDs
+http://www.usaco.org/index.php?page=viewproblem2&cpid=117 SILVER 2012 February Problem3. Relocation
+http://www.usaco.org/index.php?page=viewproblem2&cpid=118 GOLD 2012 February Problem1. Cow$25x*Coupons
+http://www.usaco.org/index.php?page=viewproblem2&cpid=119 GOLD 2012 February Problem2. Symmetry
+http://www.usaco.org/index.php?page=viewproblem2&cpid=120 GOLD 2012 February Problem3. Nearby$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=121 BRONZE 2012 March Problem1. Times$25x*17
+http://www.usaco.org/index.php?page=viewproblem2&cpid=122 BRONZE 2012 March Problem2. Connect$25x*the$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=123 BRONZE 2012 March Problem3. Wrong$25x*Directions
+http://www.usaco.org/index.php?page=viewproblem2&cpid=124 SILVER 2012 March Problem1. Tractor
+http://www.usaco.org/index.php?page=viewproblem2&cpid=125 SILVER 2012 March Problem2. Flowerpot
+http://www.usaco.org/index.php?page=viewproblem2&cpid=126 SILVER 2012 March Problem3. Landscaping
+http://www.usaco.org/index.php?page=viewproblem2&cpid=127 GOLD 2012 March Problem1. Large$25x*Banner
+http://www.usaco.org/index.php?page=viewproblem2&cpid=128 GOLD 2012 March Problem2. Haybale$25x*Restacking
+http://www.usaco.org/index.php?page=viewproblem2&cpid=129 GOLD 2012 March Problem3. Cows$25x*in$25x*a$25x*Skyscraper
+http://www.usaco.org/index.php?page=viewproblem2&cpid=130 BRONZE 2012 USOpen, Problem1. Cows$25x*in$25x*a$25x*Row
+http://www.usaco.org/index.php?page=viewproblem2&cpid=131 BRONZE 2012 USOpen, Problem2. Three$25x*Lines
+http://www.usaco.org/index.php?page=viewproblem2&cpid=132 BRONZE 2012 USOpen, Problem3. Islands
+http://www.usaco.org/index.php?page=viewproblem2&cpid=133 BRONZE 2012 USOpen, Problem4. Unlocking$25x*Blocks
+http://www.usaco.org/index.php?page=viewproblem2&cpid=134 SILVER 2012 USOpen, Problem1. Unlocking$25x*Blocks$25x*(Silver)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=135 SILVER 2012 USOpen, Problem2. Bookshelf$25x*(Silver)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=136 SILVER 2012 USOpen, Problem3. Running$25x*Laps
+http://www.usaco.org/index.php?page=viewproblem2&cpid=137 GOLD 2012 USOpen, Problem1. Tied$25x*Down
+http://www.usaco.org/index.php?page=viewproblem2&cpid=138 GOLD 2012 USOpen, Problem2. Bookshelf
+http://www.usaco.org/index.php?page=viewproblem2&cpid=139 GOLD 2012 USOpen, Problem3. Balanced$25x*Cow$25x*Subsets
+http://www.usaco.org/index.php?page=viewproblem2&cpid=187 BRONZE 2012 November Problem1. Find$25x*the$25x*Cow!
+http://www.usaco.org/index.php?page=viewproblem2&cpid=188 BRONZE 2012 November Problem2. Typo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=189 BRONZE 2012 November Problem3. Horseshoes
+http://www.usaco.org/index.php?page=viewproblem2&cpid=190 SILVER 2012 November Problem1. Clumsy$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=191 SILVER 2012 November Problem2. Distant$25x*Pastures
+http://www.usaco.org/index.php?page=viewproblem2&cpid=192 SILVER 2012 November Problem3. Balanced$25x*Cow$25x*Breeds
+http://www.usaco.org/index.php?page=viewproblem2&cpid=193 GOLD 2012 November Problem1. Balanced$25x*Cow$25x*Breeds
+http://www.usaco.org/index.php?page=viewproblem2&cpid=194 GOLD 2012 November Problem2. Concurrently$25x*Balanced$25x*Strings
+http://www.usaco.org/index.php?page=viewproblem2&cpid=195 GOLD 2012 November Problem3. Balanced$25x*Trees
+http://www.usaco.org/index.php?page=viewproblem2&cpid=205 BRONZE 2012 December Problem1. Meet$25x*and$25x*Greet
+http://www.usaco.org/index.php?page=viewproblem2&cpid=206 BRONZE 2012 December Problem2. Scrambled$25x*Letters
+http://www.usaco.org/index.php?page=viewproblem2&cpid=207 BRONZE 2012 December Problem3. Crazy$25x*Fences
+http://www.usaco.org/index.php?page=viewproblem2&cpid=208 SILVER 2012 December Problem1. Crazy$25x*Fences
+http://www.usaco.org/index.php?page=viewproblem2&cpid=209 SILVER 2012 December Problem2. Wifi$25x*Setup
+http://www.usaco.org/index.php?page=viewproblem2&cpid=210 SILVER 2012 December Problem3. Milk$25x*Routing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=211 GOLD 2012 December Problem1. Gangs$25x*of$25x*Instanbull/Cowstantinople
+http://www.usaco.org/index.php?page=viewproblem2&cpid=212 GOLD 2012 December Problem2. First!
+http://www.usaco.org/index.php?page=viewproblem2&cpid=213 GOLD 2012 December Problem3. Running$25x*Away$25x*From$25x*the$25x*Barn
+http://www.usaco.org/index.php?page=viewproblem2&cpid=223 BRONZE 2013 January Problem1. Mirrors
+http://www.usaco.org/index.php?page=viewproblem2&cpid=224 BRONZE 2013 January Problem2. Painting$25x*the$25x*Fence
+http://www.usaco.org/index.php?page=viewproblem2&cpid=225 BRONZE 2013 January Problem3. Liars$25x*and$25x*Truth$25x*Tellers
+http://www.usaco.org/index.php?page=viewproblem2&cpid=226 SILVER 2013 January Problem1. Painting$25x*the$25x*Fence
+http://www.usaco.org/index.php?page=viewproblem2&cpid=227 SILVER 2013 January Problem2. Square$25x*Overlap
+http://www.usaco.org/index.php?page=viewproblem2&cpid=228 SILVER 2013 January Problem3. Party$25x*Invitations
+http://www.usaco.org/index.php?page=viewproblem2&cpid=229 GOLD 2013 January Problem1. Cow$25x*Lineup
+http://www.usaco.org/index.php?page=viewproblem2&cpid=230 GOLD 2013 January Problem2. Island$25x*Travels
+http://www.usaco.org/index.php?page=viewproblem2&cpid=231 GOLD 2013 January Problem3. Seating
+http://www.usaco.org/index.php?page=viewproblem2&cpid=241 BRONZE 2013 February Problem1. Message$25x*Relay
+http://www.usaco.org/index.php?page=viewproblem2&cpid=242 BRONZE 2013 February Problem2. Cow$25x*Crossings
+http://www.usaco.org/index.php?page=viewproblem2&cpid=243 BRONZE 2013 February Problem3. Perimeter
+http://www.usaco.org/index.php?page=viewproblem2&cpid=244 SILVER 2013 February Problem1. Perimeter
+http://www.usaco.org/index.php?page=viewproblem2&cpid=245 SILVER 2013 February Problem2. Tractor
+http://www.usaco.org/index.php?page=viewproblem2&cpid=246 SILVER 2013 February Problem3. Milk$25x*Scheduling
+http://www.usaco.org/index.php?page=viewproblem2&cpid=247 GOLD 2013 February Problem1. Partitioning$25x*the$25x*Farm
+http://www.usaco.org/index.php?page=viewproblem2&cpid=248 GOLD 2013 February Problem2. Taxi
+http://www.usaco.org/index.php?page=viewproblem2&cpid=249 GOLD 2013 February Problem3. Route$25x*Design
+http://www.usaco.org/index.php?page=viewproblem2&cpid=259 BRONZE 2013 March Problem1. Cow$25x*Race
+http://www.usaco.org/index.php?page=viewproblem2&cpid=260 BRONZE 2013 March Problem2. Breed$25x*Proximity
+http://www.usaco.org/index.php?page=viewproblem2&cpid=261 BRONZE 2013 March Problem3. Breed$25x*Assignment
+http://www.usaco.org/index.php?page=viewproblem2&cpid=262 SILVER 2013 March Problem1. Poker$25x*Hands
+http://www.usaco.org/index.php?page=viewproblem2&cpid=263 SILVER 2013 March Problem2. Farm$25x*Painting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=264 SILVER 2013 March Problem3. The$25x*Cow$25x*Run
+http://www.usaco.org/index.php?page=viewproblem2&cpid=265 GOLD 2013 March Problem1. The$25x*Cow$25x*Run
+http://www.usaco.org/index.php?page=viewproblem2&cpid=266 GOLD 2013 March Problem2. Hill$25x*Walk
+http://www.usaco.org/index.php?page=viewproblem2&cpid=267 GOLD 2013 March Problem3. Necklace
+http://www.usaco.org/index.php?page=viewproblem2&cpid=278 BRONZE 2013 USOpen, Problem1. Bovine$25x*Ballet
+http://www.usaco.org/index.php?page=viewproblem2&cpid=279 BRONZE 2013 USOpen, Problem2. Blink
+http://www.usaco.org/index.php?page=viewproblem2&cpid=280 BRONZE 2013 USOpen, Problem3. Photo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=281 BRONZE 2013 USOpen, Problem4. Haywire
+http://www.usaco.org/index.php?page=viewproblem2&cpid=282 SILVER 2013 USOpen, Problem1. What's$25x*Up$25x*With$25x*Gravity
+http://www.usaco.org/index.php?page=viewproblem2&cpid=283 SILVER 2013 USOpen, Problem2. Fuel$25x*Economy
+http://www.usaco.org/index.php?page=viewproblem2&cpid=284 SILVER 2013 USOpen, Problem3. Luxury$25x*River$25x*Cruise
+http://www.usaco.org/index.php?page=viewproblem2&cpid=285 GOLD 2013 USOpen, Problem1. Photo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=286 GOLD 2013 USOpen, Problem2. Yin$25x*and$25x*Yang
+http://www.usaco.org/index.php?page=viewproblem2&cpid=287 GOLD 2013 USOpen, Problem3. Figure$25x*Eight
+http://www.usaco.org/index.php?page=viewproblem2&cpid=340 BRONZE 2013 November Problem1. Combination$25x*Lock
+http://www.usaco.org/index.php?page=viewproblem2&cpid=341 BRONZE 2013 November Problem2. Goldilocks$25x*and$25x*the$25x*N$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=342 BRONZE 2013 November Problem3. Farmer$25x*John$25x*has$25x*no$25x*Large$25x*Brown$25x*Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=343 SILVER 2013 November Problem1. Farmer$25x*John$25x*has$25x*no$25x*Large$25x*Brown$25x*Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=344 SILVER 2013 November Problem2. Crowded$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=345 SILVER 2013 November Problem3. Pogo-Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=346 GOLD 2013 November Problem1. Empty$25x*Stalls
+http://www.usaco.org/index.php?page=viewproblem2&cpid=347 GOLD 2013 November Problem2. Line$25x*of$25x*Sight
+http://www.usaco.org/index.php?page=viewproblem2&cpid=348 GOLD 2013 November Problem3. No$25x*Change
+http://www.usaco.org/index.php?page=viewproblem2&cpid=358 BRONZE 2013 December Problem1. Record$25x*Keeping
+http://www.usaco.org/index.php?page=viewproblem2&cpid=359 BRONZE 2013 December Problem2. Cow$25x*Baseball
+http://www.usaco.org/index.php?page=viewproblem2&cpid=360 BRONZE 2013 December Problem3. Wormholes
+http://www.usaco.org/index.php?page=viewproblem2&cpid=361 SILVER 2013 December Problem1. Milk$25x*Scheduling
+http://www.usaco.org/index.php?page=viewproblem2&cpid=362 SILVER 2013 December Problem2. Vacation$25x*Planning
+http://www.usaco.org/index.php?page=viewproblem2&cpid=363 SILVER 2013 December Problem3. The$25x*Bessie$25x*Shuffle
+http://www.usaco.org/index.php?page=viewproblem2&cpid=364 GOLD 2013 December Problem1. Vacation$25x*Planning$25x*(gold)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=365 GOLD 2013 December Problem2. Optimal$25x*Milking
+http://www.usaco.org/index.php?page=viewproblem2&cpid=366 GOLD 2013 December Problem3. The$25x*Bessie$25x*Shuffle$25x*(gold)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=376 BRONZE 2014 January Problem1. Ski$25x*Course$25x*Design
+http://www.usaco.org/index.php?page=viewproblem2&cpid=377 BRONZE 2014 January Problem2. Bessie$25x*Slows$25x*Down
+http://www.usaco.org/index.php?page=viewproblem2&cpid=378 BRONZE 2014 January Problem3. Balanced$25x*Teams
+http://www.usaco.org/index.php?page=viewproblem2&cpid=379 SILVER 2014 January Problem1. Bessie$25x*Slows$25x*Down
+http://www.usaco.org/index.php?page=viewproblem2&cpid=380 SILVER 2014 January Problem2. Cross$25x*Country$25x*Skiing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=381 SILVER 2014 January Problem3. Recording$25x*the$25x*Moolympics
+http://www.usaco.org/index.php?page=viewproblem2&cpid=382 GOLD 2014 January Problem1. Cow$25x*Curling
+http://www.usaco.org/index.php?page=viewproblem2&cpid=383 GOLD 2014 January Problem2. Building$25x*a$25x*Ski$25x*Course
+http://www.usaco.org/index.php?page=viewproblem2&cpid=384 GOLD 2014 January Problem3. Ski$25x*Course$25x*Rating
+http://www.usaco.org/index.php?page=viewproblem2&cpid=394 BRONZE 2014 February Problem1. Mirror$25x*Field
+http://www.usaco.org/index.php?page=viewproblem2&cpid=395 BRONZE 2014 February Problem2. Auto-Complete
+http://www.usaco.org/index.php?page=viewproblem2&cpid=396 BRONZE 2014 February Problem3. Secret$25x*Code
+http://www.usaco.org/index.php?page=viewproblem2&cpid=397 SILVER 2014 February Problem1. Auto-Complete
+http://www.usaco.org/index.php?page=viewproblem2&cpid=398 SILVER 2014 February Problem2. Roadblock
+http://www.usaco.org/index.php?page=viewproblem2&cpid=399 SILVER 2014 February Problem3. Secret$25x*Code
+http://www.usaco.org/index.php?page=viewproblem2&cpid=400 GOLD 2014 February Problem1. Roadblock
+http://www.usaco.org/index.php?page=viewproblem2&cpid=401 GOLD 2014 February Problem2. Cow$25x*Decathlon
+http://www.usaco.org/index.php?page=viewproblem2&cpid=402 GOLD 2014 February Problem3. Airplane$25x*Boarding
+http://www.usaco.org/index.php?page=viewproblem2&cpid=412 BRONZE 2014 March Problem1. Reordering$25x*the$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=413 BRONZE 2014 March Problem2. The$25x*Lazy$25x*Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=414 BRONZE 2014 March Problem3. Cow$25x*Art
+http://www.usaco.org/index.php?page=viewproblem2&cpid=415 SILVER 2014 March Problem1. Watering$25x*the$25x*Fields
+http://www.usaco.org/index.php?page=viewproblem2&cpid=416 SILVER 2014 March Problem2. The$25x*Lazy$25x*Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=417 SILVER 2014 March Problem3. Mooo$25x*Moo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=418 GOLD 2014 March Problem1. The$25x*Lazy$25x*Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=419 GOLD 2014 March Problem2. Sabotage
+http://www.usaco.org/index.php?page=viewproblem2&cpid=420 GOLD 2014 March Problem3. Counting$25x*Friends
+http://www.usaco.org/index.php?page=viewproblem2&cpid=430 BRONZE 2014 USOpen, Problem1. Odometer
+http://www.usaco.org/index.php?page=viewproblem2&cpid=431 BRONZE 2014 USOpen, Problem2. Fair$25x*Photography
+http://www.usaco.org/index.php?page=viewproblem2&cpid=432 BRONZE 2014 USOpen, Problem3. Decorating$25x*the$25x*Pastures
+http://www.usaco.org/index.php?page=viewproblem2&cpid=433 SILVER 2014 USOpen, Problem1. Fair$25x*Photography
+http://www.usaco.org/index.php?page=viewproblem2&cpid=434 SILVER 2014 USOpen, Problem2. Dueling$25x*GPSs
+http://www.usaco.org/index.php?page=viewproblem2&cpid=435 SILVER 2014 USOpen, Problem3. Odometer
+http://www.usaco.org/index.php?page=viewproblem2&cpid=436 GOLD 2014 USOpen, Problem1. Fair$25x*Photography
+http://www.usaco.org/index.php?page=viewproblem2&cpid=437 GOLD 2014 USOpen, Problem2. Cow$25x*Optics
+http://www.usaco.org/index.php?page=viewproblem2&cpid=438 GOLD 2014 USOpen, Problem3. Code$25x*Breaking
+http://www.usaco.org/index.php?page=viewproblem2&cpid=487 BRONZE 2014 December Problem1. Marathon
+http://www.usaco.org/index.php?page=viewproblem2&cpid=488 BRONZE 2014 December Problem2. Crosswords
+http://www.usaco.org/index.php?page=viewproblem2&cpid=489 BRONZE 2014 December Problem3. Cow$25x*Jog
+http://www.usaco.org/index.php?page=viewproblem2&cpid=490 BRONZE 2014 December Problem4. Learning$25x*by$25x*Example
+http://www.usaco.org/index.php?page=viewproblem2&cpid=491 SILVER 2014 December Problem1. Piggyback
+http://www.usaco.org/index.php?page=viewproblem2&cpid=492 SILVER 2014 December Problem2. Marathon
+http://www.usaco.org/index.php?page=viewproblem2&cpid=493 SILVER 2014 December Problem3. Cow$25x*Jog
+http://www.usaco.org/index.php?page=viewproblem2&cpid=494 GOLD 2014 December Problem1. Guard$25x*Mark
+http://www.usaco.org/index.php?page=viewproblem2&cpid=495 GOLD 2014 December Problem2. Marathon
+http://www.usaco.org/index.php?page=viewproblem2&cpid=496 GOLD 2014 December Problem3. Cow$25x*Jog
+http://www.usaco.org/index.php?page=viewproblem2&cpid=507 BRONZE 2015 January Problem1. Cow$25x*Routing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=508 BRONZE 2015 January Problem2. Cow$25x*Routing$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=509 BRONZE 2015 January Problem3. It's$25x*All$25x*About$25x*the$25x*Base
+http://www.usaco.org/index.php?page=viewproblem2&cpid=510 BRONZE 2015 January Problem4. Meeting$25x*Time
+http://www.usaco.org/index.php?page=viewproblem2&cpid=511 SILVER 2015 January Problem1. Stampede
+http://www.usaco.org/index.php?page=viewproblem2&cpid=512 SILVER 2015 January Problem2. Cow$25x*Routing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=513 SILVER 2015 January Problem3. Meeting$25x*Time
+http://www.usaco.org/index.php?page=viewproblem2&cpid=514 GOLD 2015 January Problem1. Cow$25x*Rectangles
+http://www.usaco.org/index.php?page=viewproblem2&cpid=515 GOLD 2015 January Problem2. Moovie$25x*Mooving
+http://www.usaco.org/index.php?page=viewproblem2&cpid=516 GOLD 2015 January Problem3. Grass$25x*Cownoisseur
+http://www.usaco.org/index.php?page=viewproblem2&cpid=526 BRONZE 2015 February Problem1. Censoring$25x*(Bronze)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=527 BRONZE 2015 February Problem2. COW
+http://www.usaco.org/index.php?page=viewproblem2&cpid=528 BRONZE 2015 February Problem3. Cow$25x*Hopscotch$25x*(Bronze)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=529 SILVER 2015 February Problem1. Censoring$25x*(Silver)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=530 SILVER 2015 February Problem2. Cow$25x*Hopscotch$25x*(Silver)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=531 SILVER 2015 February Problem3. Superbull
+http://www.usaco.org/index.php?page=viewproblem2&cpid=532 GOLD 2015 February Problem1. Cow$25x*Hopscotch$25x*(Gold)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=533 GOLD 2015 February Problem2. Censoring$25x*(Gold)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=534 GOLD 2015 February Problem3. Fencing$25x*the$25x*Herd
+http://www.usaco.org/index.php?page=viewproblem2&cpid=545 BRONZE 2015 USOpen, Problem1. Moocryption
+http://www.usaco.org/index.php?page=viewproblem2&cpid=546 BRONZE 2015 USOpen, Problem2. Bessie$25x*Gets$25x*Even
+http://www.usaco.org/index.php?page=viewproblem2&cpid=547 BRONZE 2015 USOpen, Problem3. Trapped$25x*in$25x*the$25x*Haybales$25x*(Bronze)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=548 BRONZE 2015 USOpen, Problem4. Palindromic$25x*Paths$25x*(Bronze)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=549 SILVER 2015 USOpen, Problem1. Bessie$25x*Goes$25x*Moo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=550 SILVER 2015 USOpen, Problem2. Trapped$25x*in$25x*the$25x*Haybales$25x*(Silver)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=551 SILVER 2015 USOpen, Problem3. Bessie's$25x*Birthday$25x*Buffet
+http://www.usaco.org/index.php?page=viewproblem2&cpid=552 GOLD 2015 USOpen, Problem1. Googol
+http://www.usaco.org/index.php?page=viewproblem2&cpid=553 GOLD 2015 USOpen, Problem2. Palindromic$25x*Paths
+http://www.usaco.org/index.php?page=viewproblem2&cpid=554 GOLD 2015 USOpen, Problem3. Trapped$25x*in$25x*the$25x*Haybales$25x*(Gold)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=567 BRONZE 2015 December Problem1. Fence$25x*Painting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=568 BRONZE 2015 December Problem2. Speeding$25x*Ticket
+http://www.usaco.org/index.php?page=viewproblem2&cpid=569 BRONZE 2015 December Problem3. Contaminated$25x*Milk
+http://www.usaco.org/index.php?page=viewproblem2&cpid=570 SILVER 2015 December Problem1. Switching$25x*on$25x*the$25x*Lights
+http://www.usaco.org/index.php?page=viewproblem2&cpid=571 SILVER 2015 December Problem2. High$25x*Card$25x*Wins
+http://www.usaco.org/index.php?page=viewproblem2&cpid=572 SILVER 2015 December Problem3. Breed$25x*Counting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=573 GOLD 2015 December Problem1. High$25x*Card$25x*Low$25x*Card$25x*(Gold)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=574 GOLD 2015 December Problem2. Fruit$25x*Feast
+http://www.usaco.org/index.php?page=viewproblem2&cpid=575 GOLD 2015 December Problem3. Bessie's$25x*Dream
+http://www.usaco.org/index.php?page=viewproblem2&cpid=576 PLATINUM 2015 December Problem1. Max$25x*Flow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=577 PLATINUM 2015 December Problem2. High$25x*Card$25x*Low$25x*Card$25x*(Platinum)
+http://www.usaco.org/index.php?page=viewproblem2&cpid=578 PLATINUM 2015 December Problem3. Counting$25x*Haybales
+http://www.usaco.org/index.php?page=viewproblem2&cpid=591 BRONZE 2016 January Problem1. Promotion$25x*Counting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=592 BRONZE 2016 January Problem2. Angry$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=593 BRONZE 2016 January Problem3. Mowing$25x*the$25x*Field
+http://www.usaco.org/index.php?page=viewproblem2&cpid=594 SILVER 2016 January Problem1. Angry$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=595 SILVER 2016 January Problem2. Subsequences$25x*Summing$25x*to$25x*Sevens
+http://www.usaco.org/index.php?page=viewproblem2&cpid=596 SILVER 2016 January Problem3. Build$25x*Gates
+http://www.usaco.org/index.php?page=viewproblem2&cpid=597 GOLD 2016 January Problem1. Angry$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=598 GOLD 2016 January Problem2. Radio$25x*Contact
+http://www.usaco.org/index.php?page=viewproblem2&cpid=599 GOLD 2016 January Problem3. Lights$25x*Out
+http://www.usaco.org/index.php?page=viewproblem2&cpid=600 PLATINUM 2016 January Problem1. Fort$25x*Moo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=601 PLATINUM 2016 January Problem2. Mowing$25x*the$25x*Field
+http://www.usaco.org/index.php?page=viewproblem2&cpid=602 PLATINUM 2016 January Problem3. Lights$25x*Out
+http://www.usaco.org/index.php?page=viewproblem2&cpid=615 BRONZE 2016 February Problem1. Milk$25x*Pails
+http://www.usaco.org/index.php?page=viewproblem2&cpid=616 BRONZE 2016 February Problem2. Circular$25x*Barn
+http://www.usaco.org/index.php?page=viewproblem2&cpid=617 BRONZE 2016 February Problem3. Load$25x*Balancing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=618 SILVER 2016 February Problem1. Circular$25x*Barn
+http://www.usaco.org/index.php?page=viewproblem2&cpid=619 SILVER 2016 February Problem2. Load$25x*Balancing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=620 SILVER 2016 February Problem3. Milk$25x*Pails
+http://www.usaco.org/index.php?page=viewproblem2&cpid=621 GOLD 2016 February Problem1. Circular$25x*Barn
+http://www.usaco.org/index.php?page=viewproblem2&cpid=622 GOLD 2016 February Problem2. Circular$25x*Barn$25x*Revisited
+http://www.usaco.org/index.php?page=viewproblem2&cpid=623 GOLD 2016 February Problem3. Fenced$25x*In
+http://www.usaco.org/index.php?page=viewproblem2&cpid=624 PLATINUM 2016 February Problem1. Load$25x*Balancing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=625 PLATINUM 2016 February Problem2. Fenced$25x*In
+http://www.usaco.org/index.php?page=viewproblem2&cpid=626 PLATINUM 2016 February Problem3. Circular$25x*Barn
+http://www.usaco.org/index.php?page=viewproblem2&cpid=639 BRONZE 2016 USOpen Problem1. Diamond$25x*Collector
+http://www.usaco.org/index.php?page=viewproblem2&cpid=640 BRONZE 2016 USOpen Problem2. Bull$25x*in$25x*a$25x*China$25x*Shop
+http://www.usaco.org/index.php?page=viewproblem2&cpid=641 BRONZE 2016 USOpen Problem3. Field$25x*Reduction
+http://www.usaco.org/index.php?page=viewproblem2&cpid=642 SILVER 2016 USOpen Problem1. Field$25x*Reduction
+http://www.usaco.org/index.php?page=viewproblem2&cpid=643 SILVER 2016 USOpen Problem2. Diamond$25x*Collector
+http://www.usaco.org/index.php?page=viewproblem2&cpid=644 SILVER 2016 USOpen Problem3. Closing$25x*the$25x*Farm
+http://www.usaco.org/index.php?page=viewproblem2&cpid=645 GOLD 2016 USOpen Problem1. Splitting$25x*the$25x*Field
+http://www.usaco.org/index.php?page=viewproblem2&cpid=646 GOLD 2016 USOpen Problem2. Closing$25x*the$25x*Farm
+http://www.usaco.org/index.php?page=viewproblem2&cpid=647 GOLD 2016 USOpen Problem3. 248
+http://www.usaco.org/index.php?page=viewproblem2&cpid=648 PLATINUM 2016 USOpen Problem1. 262144
+http://www.usaco.org/index.php?page=viewproblem2&cpid=649 PLATINUM 2016 USOpen Problem2. Bull$25x*in$25x*a$25x*China$25x*Shop
+http://www.usaco.org/index.php?page=viewproblem2&cpid=650 PLATINUM 2016 USOpen Problem3. Landscaping
+http://www.usaco.org/index.php?page=viewproblem2&cpid=663 BRONZE 2016 December Problem1. Square$25x*Pasture
+http://www.usaco.org/index.php?page=viewproblem2&cpid=664 BRONZE 2016 December Problem2. Block$25x*Game
+http://www.usaco.org/index.php?page=viewproblem2&cpid=665 BRONZE 2016 December Problem3. The$25x*Cow-Signal
+http://www.usaco.org/index.php?page=viewproblem2&cpid=666 SILVER 2016 December Problem1. Counting$25x*Haybales
+http://www.usaco.org/index.php?page=viewproblem2&cpid=667 SILVER 2016 December Problem2. Cities$25x*and$25x*States
+http://www.usaco.org/index.php?page=viewproblem2&cpid=668 SILVER 2016 December Problem3. Moocast
+http://www.usaco.org/index.php?page=viewproblem2&cpid=669 GOLD 2016 December Problem1. Moocast
+http://www.usaco.org/index.php?page=viewproblem2&cpid=670 GOLD 2016 December Problem2. Cow$25x*Checklist
+http://www.usaco.org/index.php?page=viewproblem2&cpid=671 GOLD 2016 December Problem3. Lasers$25x*and$25x*Mirrors
+http://www.usaco.org/index.php?page=viewproblem2&cpid=672 PLATINUM 2016 December Problem1. Lots$25x*of$25x*Triangles
+http://www.usaco.org/index.php?page=viewproblem2&cpid=673 PLATINUM 2016 December Problem2. Team$25x*Building
+http://www.usaco.org/index.php?page=viewproblem2&cpid=674 PLATINUM 2016 December Problem3. Robotic$25x*Cow$25x*Herd
+http://www.usaco.org/index.php?page=viewproblem2&cpid=687 BRONZE 2017 January Problem1. Don't$25x*Be$25x*Last!
+http://www.usaco.org/index.php?page=viewproblem2&cpid=688 BRONZE 2017 January Problem2. Hoof,$25x*Paper,$25x*Scissors
+http://www.usaco.org/index.php?page=viewproblem2&cpid=689 BRONZE 2017 January Problem3. Cow$25x*Tipping
+http://www.usaco.org/index.php?page=viewproblem2&cpid=690 SILVER 2017 January Problem1. Cow$25x*Dance$25x*Show
+http://www.usaco.org/index.php?page=viewproblem2&cpid=691 SILVER 2017 January Problem2. Hoof,$25x*Paper,$25x*Scissors
+http://www.usaco.org/index.php?page=viewproblem2&cpid=692 SILVER 2017 January Problem3. Secret$25x*Cow$25x*Code
+http://www.usaco.org/index.php?page=viewproblem2&cpid=693 GOLD 2017 January Problem1. Balanced$25x*Photo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=694 GOLD 2017 January Problem2. Hoof,$25x*Paper,$25x*Scissors
+http://www.usaco.org/index.php?page=viewproblem2&cpid=695 GOLD 2017 January Problem3. Cow$25x*Navigation
+http://www.usaco.org/index.php?page=viewproblem2&cpid=696 PLATINUM 2017 January Problem1. Promotion$25x*Counting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=697 PLATINUM 2017 January Problem2. Building$25x*a$25x*Tall$25x*Barn
+http://www.usaco.org/index.php?page=viewproblem2&cpid=698 PLATINUM 2017 January Problem3. Subsequence$25x*Reversal
+http://www.usaco.org/index.php?page=viewproblem2&cpid=711 BRONZE 2017 February Problem1. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road
+http://www.usaco.org/index.php?page=viewproblem2&cpid=712 BRONZE 2017 February Problem2. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=713 BRONZE 2017 February Problem3. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*III
+http://www.usaco.org/index.php?page=viewproblem2&cpid=714 SILVER 2017 February Problem1. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road
+http://www.usaco.org/index.php?page=viewproblem2&cpid=715 SILVER 2017 February Problem2. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=716 SILVER 2017 February Problem3. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*III
+http://www.usaco.org/index.php?page=viewproblem2&cpid=717 GOLD 2017 February Problem1. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road
+http://www.usaco.org/index.php?page=viewproblem2&cpid=718 GOLD 2017 February Problem2. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=719 GOLD 2017 February Problem3. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*III
+http://www.usaco.org/index.php?page=viewproblem2&cpid=720 PLATINUM 2017 February Problem1. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road
+http://www.usaco.org/index.php?page=viewproblem2&cpid=721 PLATINUM 2017 February Problem2. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=722 PLATINUM 2017 February Problem3. Why$25x*Did$25x*the$25x*Cow$25x*Cross$25x*the$25x*Road$25x*III
+http://www.usaco.org/index.php?page=viewproblem2&cpid=735 BRONZE 2017 USOpen Problem1. The$25x*Lost$25x*Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=736 BRONZE 2017 USOpen Problem2. Bovine$25x*Genomics
+http://www.usaco.org/index.php?page=viewproblem2&cpid=737 BRONZE 2017 USOpen Problem3. Modern$25x*Art
+http://www.usaco.org/index.php?page=viewproblem2&cpid=738 SILVER 2017 USOpen Problem1. Paired$25x*Up
+http://www.usaco.org/index.php?page=viewproblem2&cpid=739 SILVER 2017 USOpen Problem2. Bovine$25x*Genomics
+http://www.usaco.org/index.php?page=viewproblem2&cpid=740 SILVER 2017 USOpen Problem3. Where's$25x*Bessie?
+http://www.usaco.org/index.php?page=viewproblem2&cpid=741 GOLD 2017 USOpen Problem1. Bovine$25x*Genomics
+http://www.usaco.org/index.php?page=viewproblem2&cpid=742 GOLD 2017 USOpen Problem2. Modern$25x*Art
+http://www.usaco.org/index.php?page=viewproblem2&cpid=743 GOLD 2017 USOpen Problem3. Modern$25x*Art$25x*2
+http://www.usaco.org/index.php?page=viewproblem2&cpid=744 PLATINUM 2017 USOpen Problem1. Modern$25x*Art
+http://www.usaco.org/index.php?page=viewproblem2&cpid=745 PLATINUM 2017 USOpen Problem2. Switch$25x*Grass
+http://www.usaco.org/index.php?page=viewproblem2&cpid=746 PLATINUM 2017 USOpen Problem3. COWBASIC
+http://www.usaco.org/index.php?page=viewproblem2&cpid=759 BRONZE 2017 December Problem1. Blocked$25x*Billboard
+http://www.usaco.org/index.php?page=viewproblem2&cpid=760 BRONZE 2017 December Problem2. The$25x*Bovine$25x*Shuffle
+http://www.usaco.org/index.php?page=viewproblem2&cpid=761 BRONZE 2017 December Problem3. Milk$25x*Measurement
+http://www.usaco.org/index.php?page=viewproblem2&cpid=762 SILVER 2017 December Problem1. My$25x*Cow$25x*Ate$25x*My$25x*Homework
+http://www.usaco.org/index.php?page=viewproblem2&cpid=763 SILVER 2017 December Problem2. Milk$25x*Measurement
+http://www.usaco.org/index.php?page=viewproblem2&cpid=764 SILVER 2017 December Problem3. The$25x*Bovine$25x*Shuffle
+http://www.usaco.org/index.php?page=viewproblem2&cpid=765 GOLD 2017 December Problem1. A$25x*Pie$25x*for$25x*a$25x*Pie
+http://www.usaco.org/index.php?page=viewproblem2&cpid=766 GOLD 2017 December Problem2. Barn$25x*Painting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=767 GOLD 2017 December Problem3. Haybale$25x*Feast
+http://www.usaco.org/index.php?page=viewproblem2&cpid=768 PLATINUM 2017 December Problem1. Standing$25x*Out$25x*from$25x*the$25x*Herd
+http://www.usaco.org/index.php?page=viewproblem2&cpid=769 PLATINUM 2017 December Problem2. Push$25x*a$25x*Box
+http://www.usaco.org/index.php?page=viewproblem2&cpid=770 PLATINUM 2017 December Problem3. Greedy$25x*Gift$25x*Takers
+http://www.usaco.org/index.php?page=viewproblem2&cpid=783 BRONZE 2018 January Problem1. Blocked$25x*Billboard$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=784 BRONZE 2018 January Problem2. Lifeguards
+http://www.usaco.org/index.php?page=viewproblem2&cpid=785 BRONZE 2018 January Problem3. Out$25x*of$25x*Place
+http://www.usaco.org/index.php?page=viewproblem2&cpid=786 SILVER 2018 January Problem1. Lifeguards
+http://www.usaco.org/index.php?page=viewproblem2&cpid=787 SILVER 2018 January Problem2. Rental$25x*Service
+http://www.usaco.org/index.php?page=viewproblem2&cpid=788 SILVER 2018 January Problem3. MooTube
+http://www.usaco.org/index.php?page=viewproblem2&cpid=789 GOLD 2018 January Problem1. MooTube
+http://www.usaco.org/index.php?page=viewproblem2&cpid=790 GOLD 2018 January Problem2. Cow$25x*at$25x*Large
+http://www.usaco.org/index.php?page=viewproblem2&cpid=791 GOLD 2018 January Problem3. Stamp$25x*Painting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=792 PLATINUM 2018 January Problem1. Lifeguards
+http://www.usaco.org/index.php?page=viewproblem2&cpid=793 PLATINUM 2018 January Problem2. Cow$25x*at$25x*Large
+http://www.usaco.org/index.php?page=viewproblem2&cpid=794 PLATINUM 2018 January Problem3. Sprinklers
+http://www.usaco.org/index.php?page=viewproblem2&cpid=807 BRONZE 2018 February Problem1. Teleportation
+http://www.usaco.org/index.php?page=viewproblem2&cpid=808 BRONZE 2018 February Problem2. Hoofball
+http://www.usaco.org/index.php?page=viewproblem2&cpid=809 BRONZE 2018 February Problem3. Taming$25x*the$25x*Herd
+http://www.usaco.org/index.php?page=viewproblem2&cpid=810 SILVER 2018 February Problem1. Rest$25x*Stops
+http://www.usaco.org/index.php?page=viewproblem2&cpid=811 SILVER 2018 February Problem2. Snow$25x*Boots
+http://www.usaco.org/index.php?page=viewproblem2&cpid=812 SILVER 2018 February Problem3. Teleportation
+http://www.usaco.org/index.php?page=viewproblem2&cpid=813 GOLD 2018 February Problem1. Snow$25x*Boots
+http://www.usaco.org/index.php?page=viewproblem2&cpid=814 GOLD 2018 February Problem2. Directory$25x*Traversal
+http://www.usaco.org/index.php?page=viewproblem2&cpid=815 GOLD 2018 February Problem3. Taming$25x*the$25x*Herd
+http://www.usaco.org/index.php?page=viewproblem2&cpid=816 PLATINUM 2018 February Problem1. Slingshot
+http://www.usaco.org/index.php?page=viewproblem2&cpid=817 PLATINUM 2018 February Problem2. New$25x*Barns
+http://www.usaco.org/index.php?page=viewproblem2&cpid=818 PLATINUM 2018 February Problem3. Cow$25x*Gymnasts
+http://www.usaco.org/index.php?page=viewproblem2&cpid=831 BRONZE 2018 USOpen Problem1. Team$25x*Tic$25x*Tac$25x*Toe
+http://www.usaco.org/index.php?page=viewproblem2&cpid=832 BRONZE 2018 USOpen Problem2. Milking$25x*Order
+http://www.usaco.org/index.php?page=viewproblem2&cpid=833 BRONZE 2018 USOpen Problem3. Family$25x*Tree
+http://www.usaco.org/index.php?page=viewproblem2&cpid=834 SILVER 2018 USOpen Problem1. Out$25x*of$25x*Sorts
+http://www.usaco.org/index.php?page=viewproblem2&cpid=835 SILVER 2018 USOpen Problem2. Lemonade$25x*Line
+http://www.usaco.org/index.php?page=viewproblem2&cpid=836 SILVER 2018 USOpen Problem3. Multiplayer$25x*Moo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=837 GOLD 2018 USOpen Problem1. Out$25x*of$25x*Sorts
+http://www.usaco.org/index.php?page=viewproblem2&cpid=838 GOLD 2018 USOpen Problem2. Milking$25x*Order
+http://www.usaco.org/index.php?page=viewproblem2&cpid=839 GOLD 2018 USOpen Problem3. Talent$25x*Show
+http://www.usaco.org/index.php?page=viewproblem2&cpid=840 PLATINUM 2018 USOpen Problem1. Out$25x*of$25x*Sorts
+http://www.usaco.org/index.php?page=viewproblem2&cpid=841 PLATINUM 2018 USOpen Problem2. Train$25x*Tracking
+http://www.usaco.org/index.php?page=viewproblem2&cpid=842 PLATINUM 2018 USOpen Problem3. Disruption
+http://www.usaco.org/index.php?page=viewproblem2&cpid=855 BRONZE 2018 December Problem1. Mixing$25x*Milk
+http://www.usaco.org/index.php?page=viewproblem2&cpid=856 BRONZE 2018 December Problem2. The$25x*Bucket$25x*List
+http://www.usaco.org/index.php?page=viewproblem2&cpid=857 BRONZE 2018 December Problem3. Back$25x*and$25x*Forth
+http://www.usaco.org/index.php?page=viewproblem2&cpid=858 SILVER 2018 December Problem1. Convention
+http://www.usaco.org/index.php?page=viewproblem2&cpid=859 SILVER 2018 December Problem2. Convention$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=860 SILVER 2018 December Problem3. Mooyo$25x*Mooyo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=861 GOLD 2018 December Problem1. Fine$25x*Dining
+http://www.usaco.org/index.php?page=viewproblem2&cpid=862 GOLD 2018 December Problem2. Cowpatibility
+http://www.usaco.org/index.php?page=viewproblem2&cpid=863 GOLD 2018 December Problem3. Teamwork
+http://www.usaco.org/index.php?page=viewproblem2&cpid=864 PLATINUM 2018 December Problem1. Balance$25x*Beam
+http://www.usaco.org/index.php?page=viewproblem2&cpid=865 PLATINUM 2018 December Problem2. Sort$25x*It$25x*Out
+http://www.usaco.org/index.php?page=viewproblem2&cpid=866 PLATINUM 2018 December Problem3. The$25x*Cow$25x*Gathering
+http://www.usaco.org/index.php?page=viewproblem2&cpid=891 BRONZE 2019 January Problem1. Shell$25x*Game
+http://www.usaco.org/index.php?page=viewproblem2&cpid=892 BRONZE 2019 January Problem2. Sleepy$25x*Cow$25x*Sorting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=893 BRONZE 2019 January Problem3. Guess$25x*the$25x*Animal
+http://www.usaco.org/index.php?page=viewproblem2&cpid=894 SILVER 2019 January Problem1. Grass$25x*Planting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=895 SILVER 2019 January Problem2. Icy$25x*Perimeter
+http://www.usaco.org/index.php?page=viewproblem2&cpid=896 SILVER 2019 January Problem3. Mountain$25x*View
+http://www.usaco.org/index.php?page=viewproblem2&cpid=897 GOLD 2019 January Problem1. Cow$25x*Poetry
+http://www.usaco.org/index.php?page=viewproblem2&cpid=898 GOLD 2019 January Problem2. Sleepy$25x*Cow$25x*Sorting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=899 GOLD 2019 January Problem3. Shortcut
+http://www.usaco.org/index.php?page=viewproblem2&cpid=900 PLATINUM 2019 January Problem1. Redistricting
+http://www.usaco.org/index.php?page=viewproblem2&cpid=901 PLATINUM 2019 January Problem2. Exercise$25x*Route
+http://www.usaco.org/index.php?page=viewproblem2&cpid=902 PLATINUM 2019 January Problem3. Train$25x*Tracking$25x*2
+http://www.usaco.org/index.php?page=viewproblem2&cpid=915 BRONZE 2019 February Problem1. Sleepy$25x*Cow$25x*Herding
+http://www.usaco.org/index.php?page=viewproblem2&cpid=916 BRONZE 2019 February Problem2. The$25x*Great$25x*Revegetation
+http://www.usaco.org/index.php?page=viewproblem2&cpid=917 BRONZE 2019 February Problem3. Measuring$25x*Traffic
+http://www.usaco.org/index.php?page=viewproblem2&cpid=918 SILVER 2019 February Problem1. Sleepy$25x*Cow$25x*Herding
+http://www.usaco.org/index.php?page=viewproblem2&cpid=919 SILVER 2019 February Problem2. Painting$25x*the$25x*Barn
+http://www.usaco.org/index.php?page=viewproblem2&cpid=920 SILVER 2019 February Problem3. The$25x*Great$25x*Revegetation
+http://www.usaco.org/index.php?page=viewproblem2&cpid=921 GOLD 2019 February Problem1. Cow$25x*Land
+http://www.usaco.org/index.php?page=viewproblem2&cpid=922 GOLD 2019 February Problem2. Dishwashing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=923 GOLD 2019 February Problem3. Painting$25x*the$25x*Barn
+http://www.usaco.org/index.php?page=viewproblem2&cpid=924 PLATINUM 2019 February Problem1. Cow$25x*Dating
+http://www.usaco.org/index.php?page=viewproblem2&cpid=925 PLATINUM 2019 February Problem2. Moorio$25x*Kart
+http://www.usaco.org/index.php?page=viewproblem2&cpid=926 PLATINUM 2019 February Problem3. Mowing$25x*Mischief
+http://www.usaco.org/index.php?page=viewproblem2&cpid=939 BRONZE 2019 USOpen Problem1. Bucket$25x*Brigade
+http://www.usaco.org/index.php?page=viewproblem2&cpid=940 BRONZE 2019 USOpen Problem2. Milk$25x*Factory
+http://www.usaco.org/index.php?page=viewproblem2&cpid=941 BRONZE 2019 USOpen Problem3. Cow$25x*Evolution
+http://www.usaco.org/index.php?page=viewproblem2&cpid=942 SILVER 2019 USOpen Problem1. Left$25x*Out
+http://www.usaco.org/index.php?page=viewproblem2&cpid=943 SILVER 2019 USOpen Problem2. Cow$25x*Steeplechase$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=944 SILVER 2019 USOpen Problem3. Fence$25x*Planning
+http://www.usaco.org/index.php?page=viewproblem2&cpid=945 GOLD 2019 USOpen Problem1. Snakes
+http://www.usaco.org/index.php?page=viewproblem2&cpid=946 GOLD 2019 USOpen Problem2. I$25x*Would$25x*Walk$25x*500$25x*Miles
+http://www.usaco.org/index.php?page=viewproblem2&cpid=947 GOLD 2019 USOpen Problem3. Balancing$25x*Inversions
+http://www.usaco.org/index.php?page=viewproblem2&cpid=948 PLATINUM 2019 USOpen Problem1. Tree$25x*Boxes
+http://www.usaco.org/index.php?page=viewproblem2&cpid=949 PLATINUM 2019 USOpen Problem2. Compound$25x*Escape
+http://www.usaco.org/index.php?page=viewproblem2&cpid=950 PLATINUM 2019 USOpen Problem3. Valleys
+http://www.usaco.org/index.php?page=viewproblem2&cpid=963 BRONZE 2019 December Problem1. Cow$25x*Gymnastics
+http://www.usaco.org/index.php?page=viewproblem2&cpid=964 BRONZE 2019 December Problem2. Where$25x*Am$25x*I?
+http://www.usaco.org/index.php?page=viewproblem2&cpid=965 BRONZE 2019 December Problem3. Livestock$25x*Lineup
+http://www.usaco.org/index.php?page=viewproblem2&cpid=966 SILVER 2019 December Problem1. MooBuzz
+http://www.usaco.org/index.php?page=viewproblem2&cpid=967 SILVER 2019 December Problem2. Meetings
+http://www.usaco.org/index.php?page=viewproblem2&cpid=968 SILVER 2019 December Problem3. Milk$25x*Visits
+http://www.usaco.org/index.php?page=viewproblem2&cpid=969 GOLD 2019 December Problem1. Milk$25x*Pumping
+http://www.usaco.org/index.php?page=viewproblem2&cpid=970 GOLD 2019 December Problem2. Milk$25x*Visits
+http://www.usaco.org/index.php?page=viewproblem2&cpid=971 GOLD 2019 December Problem3. Moortal$25x*Cowmbat
+http://www.usaco.org/index.php?page=viewproblem2&cpid=972 PLATINUM 2019 December Problem1. Greedy$25x*Pie$25x*Eaters
+http://www.usaco.org/index.php?page=viewproblem2&cpid=973 PLATINUM 2019 December Problem2. Bessie's$25x*Snow$25x*Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=974 PLATINUM 2019 December Problem3. Tree$25x*Depth
+http://www.usaco.org/index.php?page=viewproblem2&cpid=987 BRONZE 2020 January Problem1. Word$25x*Processor
+http://www.usaco.org/index.php?page=viewproblem2&cpid=988 BRONZE 2020 January Problem2. Photoshoot
+http://www.usaco.org/index.php?page=viewproblem2&cpid=989 BRONZE 2020 January Problem3. Race
+http://www.usaco.org/index.php?page=viewproblem2&cpid=990 SILVER 2020 January Problem1. Berry$25x*Picking
+http://www.usaco.org/index.php?page=viewproblem2&cpid=991 SILVER 2020 January Problem2. Loan$25x*Repayment
+http://www.usaco.org/index.php?page=viewproblem2&cpid=992 SILVER 2020 January Problem3. Wormhole$25x*Sort
+http://www.usaco.org/index.php?page=viewproblem2&cpid=993 GOLD 2020 January Problem1. Time$25x*is$25x*Mooney
+http://www.usaco.org/index.php?page=viewproblem2&cpid=994 GOLD 2020 January Problem2. Farmer$25x*John$25x*Solves$25x*3SUM
+http://www.usaco.org/index.php?page=viewproblem2&cpid=995 GOLD 2020 January Problem3. Springboards
+http://www.usaco.org/index.php?page=viewproblem2&cpid=996 PLATINUM 2020 January Problem1. Cave$25x*Paintings
+http://www.usaco.org/index.php?page=viewproblem2&cpid=997 PLATINUM 2020 January Problem2. Non-Decreasing$25x*Subsequences
+http://www.usaco.org/index.php?page=viewproblem2&cpid=998 PLATINUM 2020 January Problem3. Falling$25x*Portals
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1011 BRONZE 2020 February Problem1. Triangles
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1012 BRONZE 2020 February Problem2. Mad$25x*Scientist
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1013 BRONZE 2020 February Problem3. Swapity$25x*Swap
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1014 SILVER 2020 February Problem1. Swapity$25x*Swapity$25x*Swap
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1015 SILVER 2020 February Problem2. Triangles
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1016 SILVER 2020 February Problem3. Clock$25x*Tree
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1017 GOLD 2020 February Problem1. Timeline
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1018 GOLD 2020 February Problem2. Help$25x*Yourself
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1019 GOLD 2020 February Problem3. Delegation
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1020 PLATINUM 2020 February Problem1. Delegation
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1021 PLATINUM 2020 February Problem2. Equilateral$25x*Triangles
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1022 PLATINUM 2020 February Problem3. Help$25x*Yourself
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1035 BRONZE 2020 USOpen Problem1. Social$25x*Distancing$25x*I
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1036 BRONZE 2020 USOpen Problem2. Social$25x*Distancing$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1037 BRONZE 2020 USOpen Problem3. Cowntact$25x*Tracing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1038 SILVER 2020 USOpen Problem1. Social$25x*Distancing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1039 SILVER 2020 USOpen Problem2. Cereal
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1040 SILVER 2020 USOpen Problem3. The$25x*Moo$25x*Particle
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1041 GOLD 2020 USOpen Problem1. Haircut
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1042 GOLD 2020 USOpen Problem2. Favorite$25x*Colors
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1043 GOLD 2020 USOpen Problem3. Exercise
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1044 PLATINUM 2020 USOpen Problem1. Sprinklers$25x*2:$25x*Return$25x*of$25x*the$25x*Alfalfa
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1045 PLATINUM 2020 USOpen Problem2. Exercise
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1046 PLATINUM 2020 USOpen Problem3. Circus
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1059 BRONZE 2020 December Problem1. Do$25x*You$25x*Know$25x*Your$25x*ABCs?
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1060 BRONZE 2020 December Problem2. Daisy$25x*Chains
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1061 BRONZE 2020 December Problem3. Stuck$25x*in$25x*a$25x*Rut
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1062 SILVER 2020 December Problem1. Cowntagion
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1063 SILVER 2020 December Problem2. Rectangular$25x*Pasture
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1064 SILVER 2020 December Problem3. Stuck$25x*in$25x*a$25x*Rut
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1065 GOLD 2020 December Problem1. Replication
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1066 GOLD 2020 December Problem2. Bovine$25x*Genetics
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1067 GOLD 2020 December Problem3. Square$25x*Pasture
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1068 PLATINUM 2020 December Problem1. Sleeping$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1069 PLATINUM 2020 December Problem2. Spaceship
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1070 PLATINUM 2020 December Problem3. Cowmistry
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1083 BRONZE 2021 January Problem1. Uddered$25x*but$25x*not$25x*Herd
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1084 BRONZE 2021 January Problem2. Even$25x*More$25x*Odd$25x*Photos
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1085 BRONZE 2021 January Problem3. Just$25x*Stalling
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1086 SILVER 2021 January Problem1. Dance$25x*Mooves
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1087 SILVER 2021 January Problem2. No$25x*Time$25x*to$25x*Paint
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1088 SILVER 2021 January Problem3. Spaced$25x*Out
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1089 GOLD 2021 January Problem1. Uddered$25x*but$25x*not$25x*Herd
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1090 GOLD 2021 January Problem2. Telephone
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1091 GOLD 2021 January Problem3. Dance$25x*Mooves
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1092 PLATINUM 2021 January Problem1. Sum$25x*of$25x*Distances
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1093 PLATINUM 2021 January Problem2. Minimum$25x*Cost$25x*Paths
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1094 PLATINUM 2021 January Problem3. Paint$25x*by$25x*Letters
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1107 BRONZE 2021 February Problem1. Year$25x*of$25x*the$25x*Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1108 BRONZE 2021 February Problem2. Comfortable$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1109 BRONZE 2021 February Problem3. Clockwise$25x*Fence
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1110 SILVER 2021 February Problem1. Comfortable$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1111 SILVER 2021 February Problem2. Year$25x*of$25x*the$25x*Cow
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1112 SILVER 2021 February Problem3. Just$25x*Green$25x*Enough
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1113 GOLD 2021 February Problem1. Stone$25x*Game
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1114 GOLD 2021 February Problem2. Modern$25x*Art$25x*3
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1115 GOLD 2021 February Problem3. Count$25x*the$25x*Cows
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1116 PLATINUM 2021 February Problem1. No$25x*Time$25x*to$25x*Dry
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1117 PLATINUM 2021 February Problem2. Minimizing$25x*Edges
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1118 PLATINUM 2021 February Problem3. Counting$25x*Graphs
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1131 BRONZE 2021 USOpen, Problem1. Acowdemia$25x*I
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1132 BRONZE 2021 USOpen, Problem2. Acowdemia$25x*II
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1133 BRONZE 2021 USOpen, Problem3. Acowdemia$25x*III
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1134 SILVER 2021 USOpen, Problem1. Maze$25x*Tac$25x*Toe
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1135 SILVER 2021 USOpen, Problem2. Do$25x*You$25x*Know$25x*Your$25x*ABCs?
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1136 SILVER 2021 USOpen, Problem3. Acowdemia
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1137 GOLD 2021 USOpen, Problem1. United$25x*Cows$25x*of$25x*Farmer$25x*John
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1138 GOLD 2021 USOpen, Problem2. Portals
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1139 GOLD 2021 USOpen, Problem3. Permutation
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1140 PLATINUM 2021 USOpen, Problem1. United$25x*Cows$25x*of$25x*Farmer$25x*John
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1141 PLATINUM 2021 USOpen, Problem2. Routing$25x*Schemes
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1142 PLATINUM 2021 USOpen, Problem3. Balanced$25x*Subsets
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1155 BRONZE 2021 December Problem1. Lonely$25x*Photo
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1156 BRONZE 2021 December Problem2. Air$25x*Cownditioning
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1157 BRONZE 2021 December Problem3. Walking$25x*Home
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1158 SILVER 2021 December Problem1. Closest$25x*Cow$25x*Wins
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1159 SILVER 2021 December Problem2. Connecting$25x*Two$25x*Barns
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1160 SILVER 2021 December Problem3. Convoluted$25x*Intervals
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1161 GOLD 2021 December Problem1. Paired$25x*Up
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1162 GOLD 2021 December Problem2. HILO
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1163 GOLD 2021 December Problem3. Bracelet$25x*Crossings
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1164 PLATINUM 2021 December Problem1. Tickets
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1165 PLATINUM 2021 December Problem2. Paired$25x*Up
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1166 PLATINUM 2021 December Problem3. HILO
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1179 BRONZE 2022 January Problem1. Herdle
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1180 BRONZE 2022 January Problem2. Non-Transitive$25x*Dice
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1181 BRONZE 2022 January Problem3. Drought
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1182 SILVER 2022 January Problem1. Searching$25x*for$25x*Soulmates
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1183 SILVER 2022 January Problem2. Cow$25x*Frisbee
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1184 SILVER 2022 January Problem3. Cereal$25x*2
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1185 GOLD 2022 January Problem1. Drought
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1186 GOLD 2022 January Problem2. Farm$25x*Updates
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1187 GOLD 2022 January Problem3. Tests$25x*for$25x*Haybales
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1188 PLATINUM 2022 January Problem1. Minimizing$25x*Haybales
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1189 PLATINUM 2022 January Problem2. Counting$25x*Haybales
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1190 PLATINUM 2022 January Problem3. Multiple$25x*Choice$25x*Test
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1203 BRONZE 2022 February Problem1. Sleeping$25x*in$25x*Class
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1204 BRONZE 2022 February Problem2. Photoshoot$25x*2
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1205 BRONZE 2022 February Problem3. Blocks
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1206 SILVER 2022 February Problem1. Redistributing$25x*Gifts
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1207 SILVER 2022 February Problem2. Robot$25x*Instructions
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1208 SILVER 2022 February Problem3. Email$25x*Filing
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1209 GOLD 2022 February Problem1. Redistributing$25x*Gifts
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1210 GOLD 2022 February Problem2. Cow$25x*Camp
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1211 GOLD 2022 February Problem3. Moo$25x*Network
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1212 PLATINUM 2022 February Problem1. Paint$25x*by$25x*Rectangles
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1213 PLATINUM 2022 February Problem2. Sleeping$25x*in$25x*Class
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1214 PLATINUM 2022 February Problem3. Phone$25x*Numbers
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1227 BRONZE 2022 USOpen Problem1. Photoshoot
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1228 BRONZE 2022 USOpen Problem2. Counting$25x*Liars
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1229 BRONZE 2022 USOpen Problem3. Alchemy
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1230 SILVER 2022 USOpen Problem1. Visits
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1231 SILVER 2022 USOpen Problem2. Subset$25x*Equality
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1232 SILVER 2022 USOpen Problem3. COW$25x*Operations
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1233 GOLD 2022 USOpen Problem1. Apple$25x*Catching
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1234 GOLD 2022 USOpen Problem2. Pair$25x*Programming
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1235 GOLD 2022 USOpen Problem3. Balancing$25x*a$25x*Tree
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1236 PLATINUM 2022 USOpen Problem1. 262144$25x*Revisited
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1237 PLATINUM 2022 USOpen Problem2. Hoof$25x*and$25x*Brain
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1238 PLATINUM 2022 USOpen Problem3. Up$25x*Down$25x*Subsequence

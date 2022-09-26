@@ -1,0 +1,3349 @@
+{
+  "2011": {
+    "11": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=85",
+        "year": 2011,
+        "qnum": "Problem2.",
+        "qname": "Awkward Digits"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=86",
+        "year": 2011,
+        "qnum": "Problem3.",
+        "qname": "Moo Sick"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=87",
+        "year": 2011,
+        "qnum": "Problem4.",
+        "qname": "Cow Beauty Pageant (Bronze Level)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=88",
+        "year": 2011,
+        "qnum": "Problem1.",
+        "qname": "Cow Beauty Pageant (Silver Level)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=89",
+        "year": 2011,
+        "qnum": "Problem2.",
+        "qname": "Cow Lineup"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=90",
+        "year": 2011,
+        "qnum": "Problem3.",
+        "qname": "Tile Exchanging"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=91",
+        "year": 2011,
+        "qnum": "Problem1.",
+        "qname": "Above the Median"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=92",
+        "year": 2011,
+        "qnum": "Problem2.",
+        "qname": "Binary Sudoku"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=93",
+        "year": 2011,
+        "qnum": "Problem3.",
+        "qname": "Cow Steeplechase"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=94",
+        "year": 2011,
+        "qnum": "Problem1.",
+        "qname": "Hay Bales"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=95",
+        "year": 2011,
+        "qnum": "Problem2.",
+        "qname": "Cow Photography (Bronze Level)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=96",
+        "year": 2011,
+        "qnum": "Problem3.",
+        "qname": "Escaping the Farm"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=97",
+        "year": 2011,
+        "qnum": "Problem1.",
+        "qname": "Cow Photography"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=98",
+        "year": 2011,
+        "qnum": "Problem2.",
+        "qname": "Roadblock"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=99",
+        "year": 2011,
+        "qnum": "Problem3.",
+        "qname": "Umbrellas for Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=100",
+        "year": 2011,
+        "qnum": "Problem1.",
+        "qname": "Cow Photography"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=101",
+        "year": 2011,
+        "qnum": "Problem2.",
+        "qname": "Simplifying the Farm"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=102",
+        "year": 2011,
+        "qnum": "Problem3.",
+        "qname": "Grass Planting"
+      },
+    },
+    "1": {},
+    "2012": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=103",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Gifts"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=104",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Haybale Stacking"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=105",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Grazing Patterns"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=106",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Delivery Route"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=107",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Bale Share"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=108",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Mountain Climbing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=109",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Video Game"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=110",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Cow Run"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=111",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Bovine Alliance"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=112",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Rope Folding"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=113",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Overplanting (Bronze)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=114",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Moo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=115",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Overplanting (Silver)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=116",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Cow IDs"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=117",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Relocation"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=118",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Cow Coupons"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=119",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Symmetry"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=120",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Nearby Cows"
+      },
+    },
+    "3": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=121",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Times 17"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=122",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Connect the Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=123",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Wrong Directions"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=124",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Tractor"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=125",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Flowerpot"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=126",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Landscaping"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=127",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Large Banner"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=128",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Haybale Restacking"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=129",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Cows in a Skyscraper"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=130",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Cows in a Row"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=131",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Three Lines"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=132",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Islands"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=133",
+        "year": 2012,
+        "qnum": "Problem4.",
+        "qname": "Unlocking Blocks"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=134",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Unlocking Blocks (Silver)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=135",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Bookshelf (Silver)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=136",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Running Laps"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=137",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Tied Down"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=138",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Bookshelf"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=139",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Balanced Cow Subsets"
+      },
+    },
+    "11": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=187",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Find the Cow!"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=188",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Typo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=189",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Horseshoes"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=190",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Clumsy Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=191",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Distant Pastures"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=192",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Balanced Cow Breeds"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=193",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Balanced Cow Breeds"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=194",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Concurrently Balanced Strings"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=195",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Balanced Trees"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=205",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Meet and Greet"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=206",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Scrambled Letters"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=207",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Crazy Fences"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=208",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Crazy Fences"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=209",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "Wifi Setup"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=210",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Milk Routing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=211",
+        "year": 2012,
+        "qnum": "Problem1.",
+        "qname": "Gangs of Instanbull/Cowstantinople"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=212",
+        "year": 2012,
+        "qnum": "Problem2.",
+        "qname": "First!"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=213",
+        "year": 2012,
+        "qnum": "Problem3.",
+        "qname": "Running Away From the Barn"
+      },
+    },
+    "1": {},
+    "2013": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=223",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Mirrors"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=224",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Painting the Fence"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=225",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Liars and Truth Tellers"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=226",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Painting the Fence"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=227",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Square Overlap"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=228",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Party Invitations"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=229",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Cow Lineup"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=230",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Island Travels"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=231",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Seating"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=241",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Message Relay"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=242",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Cow Crossings"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=243",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Perimeter"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=244",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Perimeter"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=245",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Tractor"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=246",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Milk Scheduling"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=247",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Partitioning the Farm"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=248",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Taxi"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=249",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Route Design"
+      },
+    },
+    "3": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=259",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Cow Race"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=260",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Breed Proximity"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=261",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Breed Assignment"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=262",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Poker Hands"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=263",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Farm Painting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=264",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "The Cow Run"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=265",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "The Cow Run"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=266",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Hill Walk"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=267",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Necklace"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=278",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Bovine Ballet"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=279",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Blink"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=280",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Photo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=281",
+        "year": 2013,
+        "qnum": "Problem4.",
+        "qname": "Haywire"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=282",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "What's Up With Gravity"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=283",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Fuel Economy"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=284",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Luxury River Cruise"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=285",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Photo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=286",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Yin and Yang"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=287",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Figure Eight"
+      },
+    },
+    "11": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=340",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Combination Lock"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=341",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Goldilocks and the N Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=342",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Farmer John has no Large Brown Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=343",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Farmer John has no Large Brown Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=344",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Crowded Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=345",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Pogo-Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=346",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Empty Stalls"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=347",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Line of Sight"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=348",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "No Change"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=358",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Record Keeping"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=359",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Cow Baseball"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=360",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "Wormholes"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=361",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Milk Scheduling"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=362",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Vacation Planning"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=363",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "The Bessie Shuffle"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=364",
+        "year": 2013,
+        "qnum": "Problem1.",
+        "qname": "Vacation Planning (gold)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=365",
+        "year": 2013,
+        "qnum": "Problem2.",
+        "qname": "Optimal Milking"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=366",
+        "year": 2013,
+        "qnum": "Problem3.",
+        "qname": "The Bessie Shuffle (gold)"
+      },
+    },
+    "1": {},
+    "2014": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=376",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Ski Course Design"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=377",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Bessie Slows Down"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=378",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Balanced Teams"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=379",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Bessie Slows Down"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=380",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Cross Country Skiing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=381",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Recording the Moolympics"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=382",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Cow Curling"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=383",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Building a Ski Course"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=384",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Ski Course Rating"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=394",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Mirror Field"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=395",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Auto-Complete"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=396",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Secret Code"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=397",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Auto-Complete"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=398",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Roadblock"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=399",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Secret Code"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=400",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Roadblock"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=401",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Cow Decathlon"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=402",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Airplane Boarding"
+      },
+    },
+    "3": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=412",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Reordering the Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=413",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "The Lazy Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=414",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Cow Art"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=415",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Watering the Fields"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=416",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "The Lazy Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=417",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Mooo Moo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=418",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "The Lazy Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=419",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Sabotage"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=420",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Counting Friends"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=430",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Odometer"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=431",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Fair Photography"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=432",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Decorating the Pastures"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=433",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Fair Photography"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=434",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Dueling GPSs"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=435",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Odometer"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=436",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Fair Photography"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=437",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Cow Optics"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=438",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Code Breaking"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=487",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Marathon"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=488",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Crosswords"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=489",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Cow Jog"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=490",
+        "year": 2014,
+        "qnum": "Problem4.",
+        "qname": "Learning by Example"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=491",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Piggyback"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=492",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Marathon"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=493",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Cow Jog"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=494",
+        "year": 2014,
+        "qnum": "Problem1.",
+        "qname": "Guard Mark"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=495",
+        "year": 2014,
+        "qnum": "Problem2.",
+        "qname": "Marathon"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=496",
+        "year": 2014,
+        "qnum": "Problem3.",
+        "qname": "Cow Jog"
+      },
+    },
+    "1": {},
+    "2015": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=507",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Cow Routing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=508",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Cow Routing II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=509",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "It's All About the Base"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=510",
+        "year": 2015,
+        "qnum": "Problem4.",
+        "qname": "Meeting Time"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=511",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Stampede"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=512",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Cow Routing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=513",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Meeting Time"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=514",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Cow Rectangles"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=515",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Moovie Mooving"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=516",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Grass Cownoisseur"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=526",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Censoring (Bronze)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=527",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "COW"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=528",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Cow Hopscotch (Bronze)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=529",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Censoring (Silver)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=530",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Cow Hopscotch (Silver)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=531",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Superbull"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=532",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Cow Hopscotch (Gold)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=533",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Censoring (Gold)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=534",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Fencing the Herd"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=545",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Moocryption"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=546",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Bessie Gets Even"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=547",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Trapped in the Haybales (Bronze)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=548",
+        "year": 2015,
+        "qnum": "Problem4.",
+        "qname": "Palindromic Paths (Bronze)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=549",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Bessie Goes Moo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=550",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Trapped in the Haybales (Silver)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=551",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Bessie's Birthday Buffet"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=552",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Googol"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=553",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Palindromic Paths"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=554",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Trapped in the Haybales (Gold)"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=567",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Fence Painting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=568",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Speeding Ticket"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=569",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Contaminated Milk"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=570",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Switching on the Lights"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=571",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "High Card Wins"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=572",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Breed Counting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=573",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "High Card Low Card (Gold)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=574",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "Fruit Feast"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=575",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Bessie's Dream"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=576",
+        "year": 2015,
+        "qnum": "Problem1.",
+        "qname": "Max Flow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=577",
+        "year": 2015,
+        "qnum": "Problem2.",
+        "qname": "High Card Low Card (Platinum)"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=578",
+        "year": 2015,
+        "qnum": "Problem3.",
+        "qname": "Counting Haybales"
+      },
+    },
+    "1": {},
+    "2016": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=591",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Promotion Counting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=592",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Angry Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=593",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Mowing the Field"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=594",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Angry Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=595",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Subsequences Summing to Sevens"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=596",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Build Gates"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=597",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Angry Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=598",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Radio Contact"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=599",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Lights Out"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=600",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Fort Moo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=601",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Mowing the Field"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=602",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Lights Out"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=615",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Milk Pails"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=616",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Circular Barn"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=617",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Load Balancing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=618",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Circular Barn"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=619",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Load Balancing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=620",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Milk Pails"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=621",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Circular Barn"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=622",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Circular Barn Revisited"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=623",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Fenced In"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=624",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Load Balancing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=625",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Fenced In"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=626",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Circular Barn"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=639",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Diamond Collector"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=640",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Bull in a China Shop"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=641",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Field Reduction"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=642",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Field Reduction"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=643",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Diamond Collector"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=644",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Closing the Farm"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=645",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Splitting the Field"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=646",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Closing the Farm"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=647",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "248"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=648",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "262144"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=649",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Bull in a China Shop"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=650",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Landscaping"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=663",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Square Pasture"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=664",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Block Game"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=665",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "The Cow-Signal"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=666",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Counting Haybales"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=667",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Cities and States"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=668",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Moocast"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=669",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Moocast"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=670",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Cow Checklist"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=671",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Lasers and Mirrors"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=672",
+        "year": 2016,
+        "qnum": "Problem1.",
+        "qname": "Lots of Triangles"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=673",
+        "year": 2016,
+        "qnum": "Problem2.",
+        "qname": "Team Building"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=674",
+        "year": 2016,
+        "qnum": "Problem3.",
+        "qname": "Robotic Cow Herd"
+      },
+    },
+    "1": {},
+    "2017": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=687",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Don't Be Last!"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=688",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Hoof, Paper, Scissors"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=689",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Cow Tipping"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=690",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Cow Dance Show"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=691",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Hoof, Paper, Scissors"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=692",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Secret Cow Code"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=693",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Balanced Photo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=694",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Hoof, Paper, Scissors"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=695",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Cow Navigation"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=696",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Promotion Counting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=697",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Building a Tall Barn"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=698",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Subsequence Reversal"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=711",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Why Did the Cow Cross the Road"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=712",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Why Did the Cow Cross the Road II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=713",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Why Did the Cow Cross the Road III"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=714",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Why Did the Cow Cross the Road"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=715",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Why Did the Cow Cross the Road II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=716",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Why Did the Cow Cross the Road III"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=717",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Why Did the Cow Cross the Road"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=718",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Why Did the Cow Cross the Road II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=719",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Why Did the Cow Cross the Road III"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=720",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Why Did the Cow Cross the Road"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=721",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Why Did the Cow Cross the Road II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=722",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Why Did the Cow Cross the Road III"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=735",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "The Lost Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=736",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Bovine Genomics"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=737",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Modern Art"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=738",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Paired Up"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=739",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Bovine Genomics"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=740",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Where's Bessie?"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=741",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Bovine Genomics"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=742",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Modern Art"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=743",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Modern Art 2"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=744",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Modern Art"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=745",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Switch Grass"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=746",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "COWBASIC"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=759",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Blocked Billboard"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=760",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "The Bovine Shuffle"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=761",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Milk Measurement"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=762",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "My Cow Ate My Homework"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=763",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Milk Measurement"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=764",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "The Bovine Shuffle"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=765",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "A Pie for a Pie"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=766",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Barn Painting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=767",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Haybale Feast"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=768",
+        "year": 2017,
+        "qnum": "Problem1.",
+        "qname": "Standing Out from the Herd"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=769",
+        "year": 2017,
+        "qnum": "Problem2.",
+        "qname": "Push a Box"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=770",
+        "year": 2017,
+        "qnum": "Problem3.",
+        "qname": "Greedy Gift Takers"
+      },
+    },
+    "1": {},
+    "2018": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=783",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Blocked Billboard II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=784",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Lifeguards"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=785",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Out of Place"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=786",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Lifeguards"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=787",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Rental Service"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=788",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "MooTube"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=789",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "MooTube"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=790",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Cow at Large"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=791",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Stamp Painting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=792",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Lifeguards"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=793",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Cow at Large"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=794",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Sprinklers"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=807",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Teleportation"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=808",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Hoofball"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=809",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Taming the Herd"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=810",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Rest Stops"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=811",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Snow Boots"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=812",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Teleportation"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=813",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Snow Boots"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=814",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Directory Traversal"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=815",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Taming the Herd"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=816",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Slingshot"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=817",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "New Barns"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=818",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Cow Gymnasts"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=831",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Team Tic Tac Toe"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=832",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Milking Order"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=833",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Family Tree"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=834",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Out of Sorts"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=835",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Lemonade Line"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=836",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Multiplayer Moo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=837",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Out of Sorts"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=838",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Milking Order"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=839",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Talent Show"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=840",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Out of Sorts"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=841",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Train Tracking"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=842",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Disruption"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=855",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Mixing Milk"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=856",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "The Bucket List"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=857",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Back and Forth"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=858",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Convention"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=859",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Convention II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=860",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Mooyo Mooyo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=861",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Fine Dining"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=862",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Cowpatibility"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=863",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "Teamwork"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=864",
+        "year": 2018,
+        "qnum": "Problem1.",
+        "qname": "Balance Beam"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=865",
+        "year": 2018,
+        "qnum": "Problem2.",
+        "qname": "Sort It Out"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=866",
+        "year": 2018,
+        "qnum": "Problem3.",
+        "qname": "The Cow Gathering"
+      },
+    },
+    "1": {},
+    "2019": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=891",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Shell Game"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=892",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Sleepy Cow Sorting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=893",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Guess the Animal"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=894",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Grass Planting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=895",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Icy Perimeter"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=896",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Mountain View"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=897",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Cow Poetry"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=898",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Sleepy Cow Sorting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=899",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Shortcut"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=900",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Redistricting"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=901",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Exercise Route"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=902",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Train Tracking 2"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=915",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Sleepy Cow Herding"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=916",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "The Great Revegetation"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=917",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Measuring Traffic"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=918",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Sleepy Cow Herding"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=919",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Painting the Barn"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=920",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "The Great Revegetation"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=921",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Cow Land"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=922",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Dishwashing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=923",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Painting the Barn"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=924",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Cow Dating"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=925",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Moorio Kart"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=926",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Mowing Mischief"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=939",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Bucket Brigade"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=940",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Milk Factory"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=941",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Cow Evolution"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=942",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Left Out"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=943",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Cow Steeplechase II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=944",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Fence Planning"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=945",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Snakes"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=946",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "I Would Walk 500 Miles"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=947",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Balancing Inversions"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=948",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Tree Boxes"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=949",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Compound Escape"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=950",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Valleys"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=963",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Cow Gymnastics"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=964",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Where Am I?"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=965",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Livestock Lineup"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=966",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "MooBuzz"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=967",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Meetings"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=968",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Milk Visits"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=969",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Milk Pumping"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=970",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Milk Visits"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=971",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Moortal Cowmbat"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=972",
+        "year": 2019,
+        "qnum": "Problem1.",
+        "qname": "Greedy Pie Eaters"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=973",
+        "year": 2019,
+        "qnum": "Problem2.",
+        "qname": "Bessie's Snow Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=974",
+        "year": 2019,
+        "qnum": "Problem3.",
+        "qname": "Tree Depth"
+      },
+    },
+    "1": {},
+    "2020": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=987",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Word Processor"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=988",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Photoshoot"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=989",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Race"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=990",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Berry Picking"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=991",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Loan Repayment"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=992",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Wormhole Sort"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=993",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Time is Mooney"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=994",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Farmer John Solves 3SUM"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=995",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Springboards"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=996",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Cave Paintings"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=997",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Non-Decreasing Subsequences"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=998",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Falling Portals"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1011",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Triangles"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1012",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Mad Scientist"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1013",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Swapity Swap"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1014",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Swapity Swapity Swap"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1015",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Triangles"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1016",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Clock Tree"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1017",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Timeline"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1018",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Help Yourself"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1019",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Delegation"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1020",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Delegation"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1021",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Equilateral Triangles"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1022",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Help Yourself"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1035",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Social Distancing I"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1036",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Social Distancing II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1037",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Cowntact Tracing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1038",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Social Distancing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1039",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Cereal"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1040",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "The Moo Particle"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1041",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Haircut"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1042",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Favorite Colors"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1043",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Exercise"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1044",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Sprinklers 2: Return of the Alfalfa"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1045",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Exercise"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1046",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Circus"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1059",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Do You Know Your ABCs?"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1060",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Daisy Chains"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1061",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Stuck in a Rut"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1062",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Cowntagion"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1063",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Rectangular Pasture"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1064",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Stuck in a Rut"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1065",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Replication"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1066",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Bovine Genetics"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1067",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Square Pasture"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1068",
+        "year": 2020,
+        "qnum": "Problem1.",
+        "qname": "Sleeping Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1069",
+        "year": 2020,
+        "qnum": "Problem2.",
+        "qname": "Spaceship"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1070",
+        "year": 2020,
+        "qnum": "Problem3.",
+        "qname": "Cowmistry"
+      },
+    },
+    "1": {},
+    "2021": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1083",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Uddered but not Herd"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1084",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Even More Odd Photos"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1085",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Just Stalling"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1086",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Dance Mooves"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1087",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "No Time to Paint"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1088",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Spaced Out"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1089",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Uddered but not Herd"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1090",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Telephone"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1091",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Dance Mooves"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1092",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Sum of Distances"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1093",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Minimum Cost Paths"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1094",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Paint by Letters"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1107",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Year of the Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1108",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Comfortable Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1109",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Clockwise Fence"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1110",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Comfortable Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1111",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Year of the Cow"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1112",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Just Green Enough"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1113",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Stone Game"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1114",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Modern Art 3"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1115",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Count the Cows"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1116",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "No Time to Dry"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1117",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Minimizing Edges"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1118",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Counting Graphs"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1131",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Acowdemia I"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1132",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Acowdemia II"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1133",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Acowdemia III"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1134",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Maze Tac Toe"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1135",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Do You Know Your ABCs?"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1136",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Acowdemia"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1137",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "United Cows of Farmer John"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1138",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Portals"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1139",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Permutation"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1140",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "United Cows of Farmer John"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1141",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Routing Schemes"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1142",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Balanced Subsets"
+      },
+    },
+    "12": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1155",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Lonely Photo"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1156",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Air Cownditioning"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1157",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Walking Home"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1158",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Closest Cow Wins"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1159",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Connecting Two Barns"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1160",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Convoluted Intervals"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1161",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Paired Up"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1162",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "HILO"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1163",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "Bracelet Crossings"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1164",
+        "year": 2021,
+        "qnum": "Problem1.",
+        "qname": "Tickets"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1165",
+        "year": 2021,
+        "qnum": "Problem2.",
+        "qname": "Paired Up"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1166",
+        "year": 2021,
+        "qnum": "Problem3.",
+        "qname": "HILO"
+      },
+    },
+    "1": {},
+    "2022": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1179",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Herdle"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1180",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Non-Transitive Dice"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1181",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Drought"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1182",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Searching for Soulmates"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1183",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Cow Frisbee"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1184",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Cereal 2"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1185",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Drought"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1186",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Farm Updates"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1187",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Tests for Haybales"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1188",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Minimizing Haybales"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1189",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Counting Haybales"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1190",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Multiple Choice Test"
+      },
+    },
+    "2": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1203",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Sleeping in Class"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1204",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Photoshoot 2"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1205",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Blocks"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1206",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Redistributing Gifts"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1207",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Robot Instructions"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1208",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Email Filing"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1209",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Redistributing Gifts"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1210",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Cow Camp"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1211",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Moo Network"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1212",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Paint by Rectangles"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1213",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Sleeping in Class"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1214",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Phone Numbers"
+      },
+    },
+    "4": {
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1227",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Photoshoot"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1228",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Counting Liars"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1229",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Alchemy"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1230",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Visits"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1231",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Subset Equality"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1232",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "COW Operations"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1233",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "Apple Catching"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1234",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Pair Programming"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1235",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Balancing a Tree"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1236",
+        "year": 2022,
+        "qnum": "Problem1.",
+        "qname": "262144 Revisited"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1237",
+        "year": 2022,
+        "qnum": "Problem2.",
+        "qname": "Hoof and Brain"
+      },
+      {
+        "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1238",
+        "year": 2022,
+        "qnum": "Problem3.",
+        "qname": "Up Down Subsequence"
+      },
+    }
+  }
+}
