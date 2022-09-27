@@ -34,6 +34,14 @@ public class Parser {
                 : r.contains("Dec") ? DEC : r.contains("Mar") ? MAR : r.contains("Feb") ? FEB : -1;
   }
 
+  public static String getURL(String line) {
+    return line.split(" ")[0];
+  }
+
+  public static String getCPID(String line) {
+    return line.split(" ")[0].split("cpid=")[1];
+  }
+
   /**
    * Required arguments for the parser to work
    *
@@ -55,18 +63,32 @@ public class Parser {
       f.delete();
       f.createNewFile();
     }
+    if (new File("bin/urls.json").exists()) {
+      File f = new File("bin/urls.json");
+      f.delete();
+      f.createNewFile();
+    }
     try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("bin/scraper.txt")));
-        PrintWriter pw2 = new PrintWriter("bin/rnd.json")) {
+        PrintWriter pw2 = new PrintWriter("bin/rnd.json"); PrintWriter urls = new PrintWriter("bin/urls.json"); PrintWriter cpids = new PrintWriter("bin/cpids.json")) {
       pw2.println("[\n");
+      urls.println("[\n");
+      cpids.println("[\n");
       String curr = br.readLine();
       while (curr != null) {
         curr = br.readLine();
         if (curr != null) {
           pw2.println(parse2(curr));
           pw2.flush();
+          urls.println("\"" + getURL(curr) + "\",");
+          urls.flush();
+          cpids.println(getCPID(curr) + ",");
+          cpids.flush();
         }
       }
       pw2.println("\n]");
+      urls.println("\n]");
+      cpids.println("\n]");
     }
+
   }
 }
