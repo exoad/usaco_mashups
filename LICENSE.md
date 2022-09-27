@@ -1,33 +1,5 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.512 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Tue Sep 27 2022 09:30:36 GMT-0700 (PDT)
-* Source doc: Untitled document
------>
-
-
-
-## [HP-1.0]
-
-
-## Standard Halcyoninae Protective 1.0 License
-
-
-##   — This is a source-available permissive license —
+## [HP-1.0] <br> Standard Halcyoninae Protective 1.0 License
+ — This is a source-available permissive license —
 
  
 
