@@ -25,7 +25,7 @@
   },
   "strings": {
     "arguments_null": "No Arguments",
-    "id_system_readme": "==ID System==\nThis bot uses a specialized ID system to classify problems\nThe general format is as so:\n\n[year][month_name][div_name][q_num]\n\nParameters:\nyear->The year of the contest (ex.: 2022)\nmonth_name->strictly 3 letters, allowed types:\n - jan -> January\n - feb -> February\n - opn -> US Open (April)\n - mar -> March\n - dec -> December\ndiv_name -> division name, strictly 4 letters, allowed types:\n - gold -> Gold\n - plat -> Platinum\n - silv -> Silver\n - brnz -> Bronze\nq_num -> The question number, allowed types: 1,2,3,4\n\nExample usage: 2020decbrnz2 -> USACO 2020 December Bronze Question #2"
+    "id_system_readme": "==ID System==\nThis bot uses a specialized ID system to classify problems\nThe general format is as so:\n\n[year][month_name][div_name][q_num]\n\nParameters:\nyear->The year of the contest (ex.: 2022)\nmonth_name->strictly 3 letters, allowed types:\n - jan -> January\n - feb -> February\n - opn -> US Open (April)\n - mar -> March\n - dec -> December\n - nov -> November\ndiv_name -> division name, strictly 4 letters, allowed types:\n - gold -> Gold\n - plat -> Platinum\n - silv -> Silver\n - brnz -> Bronze\nq_num -> The question number, allowed types: 1,2,3,4\n\nExample usage: 2020decbrnz2 -> USACO 2020 December Bronze Question #2"
   },
   "usaco" : {
     "maxim" : "1238"
