@@ -13,9 +13,9 @@ const BOT = require("../../configs/bot.json");
 const express = require("express");
 const app = express();
 const port = SERVER["express-port"];
+
 const bot = new Client({
-  intents: [IntentsBitField.Flags.Guilds, IntentsBitField.Flags.GuildMessages, IntentsBitField.Flags.MessageContent],
-});
+  intents: [IntentsBitField.Flags.Guilds, IntentsBitField.Flags.GuildMessages, IntentsBitField.Flags.MessageContent]});
 
 // @ts-ignore
 app.get("/", (r, res) => res.send(MESSAGES["api-on-ready"]));

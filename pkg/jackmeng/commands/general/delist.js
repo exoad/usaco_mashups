@@ -21,14 +21,14 @@ module.exports = {
       const mfilter = (trrr) => trrr.author.id === msg.author.id;
       msg.channel
         .send(
-          "**Are you sure?**\nDelisting your account will delete everything regarding your account from the registry.\nThis process is undoable...\nType y/Y/yes/n/N/no\nTime limit: 10 seconds"
+          "**Are you sure?**\nDelisting your account will delete everything regarding your account from the registry.\nThis process is undoable...\nType y/Y/yes/n/N/no\nTime limit: 5 seconds"
         )
         .then(
-          msg.channel
+          await msg.channel
             .awaitMessages({
               filter: mfilter,
               max: 1,
-              time: 10_000,
+              time: 5_000,
               errors: ["time"],
             })
             .then((m) => {
@@ -71,14 +71,14 @@ module.exports = {
                 m.channel.send("**Response Invalid.**\nTry again later...");
               }
             })
-        )
-        .catch((c) => {
-          msg.channel.send(
-            "**Request to delist user:**\n" +
-              msg.author.username +
-              "\nTIMED OUT, try again later..."
-          );
-        });
+            .catch(() => {
+              msg.channel.send(
+                "**Request to delist user:**\n" +
+                  msg.author.username +
+                  "\nTIMED OUT, try again later..."
+              );
+            })
+        );
     }
   },
 };
