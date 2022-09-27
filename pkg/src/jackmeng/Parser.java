@@ -117,8 +117,10 @@ public class Parser {
       urls.flush();
       cpids.println(getCPID(curr) + ",");
       cpids.flush();
-      mapm.println("\"" + getCPID(curr) + "\":" + "\"" + getID(curr) + "\",");
+      mapm.println("\"" + getID(curr) + "\":" + "\"" + getCPID(curr) + "\",");
       mapm.flush();
+      maps.println("\"" + getCPID(curr) + "\":" + parse2(curr));
+      maps.flush();
       while (curr != null) {
         curr = br.readLine();
         if (curr != null) {
@@ -130,12 +132,15 @@ public class Parser {
           cpids.flush();
           mapm.println("\"" + getID(curr) + "\":" + "\"" + getCPID(curr) + "\",");
           mapm.flush();
+          maps.println("\"" + getCPID(curr) + "\":" + parse2(curr));
+          maps.flush();
         }
       }
       pw2.println("\n]");
       urls.println("\n]");
       cpids.println("\n]");
       mapm.println("\n}");
+      maps.println("\n}");
     }
 
   }

@@ -1,2 +1,4322 @@
 {
-
+  "84": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=84",
+    "div": "BRONZE",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem1.",
+    "name": "Contest Timing"
+  },
+  "85": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=85",
+    "div": "BRONZE",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem2.",
+    "name": "Awkward Digits"
+  },
+  "86": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=86",
+    "div": "BRONZE",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem3.",
+    "name": "Moo Sick"
+  },
+  "87": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=87",
+    "div": "BRONZE",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem4.",
+    "name": "Cow Beauty Pageant (Bronze Level)"
+  },
+  "88": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=88",
+    "div": "SILVER",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem1.",
+    "name": "Cow Beauty Pageant (Silver Level)"
+  },
+  "89": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=89",
+    "div": "SILVER",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem2.",
+    "name": "Cow Lineup"
+  },
+  "90": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=90",
+    "div": "SILVER",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem3.",
+    "name": "Tile Exchanging"
+  },
+  "91": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=91",
+    "div": "GOLD",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem1.",
+    "name": "Above the Median"
+  },
+  "92": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=92",
+    "div": "GOLD",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem2.",
+    "name": "Binary Sudoku"
+  },
+  "93": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=93",
+    "div": "GOLD",
+    "year": "2011",
+    "month": "11",
+    "qnum": "Problem3.",
+    "name": "Cow Steeplechase"
+  },
+  "94": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=94",
+    "div": "BRONZE",
+    "year": "2011",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Hay Bales"
+  },
+  "95": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=95",
+    "div": "BRONZE",
+    "year": "2011",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Cow Photography (Bronze Level)"
+  },
+  "96": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=96",
+    "div": "BRONZE",
+    "year": "2011",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Escaping the Farm"
+  },
+  "97": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=97",
+    "div": "SILVER",
+    "year": "2011",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Cow Photography"
+  },
+  "98": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=98",
+    "div": "SILVER",
+    "year": "2011",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Roadblock"
+  },
+  "99": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=99",
+    "div": "SILVER",
+    "year": "2011",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Umbrellas for Cows"
+  },
+  "100": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=100",
+    "div": "GOLD",
+    "year": "2011",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Cow Photography"
+  },
+  "101": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=101",
+    "div": "GOLD",
+    "year": "2011",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Simplifying the Farm"
+  },
+  "102": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=102",
+    "div": "GOLD",
+    "year": "2011",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Grass Planting"
+  },
+  "103": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=103",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Gifts"
+  },
+  "104": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=104",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Haybale Stacking"
+  },
+  "105": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=105",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Grazing Patterns"
+  },
+  "106": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=106",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Delivery Route"
+  },
+  "107": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=107",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Bale Share"
+  },
+  "108": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=108",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Mountain Climbing"
+  },
+  "109": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=109",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Video Game"
+  },
+  "110": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=110",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Cow Run"
+  },
+  "111": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=111",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Bovine Alliance"
+  },
+  "112": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=112",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Rope Folding"
+  },
+  "113": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=113",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Overplanting (Bronze)"
+  },
+  "114": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=114",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Moo"
+  },
+  "115": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=115",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Overplanting (Silver)"
+  },
+  "116": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=116",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Cow IDs"
+  },
+  "117": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=117",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Relocation"
+  },
+  "118": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=118",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Cow Coupons"
+  },
+  "119": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=119",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Symmetry"
+  },
+  "120": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=120",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Nearby Cows"
+  },
+  "121": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=121",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "3",
+    "qnum": "Problem1.",
+    "name": "Times 17"
+  },
+  "122": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=122",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "3",
+    "qnum": "Problem2.",
+    "name": "Connect the Cows"
+  },
+  "123": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=123",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "3",
+    "qnum": "Problem3.",
+    "name": "Wrong Directions"
+  },
+  "124": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=124",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "3",
+    "qnum": "Problem1.",
+    "name": "Tractor"
+  },
+  "125": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=125",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "3",
+    "qnum": "Problem2.",
+    "name": "Flowerpot"
+  },
+  "126": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=126",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "3",
+    "qnum": "Problem3.",
+    "name": "Landscaping"
+  },
+  "127": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=127",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "3",
+    "qnum": "Problem1.",
+    "name": "Large Banner"
+  },
+  "128": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=128",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "3",
+    "qnum": "Problem2.",
+    "name": "Haybale Restacking"
+  },
+  "129": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=129",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "3",
+    "qnum": "Problem3.",
+    "name": "Cows in a Skyscraper"
+  },
+  "130": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=130",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Cows in a Row"
+  },
+  "131": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=131",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Three Lines"
+  },
+  "132": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=132",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Islands"
+  },
+  "133": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=133",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem4.",
+    "name": "Unlocking Blocks"
+  },
+  "134": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=134",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Unlocking Blocks (Silver)"
+  },
+  "135": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=135",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Bookshelf (Silver)"
+  },
+  "136": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=136",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Running Laps"
+  },
+  "137": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=137",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Tied Down"
+  },
+  "138": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=138",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Bookshelf"
+  },
+  "139": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=139",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Balanced Cow Subsets"
+  },
+  "187": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=187",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "11",
+    "qnum": "Problem1.",
+    "name": "Find the Cow!"
+  },
+  "188": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=188",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "11",
+    "qnum": "Problem2.",
+    "name": "Typo"
+  },
+  "189": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=189",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "11",
+    "qnum": "Problem3.",
+    "name": "Horseshoes"
+  },
+  "190": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=190",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "11",
+    "qnum": "Problem1.",
+    "name": "Clumsy Cows"
+  },
+  "191": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=191",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "11",
+    "qnum": "Problem2.",
+    "name": "Distant Pastures"
+  },
+  "192": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=192",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "11",
+    "qnum": "Problem3.",
+    "name": "Balanced Cow Breeds"
+  },
+  "193": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=193",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "11",
+    "qnum": "Problem1.",
+    "name": "Balanced Cow Breeds"
+  },
+  "194": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=194",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "11",
+    "qnum": "Problem2.",
+    "name": "Concurrently Balanced Strings"
+  },
+  "195": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=195",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "11",
+    "qnum": "Problem3.",
+    "name": "Balanced Trees"
+  },
+  "205": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=205",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Meet and Greet"
+  },
+  "206": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=206",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Scrambled Letters"
+  },
+  "207": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=207",
+    "div": "BRONZE",
+    "year": "2012",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Crazy Fences"
+  },
+  "208": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=208",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Crazy Fences"
+  },
+  "209": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=209",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Wifi Setup"
+  },
+  "210": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=210",
+    "div": "SILVER",
+    "year": "2012",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Milk Routing"
+  },
+  "211": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=211",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Gangs of Instanbull/Cowstantinople"
+  },
+  "212": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=212",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "First!"
+  },
+  "213": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=213",
+    "div": "GOLD",
+    "year": "2012",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Running Away From the Barn"
+  },
+  "223": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=223",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Mirrors"
+  },
+  "224": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=224",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Painting the Fence"
+  },
+  "225": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=225",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Liars and Truth Tellers"
+  },
+  "226": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=226",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Painting the Fence"
+  },
+  "227": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=227",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Square Overlap"
+  },
+  "228": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=228",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Party Invitations"
+  },
+  "229": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=229",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Cow Lineup"
+  },
+  "230": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=230",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Island Travels"
+  },
+  "231": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=231",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Seating"
+  },
+  "241": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=241",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Message Relay"
+  },
+  "242": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=242",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Cow Crossings"
+  },
+  "243": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=243",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Perimeter"
+  },
+  "244": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=244",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Perimeter"
+  },
+  "245": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=245",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Tractor"
+  },
+  "246": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=246",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Milk Scheduling"
+  },
+  "247": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=247",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Partitioning the Farm"
+  },
+  "248": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=248",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Taxi"
+  },
+  "249": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=249",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Route Design"
+  },
+  "259": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=259",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "3",
+    "qnum": "Problem1.",
+    "name": "Cow Race"
+  },
+  "260": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=260",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "3",
+    "qnum": "Problem2.",
+    "name": "Breed Proximity"
+  },
+  "261": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=261",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "3",
+    "qnum": "Problem3.",
+    "name": "Breed Assignment"
+  },
+  "262": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=262",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "3",
+    "qnum": "Problem1.",
+    "name": "Poker Hands"
+  },
+  "263": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=263",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "3",
+    "qnum": "Problem2.",
+    "name": "Farm Painting"
+  },
+  "264": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=264",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "3",
+    "qnum": "Problem3.",
+    "name": "The Cow Run"
+  },
+  "265": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=265",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "3",
+    "qnum": "Problem1.",
+    "name": "The Cow Run"
+  },
+  "266": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=266",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "3",
+    "qnum": "Problem2.",
+    "name": "Hill Walk"
+  },
+  "267": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=267",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "3",
+    "qnum": "Problem3.",
+    "name": "Necklace"
+  },
+  "278": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=278",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Bovine Ballet"
+  },
+  "279": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=279",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Blink"
+  },
+  "280": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=280",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Photo"
+  },
+  "281": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=281",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem4.",
+    "name": "Haywire"
+  },
+  "282": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=282",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "What's Up With Gravity"
+  },
+  "283": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=283",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Fuel Economy"
+  },
+  "284": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=284",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Luxury River Cruise"
+  },
+  "285": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=285",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Photo"
+  },
+  "286": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=286",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Yin and Yang"
+  },
+  "287": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=287",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Figure Eight"
+  },
+  "340": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=340",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "11",
+    "qnum": "Problem1.",
+    "name": "Combination Lock"
+  },
+  "341": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=341",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "11",
+    "qnum": "Problem2.",
+    "name": "Goldilocks and the N Cows"
+  },
+  "342": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=342",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "11",
+    "qnum": "Problem3.",
+    "name": "Farmer John has no Large Brown Cow"
+  },
+  "343": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=343",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "11",
+    "qnum": "Problem1.",
+    "name": "Farmer John has no Large Brown Cow"
+  },
+  "344": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=344",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "11",
+    "qnum": "Problem2.",
+    "name": "Crowded Cows"
+  },
+  "345": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=345",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "11",
+    "qnum": "Problem3.",
+    "name": "Pogo-Cow"
+  },
+  "346": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=346",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "11",
+    "qnum": "Problem1.",
+    "name": "Empty Stalls"
+  },
+  "347": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=347",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "11",
+    "qnum": "Problem2.",
+    "name": "Line of Sight"
+  },
+  "348": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=348",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "11",
+    "qnum": "Problem3.",
+    "name": "No Change"
+  },
+  "358": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=358",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Record Keeping"
+  },
+  "359": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=359",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Cow Baseball"
+  },
+  "360": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=360",
+    "div": "BRONZE",
+    "year": "2013",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Wormholes"
+  },
+  "361": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=361",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Milk Scheduling"
+  },
+  "362": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=362",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Vacation Planning"
+  },
+  "363": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=363",
+    "div": "SILVER",
+    "year": "2013",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "The Bessie Shuffle"
+  },
+  "364": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=364",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Vacation Planning (gold)"
+  },
+  "365": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=365",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Optimal Milking"
+  },
+  "366": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=366",
+    "div": "GOLD",
+    "year": "2013",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "The Bessie Shuffle (gold)"
+  },
+  "376": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=376",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Ski Course Design"
+  },
+  "377": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=377",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Bessie Slows Down"
+  },
+  "378": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=378",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Balanced Teams"
+  },
+  "379": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=379",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Bessie Slows Down"
+  },
+  "380": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=380",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Cross Country Skiing"
+  },
+  "381": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=381",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Recording the Moolympics"
+  },
+  "382": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=382",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Cow Curling"
+  },
+  "383": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=383",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Building a Ski Course"
+  },
+  "384": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=384",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Ski Course Rating"
+  },
+  "394": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=394",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Mirror Field"
+  },
+  "395": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=395",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Auto-Complete"
+  },
+  "396": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=396",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Secret Code"
+  },
+  "397": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=397",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Auto-Complete"
+  },
+  "398": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=398",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Roadblock"
+  },
+  "399": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=399",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Secret Code"
+  },
+  "400": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=400",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Roadblock"
+  },
+  "401": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=401",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Cow Decathlon"
+  },
+  "402": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=402",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Airplane Boarding"
+  },
+  "412": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=412",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "3",
+    "qnum": "Problem1.",
+    "name": "Reordering the Cows"
+  },
+  "413": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=413",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "3",
+    "qnum": "Problem2.",
+    "name": "The Lazy Cow"
+  },
+  "414": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=414",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "3",
+    "qnum": "Problem3.",
+    "name": "Cow Art"
+  },
+  "415": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=415",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "3",
+    "qnum": "Problem1.",
+    "name": "Watering the Fields"
+  },
+  "416": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=416",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "3",
+    "qnum": "Problem2.",
+    "name": "The Lazy Cow"
+  },
+  "417": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=417",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "3",
+    "qnum": "Problem3.",
+    "name": "Mooo Moo"
+  },
+  "418": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=418",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "3",
+    "qnum": "Problem1.",
+    "name": "The Lazy Cow"
+  },
+  "419": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=419",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "3",
+    "qnum": "Problem2.",
+    "name": "Sabotage"
+  },
+  "420": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=420",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "3",
+    "qnum": "Problem3.",
+    "name": "Counting Friends"
+  },
+  "430": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=430",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Odometer"
+  },
+  "431": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=431",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Fair Photography"
+  },
+  "432": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=432",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Decorating the Pastures"
+  },
+  "433": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=433",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Fair Photography"
+  },
+  "434": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=434",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Dueling GPSs"
+  },
+  "435": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=435",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Odometer"
+  },
+  "436": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=436",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Fair Photography"
+  },
+  "437": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=437",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Cow Optics"
+  },
+  "438": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=438",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Code Breaking"
+  },
+  "487": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=487",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Marathon"
+  },
+  "488": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=488",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Crosswords"
+  },
+  "489": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=489",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Cow Jog"
+  },
+  "490": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=490",
+    "div": "BRONZE",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem4.",
+    "name": "Learning by Example"
+  },
+  "491": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=491",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Piggyback"
+  },
+  "492": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=492",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Marathon"
+  },
+  "493": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=493",
+    "div": "SILVER",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Cow Jog"
+  },
+  "494": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=494",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Guard Mark"
+  },
+  "495": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=495",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Marathon"
+  },
+  "496": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=496",
+    "div": "GOLD",
+    "year": "2014",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Cow Jog"
+  },
+  "507": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=507",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Cow Routing"
+  },
+  "508": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=508",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Cow Routing II"
+  },
+  "509": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=509",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "It's All About the Base"
+  },
+  "510": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=510",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem4.",
+    "name": "Meeting Time"
+  },
+  "511": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=511",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Stampede"
+  },
+  "512": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=512",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Cow Routing"
+  },
+  "513": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=513",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Meeting Time"
+  },
+  "514": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=514",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Cow Rectangles"
+  },
+  "515": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=515",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Moovie Mooving"
+  },
+  "516": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=516",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Grass Cownoisseur"
+  },
+  "526": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=526",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Censoring (Bronze)"
+  },
+  "527": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=527",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "COW"
+  },
+  "528": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=528",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Cow Hopscotch (Bronze)"
+  },
+  "529": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=529",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Censoring (Silver)"
+  },
+  "530": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=530",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Cow Hopscotch (Silver)"
+  },
+  "531": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=531",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Superbull"
+  },
+  "532": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=532",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Cow Hopscotch (Gold)"
+  },
+  "533": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=533",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Censoring (Gold)"
+  },
+  "534": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=534",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Fencing the Herd"
+  },
+  "545": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=545",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Moocryption"
+  },
+  "546": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=546",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Bessie Gets Even"
+  },
+  "547": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=547",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Trapped in the Haybales (Bronze)"
+  },
+  "548": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=548",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem4.",
+    "name": "Palindromic Paths (Bronze)"
+  },
+  "549": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=549",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Bessie Goes Moo"
+  },
+  "550": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=550",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Trapped in the Haybales (Silver)"
+  },
+  "551": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=551",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Bessie's Birthday Buffet"
+  },
+  "552": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=552",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Googol"
+  },
+  "553": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=553",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Palindromic Paths"
+  },
+  "554": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=554",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Trapped in the Haybales (Gold)"
+  },
+  "567": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=567",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Fence Painting"
+  },
+  "568": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=568",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Speeding Ticket"
+  },
+  "569": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=569",
+    "div": "BRONZE",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Contaminated Milk"
+  },
+  "570": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=570",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Switching on the Lights"
+  },
+  "571": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=571",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "High Card Wins"
+  },
+  "572": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=572",
+    "div": "SILVER",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Breed Counting"
+  },
+  "573": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=573",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "High Card Low Card (Gold)"
+  },
+  "574": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=574",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Fruit Feast"
+  },
+  "575": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=575",
+    "div": "GOLD",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Bessie's Dream"
+  },
+  "576": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=576",
+    "div": "PLATINUM",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Max Flow"
+  },
+  "577": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=577",
+    "div": "PLATINUM",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "High Card Low Card (Platinum)"
+  },
+  "578": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=578",
+    "div": "PLATINUM",
+    "year": "2015",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Counting Haybales"
+  },
+  "591": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=591",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Promotion Counting"
+  },
+  "592": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=592",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Angry Cows"
+  },
+  "593": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=593",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Mowing the Field"
+  },
+  "594": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=594",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Angry Cows"
+  },
+  "595": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=595",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Subsequences Summing to Sevens"
+  },
+  "596": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=596",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Build Gates"
+  },
+  "597": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=597",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Angry Cows"
+  },
+  "598": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=598",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Radio Contact"
+  },
+  "599": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=599",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Lights Out"
+  },
+  "600": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=600",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Fort Moo"
+  },
+  "601": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=601",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Mowing the Field"
+  },
+  "602": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=602",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Lights Out"
+  },
+  "615": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=615",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Milk Pails"
+  },
+  "616": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=616",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Circular Barn"
+  },
+  "617": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=617",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Load Balancing"
+  },
+  "618": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=618",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Circular Barn"
+  },
+  "619": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=619",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Load Balancing"
+  },
+  "620": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=620",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Milk Pails"
+  },
+  "621": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=621",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Circular Barn"
+  },
+  "622": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=622",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Circular Barn Revisited"
+  },
+  "623": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=623",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Fenced In"
+  },
+  "624": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=624",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Load Balancing"
+  },
+  "625": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=625",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Fenced In"
+  },
+  "626": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=626",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Circular Barn"
+  },
+  "639": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=639",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Diamond Collector"
+  },
+  "640": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=640",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Bull in a China Shop"
+  },
+  "641": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=641",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Field Reduction"
+  },
+  "642": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=642",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Field Reduction"
+  },
+  "643": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=643",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Diamond Collector"
+  },
+  "644": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=644",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Closing the Farm"
+  },
+  "645": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=645",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Splitting the Field"
+  },
+  "646": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=646",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Closing the Farm"
+  },
+  "647": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=647",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "248"
+  },
+  "648": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=648",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "262144"
+  },
+  "649": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=649",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Bull in a China Shop"
+  },
+  "650": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=650",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Landscaping"
+  },
+  "663": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=663",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Square Pasture"
+  },
+  "664": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=664",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Block Game"
+  },
+  "665": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=665",
+    "div": "BRONZE",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "The Cow-Signal"
+  },
+  "666": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=666",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Counting Haybales"
+  },
+  "667": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=667",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Cities and States"
+  },
+  "668": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=668",
+    "div": "SILVER",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Moocast"
+  },
+  "669": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=669",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Moocast"
+  },
+  "670": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=670",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Cow Checklist"
+  },
+  "671": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=671",
+    "div": "GOLD",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Lasers and Mirrors"
+  },
+  "672": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=672",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Lots of Triangles"
+  },
+  "673": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=673",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Team Building"
+  },
+  "674": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=674",
+    "div": "PLATINUM",
+    "year": "2016",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Robotic Cow Herd"
+  },
+  "687": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=687",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Don't Be Last!"
+  },
+  "688": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=688",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Hoof, Paper, Scissors"
+  },
+  "689": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=689",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Cow Tipping"
+  },
+  "690": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=690",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Cow Dance Show"
+  },
+  "691": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=691",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Hoof, Paper, Scissors"
+  },
+  "692": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=692",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Secret Cow Code"
+  },
+  "693": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=693",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Balanced Photo"
+  },
+  "694": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=694",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Hoof, Paper, Scissors"
+  },
+  "695": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=695",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Cow Navigation"
+  },
+  "696": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=696",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Promotion Counting"
+  },
+  "697": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=697",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Building a Tall Barn"
+  },
+  "698": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=698",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Subsequence Reversal"
+  },
+  "711": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=711",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Why Did the Cow Cross the Road"
+  },
+  "712": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=712",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Why Did the Cow Cross the Road II"
+  },
+  "713": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=713",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Why Did the Cow Cross the Road III"
+  },
+  "714": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=714",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Why Did the Cow Cross the Road"
+  },
+  "715": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=715",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Why Did the Cow Cross the Road II"
+  },
+  "716": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=716",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Why Did the Cow Cross the Road III"
+  },
+  "717": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=717",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Why Did the Cow Cross the Road"
+  },
+  "718": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=718",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Why Did the Cow Cross the Road II"
+  },
+  "719": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=719",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Why Did the Cow Cross the Road III"
+  },
+  "720": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=720",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Why Did the Cow Cross the Road"
+  },
+  "721": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=721",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Why Did the Cow Cross the Road II"
+  },
+  "722": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=722",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Why Did the Cow Cross the Road III"
+  },
+  "735": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=735",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "The Lost Cow"
+  },
+  "736": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=736",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Bovine Genomics"
+  },
+  "737": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=737",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Modern Art"
+  },
+  "738": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=738",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Paired Up"
+  },
+  "739": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=739",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Bovine Genomics"
+  },
+  "740": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=740",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Where's Bessie?"
+  },
+  "741": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=741",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Bovine Genomics"
+  },
+  "742": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=742",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Modern Art"
+  },
+  "743": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=743",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Modern Art 2"
+  },
+  "744": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=744",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Modern Art"
+  },
+  "745": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=745",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Switch Grass"
+  },
+  "746": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=746",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "COWBASIC"
+  },
+  "759": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=759",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Blocked Billboard"
+  },
+  "760": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=760",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "The Bovine Shuffle"
+  },
+  "761": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=761",
+    "div": "BRONZE",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Milk Measurement"
+  },
+  "762": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=762",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "My Cow Ate My Homework"
+  },
+  "763": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=763",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Milk Measurement"
+  },
+  "764": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=764",
+    "div": "SILVER",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "The Bovine Shuffle"
+  },
+  "765": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=765",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "A Pie for a Pie"
+  },
+  "766": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=766",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Barn Painting"
+  },
+  "767": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=767",
+    "div": "GOLD",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Haybale Feast"
+  },
+  "768": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=768",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Standing Out from the Herd"
+  },
+  "769": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=769",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Push a Box"
+  },
+  "770": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=770",
+    "div": "PLATINUM",
+    "year": "2017",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Greedy Gift Takers"
+  },
+  "783": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=783",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Blocked Billboard II"
+  },
+  "784": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=784",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Lifeguards"
+  },
+  "785": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=785",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Out of Place"
+  },
+  "786": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=786",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Lifeguards"
+  },
+  "787": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=787",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Rental Service"
+  },
+  "788": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=788",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "MooTube"
+  },
+  "789": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=789",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "MooTube"
+  },
+  "790": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=790",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Cow at Large"
+  },
+  "791": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=791",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Stamp Painting"
+  },
+  "792": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=792",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Lifeguards"
+  },
+  "793": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=793",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Cow at Large"
+  },
+  "794": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=794",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Sprinklers"
+  },
+  "807": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=807",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Teleportation"
+  },
+  "808": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=808",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Hoofball"
+  },
+  "809": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=809",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Taming the Herd"
+  },
+  "810": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=810",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Rest Stops"
+  },
+  "811": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=811",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Snow Boots"
+  },
+  "812": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=812",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Teleportation"
+  },
+  "813": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=813",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Snow Boots"
+  },
+  "814": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=814",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Directory Traversal"
+  },
+  "815": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=815",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Taming the Herd"
+  },
+  "816": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=816",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Slingshot"
+  },
+  "817": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=817",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "New Barns"
+  },
+  "818": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=818",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Cow Gymnasts"
+  },
+  "831": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=831",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Team Tic Tac Toe"
+  },
+  "832": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=832",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Milking Order"
+  },
+  "833": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=833",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Family Tree"
+  },
+  "834": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=834",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Out of Sorts"
+  },
+  "835": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=835",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Lemonade Line"
+  },
+  "836": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=836",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Multiplayer Moo"
+  },
+  "837": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=837",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Out of Sorts"
+  },
+  "838": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=838",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Milking Order"
+  },
+  "839": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=839",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Talent Show"
+  },
+  "840": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=840",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Out of Sorts"
+  },
+  "841": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=841",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Train Tracking"
+  },
+  "842": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=842",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Disruption"
+  },
+  "855": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=855",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Mixing Milk"
+  },
+  "856": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=856",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "The Bucket List"
+  },
+  "857": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=857",
+    "div": "BRONZE",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Back and Forth"
+  },
+  "858": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=858",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Convention"
+  },
+  "859": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=859",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Convention II"
+  },
+  "860": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=860",
+    "div": "SILVER",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Mooyo Mooyo"
+  },
+  "861": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=861",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Fine Dining"
+  },
+  "862": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=862",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Cowpatibility"
+  },
+  "863": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=863",
+    "div": "GOLD",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Teamwork"
+  },
+  "864": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=864",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Balance Beam"
+  },
+  "865": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=865",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Sort It Out"
+  },
+  "866": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=866",
+    "div": "PLATINUM",
+    "year": "2018",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "The Cow Gathering"
+  },
+  "891": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=891",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Shell Game"
+  },
+  "892": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=892",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Sleepy Cow Sorting"
+  },
+  "893": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=893",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Guess the Animal"
+  },
+  "894": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=894",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Grass Planting"
+  },
+  "895": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=895",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Icy Perimeter"
+  },
+  "896": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=896",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Mountain View"
+  },
+  "897": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=897",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Cow Poetry"
+  },
+  "898": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=898",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Sleepy Cow Sorting"
+  },
+  "899": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=899",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Shortcut"
+  },
+  "900": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=900",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Redistricting"
+  },
+  "901": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=901",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Exercise Route"
+  },
+  "902": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=902",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Train Tracking 2"
+  },
+  "915": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=915",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Sleepy Cow Herding"
+  },
+  "916": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=916",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "The Great Revegetation"
+  },
+  "917": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=917",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Measuring Traffic"
+  },
+  "918": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=918",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Sleepy Cow Herding"
+  },
+  "919": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=919",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Painting the Barn"
+  },
+  "920": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=920",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "The Great Revegetation"
+  },
+  "921": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=921",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Cow Land"
+  },
+  "922": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=922",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Dishwashing"
+  },
+  "923": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=923",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Painting the Barn"
+  },
+  "924": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=924",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Cow Dating"
+  },
+  "925": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=925",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Moorio Kart"
+  },
+  "926": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=926",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Mowing Mischief"
+  },
+  "939": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=939",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Bucket Brigade"
+  },
+  "940": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=940",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Milk Factory"
+  },
+  "941": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=941",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Cow Evolution"
+  },
+  "942": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=942",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Left Out"
+  },
+  "943": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=943",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Cow Steeplechase II"
+  },
+  "944": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=944",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Fence Planning"
+  },
+  "945": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=945",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Snakes"
+  },
+  "946": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=946",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "I Would Walk 500 Miles"
+  },
+  "947": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=947",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Balancing Inversions"
+  },
+  "948": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=948",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Tree Boxes"
+  },
+  "949": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=949",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Compound Escape"
+  },
+  "950": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=950",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Valleys"
+  },
+  "963": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=963",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Cow Gymnastics"
+  },
+  "964": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=964",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Where Am I?"
+  },
+  "965": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=965",
+    "div": "BRONZE",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Livestock Lineup"
+  },
+  "966": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=966",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "MooBuzz"
+  },
+  "967": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=967",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Meetings"
+  },
+  "968": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=968",
+    "div": "SILVER",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Milk Visits"
+  },
+  "969": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=969",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Milk Pumping"
+  },
+  "970": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=970",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Milk Visits"
+  },
+  "971": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=971",
+    "div": "GOLD",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Moortal Cowmbat"
+  },
+  "972": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=972",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Greedy Pie Eaters"
+  },
+  "973": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=973",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Bessie's Snow Cow"
+  },
+  "974": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=974",
+    "div": "PLATINUM",
+    "year": "2019",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Tree Depth"
+  },
+  "987": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=987",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Word Processor"
+  },
+  "988": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=988",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Photoshoot"
+  },
+  "989": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=989",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Race"
+  },
+  "990": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=990",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Berry Picking"
+  },
+  "991": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=991",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Loan Repayment"
+  },
+  "992": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=992",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Wormhole Sort"
+  },
+  "993": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=993",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Time is Mooney"
+  },
+  "994": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=994",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Farmer John Solves 3SUM"
+  },
+  "995": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=995",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Springboards"
+  },
+  "996": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=996",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Cave Paintings"
+  },
+  "997": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=997",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Non-Decreasing Subsequences"
+  },
+  "998": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=998",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Falling Portals"
+  },
+  "1011": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1011",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Triangles"
+  },
+  "1012": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1012",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Mad Scientist"
+  },
+  "1013": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1013",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Swapity Swap"
+  },
+  "1014": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1014",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Swapity Swapity Swap"
+  },
+  "1015": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1015",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Triangles"
+  },
+  "1016": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1016",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Clock Tree"
+  },
+  "1017": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1017",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Timeline"
+  },
+  "1018": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1018",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Help Yourself"
+  },
+  "1019": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1019",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Delegation"
+  },
+  "1020": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1020",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Delegation"
+  },
+  "1021": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1021",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Equilateral Triangles"
+  },
+  "1022": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1022",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Help Yourself"
+  },
+  "1035": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1035",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Social Distancing I"
+  },
+  "1036": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1036",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Social Distancing II"
+  },
+  "1037": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1037",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Cowntact Tracing"
+  },
+  "1038": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1038",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Social Distancing"
+  },
+  "1039": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1039",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Cereal"
+  },
+  "1040": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1040",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "The Moo Particle"
+  },
+  "1041": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1041",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Haircut"
+  },
+  "1042": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1042",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Favorite Colors"
+  },
+  "1043": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1043",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Exercise"
+  },
+  "1044": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1044",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Sprinklers 2: Return of the Alfalfa"
+  },
+  "1045": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1045",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Exercise"
+  },
+  "1046": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1046",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Circus"
+  },
+  "1059": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1059",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Do You Know Your ABCs?"
+  },
+  "1060": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1060",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Daisy Chains"
+  },
+  "1061": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1061",
+    "div": "BRONZE",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Stuck in a Rut"
+  },
+  "1062": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1062",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Cowntagion"
+  },
+  "1063": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1063",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Rectangular Pasture"
+  },
+  "1064": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1064",
+    "div": "SILVER",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Stuck in a Rut"
+  },
+  "1065": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1065",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Replication"
+  },
+  "1066": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1066",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Bovine Genetics"
+  },
+  "1067": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1067",
+    "div": "GOLD",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Square Pasture"
+  },
+  "1068": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1068",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Sleeping Cows"
+  },
+  "1069": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1069",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Spaceship"
+  },
+  "1070": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1070",
+    "div": "PLATINUM",
+    "year": "2020",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Cowmistry"
+  },
+  "1083": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1083",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Uddered but not Herd"
+  },
+  "1084": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1084",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Even More Odd Photos"
+  },
+  "1085": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1085",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Just Stalling"
+  },
+  "1086": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1086",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Dance Mooves"
+  },
+  "1087": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1087",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "No Time to Paint"
+  },
+  "1088": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1088",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Spaced Out"
+  },
+  "1089": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1089",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Uddered but not Herd"
+  },
+  "1090": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1090",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Telephone"
+  },
+  "1091": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1091",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Dance Mooves"
+  },
+  "1092": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1092",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Sum of Distances"
+  },
+  "1093": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1093",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Minimum Cost Paths"
+  },
+  "1094": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1094",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Paint by Letters"
+  },
+  "1107": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1107",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Year of the Cow"
+  },
+  "1108": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1108",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Comfortable Cows"
+  },
+  "1109": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1109",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Clockwise Fence"
+  },
+  "1110": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1110",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Comfortable Cows"
+  },
+  "1111": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1111",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Year of the Cow"
+  },
+  "1112": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1112",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Just Green Enough"
+  },
+  "1113": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1113",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Stone Game"
+  },
+  "1114": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1114",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Modern Art 3"
+  },
+  "1115": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1115",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Count the Cows"
+  },
+  "1116": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1116",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "No Time to Dry"
+  },
+  "1117": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1117",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Minimizing Edges"
+  },
+  "1118": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1118",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Counting Graphs"
+  },
+  "1131": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1131",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Acowdemia I"
+  },
+  "1132": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1132",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Acowdemia II"
+  },
+  "1133": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1133",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Acowdemia III"
+  },
+  "1134": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1134",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Maze Tac Toe"
+  },
+  "1135": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1135",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Do You Know Your ABCs?"
+  },
+  "1136": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1136",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Acowdemia"
+  },
+  "1137": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1137",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "United Cows of Farmer John"
+  },
+  "1138": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1138",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Portals"
+  },
+  "1139": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1139",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Permutation"
+  },
+  "1140": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1140",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "United Cows of Farmer John"
+  },
+  "1141": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1141",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Routing Schemes"
+  },
+  "1142": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1142",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Balanced Subsets"
+  },
+  "1155": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1155",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Lonely Photo"
+  },
+  "1156": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1156",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Air Cownditioning"
+  },
+  "1157": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1157",
+    "div": "BRONZE",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Walking Home"
+  },
+  "1158": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1158",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Closest Cow Wins"
+  },
+  "1159": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1159",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Connecting Two Barns"
+  },
+  "1160": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1160",
+    "div": "SILVER",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Convoluted Intervals"
+  },
+  "1161": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1161",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Paired Up"
+  },
+  "1162": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1162",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "HILO"
+  },
+  "1163": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1163",
+    "div": "GOLD",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "Bracelet Crossings"
+  },
+  "1164": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1164",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem1.",
+    "name": "Tickets"
+  },
+  "1165": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1165",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem2.",
+    "name": "Paired Up"
+  },
+  "1166": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1166",
+    "div": "PLATINUM",
+    "year": "2021",
+    "month": "12",
+    "qnum": "Problem3.",
+    "name": "HILO"
+  },
+  "1179": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1179",
+    "div": "BRONZE",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Herdle"
+  },
+  "1180": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1180",
+    "div": "BRONZE",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Non-Transitive Dice"
+  },
+  "1181": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1181",
+    "div": "BRONZE",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Drought"
+  },
+  "1182": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1182",
+    "div": "SILVER",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Searching for Soulmates"
+  },
+  "1183": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1183",
+    "div": "SILVER",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Cow Frisbee"
+  },
+  "1184": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1184",
+    "div": "SILVER",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Cereal 2"
+  },
+  "1185": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1185",
+    "div": "GOLD",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Drought"
+  },
+  "1186": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1186",
+    "div": "GOLD",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Farm Updates"
+  },
+  "1187": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1187",
+    "div": "GOLD",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Tests for Haybales"
+  },
+  "1188": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1188",
+    "div": "PLATINUM",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem1.",
+    "name": "Minimizing Haybales"
+  },
+  "1189": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1189",
+    "div": "PLATINUM",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem2.",
+    "name": "Counting Haybales"
+  },
+  "1190": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1190",
+    "div": "PLATINUM",
+    "year": "2022",
+    "month": "1",
+    "qnum": "Problem3.",
+    "name": "Multiple Choice Test"
+  },
+  "1203": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1203",
+    "div": "BRONZE",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Sleeping in Class"
+  },
+  "1204": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1204",
+    "div": "BRONZE",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Photoshoot 2"
+  },
+  "1205": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1205",
+    "div": "BRONZE",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Blocks"
+  },
+  "1206": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1206",
+    "div": "SILVER",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Redistributing Gifts"
+  },
+  "1207": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1207",
+    "div": "SILVER",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Robot Instructions"
+  },
+  "1208": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1208",
+    "div": "SILVER",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Email Filing"
+  },
+  "1209": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1209",
+    "div": "GOLD",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Redistributing Gifts"
+  },
+  "1210": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1210",
+    "div": "GOLD",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Cow Camp"
+  },
+  "1211": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1211",
+    "div": "GOLD",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Moo Network"
+  },
+  "1212": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1212",
+    "div": "PLATINUM",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem1.",
+    "name": "Paint by Rectangles"
+  },
+  "1213": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1213",
+    "div": "PLATINUM",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem2.",
+    "name": "Sleeping in Class"
+  },
+  "1214": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1214",
+    "div": "PLATINUM",
+    "year": "2022",
+    "month": "2",
+    "qnum": "Problem3.",
+    "name": "Phone Numbers"
+  },
+  "1227": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1227",
+    "div": "BRONZE",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Photoshoot"
+  },
+  "1228": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1228",
+    "div": "BRONZE",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Counting Liars"
+  },
+  "1229": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1229",
+    "div": "BRONZE",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Alchemy"
+  },
+  "1230": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1230",
+    "div": "SILVER",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Visits"
+  },
+  "1231": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1231",
+    "div": "SILVER",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Subset Equality"
+  },
+  "1232": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1232",
+    "div": "SILVER",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "COW Operations"
+  },
+  "1233": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1233",
+    "div": "GOLD",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "Apple Catching"
+  },
+  "1234": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1234",
+    "div": "GOLD",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Pair Programming"
+  },
+  "1235": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1235",
+    "div": "GOLD",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Balancing a Tree"
+  },
+  "1236": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1236",
+    "div": "PLATINUM",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem1.",
+    "name": "262144 Revisited"
+  },
+  "1237": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1237",
+    "div": "PLATINUM",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem2.",
+    "name": "Hoof and Brain"
+  },
+  "1238": {
+    "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1238",
+    "div": "PLATINUM",
+    "year": "2022",
+    "month": "4",
+    "qnum": "Problem3.",
+    "name": "Up Down Subsequence"
+  }
+}
