@@ -45,7 +45,8 @@ public class Parser {
   public static String parseMonthName(String str) {
     str = str.toLowerCase();
     return str.startsWith("jan") ? "jan"
-        : str.startsWith("feb") ? "feb" : str.startsWith("uso") ? "opn" : str.startsWith("mar") ? "mar" : "jan";
+        : str.startsWith("feb") ? "feb" : str.startsWith("uso") ? "opn" : str.startsWith("mar") ? "mar" : str.startsWith("dec") ? "dec" : str
+            .startsWith("nov") ? "nov" :"jan";
   }
 
   public static String parseDivName(String str) {
