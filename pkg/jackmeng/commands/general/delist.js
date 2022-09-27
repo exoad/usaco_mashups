@@ -10,7 +10,7 @@ const manifest = require("../../../../internal/MANIFEST.json");
 module.exports = {
   config: {
     name: "delist",
-    category: "General",
+    category: "Registry",
     description: "Removes your accounts from the bot's registry. :(",
     usage: app.strings.arguments_null,
     aliases: [`deregister`],

@@ -9,7 +9,7 @@ const manifest = require("../../../../internal/MANIFEST.json");
 module.exports = {
   config: {
     name: "register",
-    category: "General",
+    category: "Registry",
     description:
       "Register yourself to the bot and allow telemetry for recommending you problems.",
     usage: "1 argument | {division=plat,gold,silver,bronze,camp,ioi,none}",

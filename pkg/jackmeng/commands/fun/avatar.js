@@ -5,7 +5,7 @@ const colors = require("../../../../configs/colors.json");
 module.exports = {
   config: {
     name: "avatar",
-    category: "Utility",
+    category: "Fun",
     description: "Get the avatar of someone",
     usage: "1 arg(s) : [@user]",
     aliases: [``],

@@ -9,7 +9,7 @@ const manifest = require("../../../../internal/MANIFEST.json");
 module.exports = {
   config: {
     name: "blacklist",
-    category: "DEVELOPER",
+    category: "Developer",
     description: "INTERNAL ONLY",
     usage: "REDACTED",
     aliases: [`block`],

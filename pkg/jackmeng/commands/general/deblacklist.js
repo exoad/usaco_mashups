@@ -9,9 +9,9 @@ const manifest = require("../../../../internal/MANIFEST.json");
 module.exports = {
   config: {
     name: "deblacklist",
-    category: "",
+    category: "Developer",
     description: "INTERNAL ONLY",
-    usage: "",
+    usage: "INTERNAL ONLY",
     aliases: [`unblock`],
   },
   run: async (bot, msg, args) => {
