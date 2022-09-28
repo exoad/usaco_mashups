@@ -1,3 +1,5 @@
+package jackmeng.samples;
+
 import static java.lang.System.out;
 
 import java.io.BufferedReader;
@@ -10,7 +12,7 @@ import java.util.List;
 
 public class Parser {
 
-  public static class Qaud<A> {
+  public static class Quad<A> {
     public List<A> first;
     public List<A> second;
     public List<A> third;
@@ -277,6 +279,7 @@ public class Parser {
       }
       qType.println("\n]");
       qType.println("\n}");
+      qType.flush();
     }
   }
 }

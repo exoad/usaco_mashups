@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Parser {
-  public static class Qaud<A> {
+  public static class Quad<A> {
     public List<A> first;
     public List<A> second;
     public List<A> third;
