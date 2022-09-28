@@ -10,7 +10,7 @@ module.exports = {
     category: "General",
     description: "Get a random question from USACO",
     usage: app.strings.arguments_null,
-    aliases: [`singleton`],
+    aliases: [`randomq`],
   },
   run: async (bot, msg, args) => {
     function parseMonth(intMonth) {

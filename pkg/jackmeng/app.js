@@ -15,7 +15,12 @@ const app = express();
 const port = SERVER["express-port"];
 
 const bot = new Client({
-  intents: [IntentsBitField.Flags.Guilds, IntentsBitField.Flags.GuildMessages, IntentsBitField.Flags.MessageContent]});
+  intents: [
+    IntentsBitField.Flags.Guilds,
+    IntentsBitField.Flags.GuildMessages,
+    IntentsBitField.Flags.MessageContent,
+  ],
+});
 
 // @ts-ignore
 app.get("/", (r, res) => res.send(MESSAGES["api-on-ready"]));
@@ -45,11 +50,27 @@ bot.on("messageCreate", async (msg) => {
     // @ts-ignore
     msg.content == `<@!${bot.user.id}>`
   )
-    msg.channel.send(`My prefix is: \`${BOT.utils.prefix}\`\nUse \`${BOT.utils.prefix}help\` to get commands to use`);
+    msg.channel.send(
+      `My prefix is: \`${BOT.utils.prefix}\`\nUse \`${BOT.utils.prefix}help\` to get commands to use`
+    );
   if (msg.content === "1984") {
     msg.channel.send(
       "read and be inspired by big brother here: https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Orwell-1949%201984.pdf"
     );
+  }
+  if (msg.author.id == MANIFEST.MASTER_ID && msg.content == "kys bot") {
+    var curr = new Date().getTime();
+    msg.channel
+      .send("**BRUH!**\nGoing down for a restart...")
+      .then((m) => {
+        m.delete();
+        bot.destroy();
+      })
+      .then(() => {
+        bot.login(MANIFEST.TOKEN);
+        // @ts-ignore
+        msg.channel.send("**OK**\nRestarted In: " + (new Date().getTime() - curr) + "ms");
+      });
   }
 });
 
