@@ -9,11 +9,11 @@ const manifest = require("../../../../internal/MANIFEST.json");
 
 module.exports = {
   config: {
-    name: "idk",
+    name: "idhelp",
     category: "General",
     description: "Get information on how problem ID works for this bot",
     usage: app.strings.arguments_null,
-    aliases: [`idsystem`, `idhelp`],
+    aliases: [`idsystem`, `idk`],
   },
   run: async (bot, msg, args) => {
     const embed = new EmbedBuilder()
