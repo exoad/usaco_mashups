@@ -14,7 +14,7 @@ module.exports = {
     description: "Get your account information",
     usage:
       "Optional Arguments\n1 -> setdiv = set division\n2 -> A division to set yourself to {plat,gold,silver,bronze,ioi,camp,none}",
-    aliases: [`account`],
+    aliases: [`who`],
   },
   run: async (bot, msg, args) => {
     const bldb = new Database(manifest["blacklisted-registry"]);
@@ -35,7 +35,7 @@ module.exports = {
           ? "Bronze"
           : intDiv == 5
           ? "Camp/IOI"
-          : "None";
+          : "None/Unknown";
       }
 
       function pDiv(divStr) {
@@ -48,7 +48,7 @@ module.exports = {
           ? 3
           : divStr.startsWith("bro")
           ? 4
-          : divStr.startsWith("camp") || divStr.startsWith("ioi")
+          : divStr.includes("camp") || divStr.includes("ioi")
           ? 5
           : -1;
       }
@@ -75,6 +75,7 @@ module.exports = {
             );
           } else {
             let usr = db.get(id);
+            console.log(JSON.stringify(usr));
             const embed = new EmbedBuilder()
               .setTitle("Telemetry For: " + msg.author.username)
               .addFields(
@@ -89,12 +90,12 @@ module.exports = {
                 },
                 {
                   name: "Solved Qs",
-                  value: !usr.solved ? "0" : usr.solved,
+                  value: "```" + usr.solved + "```",
                   inline: true,
                 },
                 {
-                  name: "Registration",
-                  value: !usr.regtime ? "Unknown" : usr.regtime,
+                  name: "Registration Time",
+                  value: "```" + usr.regtime + "```",
                   inline: true,
                 }
               );
