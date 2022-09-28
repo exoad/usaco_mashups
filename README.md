@@ -9,7 +9,17 @@ https://discord.com/api/oauth2/authorize?client_id=1023728180714016799&permissio
 
 This repository/software is not batteries included.
 
-# Telemetry Agreement
+# Affiliation Clause
+
+This piece of software provided IN ANY KIND shall not be affiliated with the following organization(s) in any way:
+
+usaco.org
+United States of America Computing Olympiad
+
+Doing so is a clear violation of the "NO commerical and educational affiliation" agreement found within the LICENSE file.
+
+
+# Telemetry Clause
 
 By using this bot, you agree to LICENSE for the software included. You also agree to an external clause regarding telemetry:
 
