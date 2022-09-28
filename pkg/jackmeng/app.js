@@ -19,6 +19,7 @@ const bot = new Client({
 
 // @ts-ignore
 app.get("/", (r, res) => res.send(MESSAGES["api-on-ready"]));
+// @ts-ignore
 app.listen(port, () => console.log("Port: " + port));
 
 ["aliases", "commands", "description", "category"].forEach(
@@ -44,7 +45,7 @@ bot.on("messageCreate", async (msg) => {
     // @ts-ignore
     msg.content == `<@!${bot.user.id}>`
   )
-    msg.channel.send(`My prefix is: \`${BOT.utils.prefix}\``);
+    msg.channel.send(`My prefix is: \`${BOT.utils.prefix}\`\nUse \`${BOT.utils.prefix}help\` to get commands to use`);
   if (msg.content === "1984") {
     msg.channel.send(
       "read and be inspired by big brother here: https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Orwell-1949%201984.pdf"

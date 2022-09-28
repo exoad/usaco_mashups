@@ -43,7 +43,10 @@ module.exports = {
                 division: parseDiv(args[0]),
                 regtime: new Date().toLocaleString(),
                 solved: 0,
+                rating: 0,
                 solvedqs: [],
+                history: [],
+                others: [],
               });
               x.edit(
                 "**Registered** " +
