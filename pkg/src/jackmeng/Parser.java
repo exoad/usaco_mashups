@@ -8,7 +8,24 @@ import java.io.PrintWriter;
 
 import static java.lang.System.out;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Parser {
+  public static class Qaud<A> {
+    public List<A> first;
+    public List<A> second;
+    public List<A> third;
+    public List<A> fourth;
+
+    public Quad(final int def_size) {
+      first = new ArrayList<>(def_size);
+      second = new ArrayList<>(def_size);
+      third = new ArrayList<>(def_size);
+      fourth = new ArrayList<>(def_size);
+    }
+  }
+
   static String ATTRIBUTES_DELIMITER;
   static int MAXIM, MINIM;
 
@@ -100,17 +117,24 @@ public class Parser {
       f.delete();
       f.createNewFile();
     }
+    if (new File("bin/qType.json").exists()) {
+      File f = new File("bin/qType.json");
+      f.delete();
+      f.createNewFile();
+    }
     try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("bin/scraper.txt")));
         PrintWriter pw2 = new PrintWriter("bin/rnd.json");
         PrintWriter urls = new PrintWriter("bin/urls.json");
         PrintWriter cpids = new PrintWriter("bin/cpids.json");
         PrintWriter mapm = new PrintWriter("bin/map_master.json");
-        PrintWriter maps = new PrintWriter("bin/map_slave.json");) {
+        PrintWriter maps = new PrintWriter("bin/map_slave.json");
+        PrintWriter qType = new PrintWriter("bin/qType.json")) {
       pw2.println("[\n");
       urls.println("[\n");
       cpids.println("[\n");
       mapm.println("{\n");
       maps.println("{\n");
+      qType.println("{\n");
       String curr = br.readLine();
       pw2.println(parse2(curr));
       pw2.flush();
@@ -142,6 +166,9 @@ public class Parser {
       cpids.println("\n]");
       mapm.println("\n}");
       maps.println("\n}");
+
+      Quad<String> divQs = new Quad<>(10);
+      /* MOVE ON TO PROBLEM SORTING */
     }
 
   }
