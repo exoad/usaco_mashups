@@ -9,6 +9,11 @@ https://discord.com/api/oauth2/authorize?client_id=1023728180714016799&permissio
 
 This bot does not come running out of the bot (for obvious reasons).
 
+Dependencies are described in package-lock.json.
+
+Running the PARSER & SCRAPER require at least JRE_14+ with the JSOUP library
+interned.
+
 # Pregenerated Data
 
 If you do not wish to run the Scraper, you may use the scraped data that I have generated in
