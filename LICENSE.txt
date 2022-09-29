@@ -3,7 +3,7 @@ Standard Halcyoninae Protective 1.0 License
   — This is a source-available permissive license —
  
 Copyright © 2021 Jack Meng
-
+All rights reserved.
 
 ==Please read this licensing carefully.==
 Any modification in any means, including the usage of the program by any end-user, is considered the agreement to this EULA and licensing. 
