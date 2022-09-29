@@ -11,6 +11,8 @@
 
 _Copyright © 2021 Jack Meng_
 
+All rights reserved.
+
 **<span style="text-decoration:underline;">==Please read this licensing carefully.==</span>**
 
 Any modification in any means, including the usage of the program by any end-user, is considered the agreement to this EULA and licensing. 
