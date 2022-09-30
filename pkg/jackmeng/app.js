@@ -59,17 +59,20 @@ bot.on("messageCreate", async (msg) => {
     );
   }
   if (msg.author.id == MANIFEST.MASTER_ID && msg.content == "kys bot") {
-    var curr = new Date().getTime();
+    let curr = new Date().getTime();
+    let curr2 = new Date().getTime();
     msg.channel
       .send("**BRUH!**\nGoing down for a restart...")
       .then((m) => {
         m.delete();
+        curr = new Date().getTime();
         bot.destroy();
       })
       .then(() => {
+        let lt = new Date().getTime();
         bot.login(MANIFEST.TOKEN);
         // @ts-ignore
-        msg.channel.send("**OK**\nRestarted In: " + (new Date().getTime() - curr) + "ms");
+        msg.channel.send("**OK**\nRestarted In: " + (new Date().getTime() - curr2) + "ms\nWith Error: " + (lt - curr) + "ms");
       });
   }
 });
