@@ -6,7 +6,8 @@
     "http": "^0.0.1-security",
     "latenz": "^0.2.4",
     "moment": "^2.29.4",
-    "secure-db": "^3.2.1"
+    "secure-db": "^3.2.1",
+    "superagent": "^8.0.1"
   },
   "name": "usaco-mashup-bot",
   "version": "1.0.0",

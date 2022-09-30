@@ -26,11 +26,13 @@ module.exports = {
         let arr = bot.commands;
         let t = new Map();
         arr.forEach((x) => {
-          let old =
-            (!t.get(x.config.category) ? "" : t.get(x.config.category)) +
-            x.config.name +
-            "\n";
-          t.set(x.config.category, old);
+          if (x.config.category != "Developer") {
+            let old =
+              (!t.get(x.config.category) ? "" : t.get(x.config.category)) +
+              x.config.name +
+              " ";
+            t.set(x.config.category, old);
+          }
         });
         let ar = [];
         t.forEach((re, r) => {
