@@ -169,6 +169,11 @@ public class Parser {
 
       Quad<String> divQs = new Quad<>(10);
       /* MOVE ON TO PROBLEM SORTING */
+
+
+      // END SESSION RUNNERS //
+      Parser.main();
+      ContestTime.main();
     }
 
   }

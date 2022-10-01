@@ -16,8 +16,18 @@ module.exports = {
       .setTitle("USACO Site")
       // @ts-ignore
       .setColor(colors.default_purple)
-      .setDescription(
-        "You can find the USACO website here: " + app.urls.usaco_site
+      .setDescription("Resources related to USACO")
+      .addFields(
+        {
+          name: "Website",
+          value: "http://www.usaco.org/",
+          inline: true,
+        },
+        {
+          name: "USACO Training",
+          value: "http://train.usaco.org/",
+          inline: true,
+        }
       )
       .setFooter({ text: "NEVER SHARE YOUR USACO LOGINS TO ANYONE" });
 

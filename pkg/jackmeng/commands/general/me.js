@@ -75,7 +75,6 @@ module.exports = {
             );
           } else {
             let usr = db.get(id);
-            console.log(JSON.stringify(usr));
             const embed = new EmbedBuilder()
               .setTitle("Telemetry For: " + msg.author.username)
               .addFields(
