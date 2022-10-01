@@ -26,7 +26,7 @@ module.exports = {
     let id = msg.author.id;
     const bldb = new Database(manifest["blacklisted-registry"]);
     const db = new Database(manifest["users-registry"]);
-    if (bldb.has(id) || bldb.get(id).level != 1 || !db.has(id)) {
+    if (bldb.has(id) || !db.has(id)) {
       msg.channel.send(
         "**!!**\nThere was an issue with retrieving your registry\nThis could be narrowed down to the following:\n>  1. You don't have an account | Use: `" +
           app.utils.prefix +
