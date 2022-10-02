@@ -5,9 +5,15 @@
 Invite this bot here:
 https://discord.com/api/oauth2/authorize?client_id=1023728180714016799&permissions=3843929668855&scope=bot
 
-# Setting this bot up
+# Personal Use Clause
 
-This repository/software is not batteries included.
+You may only use this piece of software under the already stated legals in LICENSE. However, there are other key concepts
+that must be added below:
+
+1. You are not allowed to redistribute source code without stating modifications
+2. You are not allowed to redistribute semi-binaries and binaries from any source code
+3. You are not allowed to redistribute the used dependencies in your redistribution of this program (maven, node)
+4. All source code modified or unmodified are all rights reserved to the respective right holder (me).
 
 # Affiliation Clause
 
