@@ -10,10 +10,10 @@ module.exports = {
   },
   run: async (bot, msg, args) => {
     let rety = msg.content.split(" ").slice(1);
-    if(rety.length != 0) {
-	msg.channel.send(rety.join(" "));
+    if (rety.length != 0) {
+      msg.channel.send(rety.join(" "));
     } else {
-	return;
+      return;
     }
   },
 };

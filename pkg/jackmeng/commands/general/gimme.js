@@ -35,9 +35,7 @@ module.exports = {
     } else {
       if (args.length == 0) {
         let div = db.get(id).division;
-
       } else {
-
       }
     }
   },

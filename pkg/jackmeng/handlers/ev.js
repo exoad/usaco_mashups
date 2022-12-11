@@ -2,8 +2,10 @@ const { readdirSync } = require("fs");
 const BOT = require("../../../configs/bot.json");
 
 module.exports = (bot) => {
-  const load = dirs => {
-    const events = readdirSync("./pkg/jackmeng/events/" + dirs + "/").filter(d => d.endsWith(".js"));
+  const load = (dirs) => {
+    const events = readdirSync("./pkg/jackmeng/events/" + dirs + "/").filter(
+      (d) => d.endsWith(".js")
+    );
     let count = 0;
     for (let f of events) {
       const evt = require("../events/" + dirs + "/" + f);
@@ -14,5 +16,5 @@ module.exports = (bot) => {
     }
     console.log("Loaded: " + count + " event handlers");
   };
-  BOT.internals["events-mocale"].forEach(x => load(x));
-}
+  BOT.internals["events-mocale"].forEach((x) => load(x));
+};

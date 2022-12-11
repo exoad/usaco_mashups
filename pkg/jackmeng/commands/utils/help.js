@@ -49,7 +49,9 @@ module.exports = {
         .setDescription(
           "This command can be used with an argument: `" +
             app.utils.prefix +
-            "help [command]` to get information specific for that command. You can also use `" + app.utils.prefix + "cmdspew` to get a plain list of aliases and commands without detail."
+            "help [command]` to get information specific for that command. You can also use `" +
+            app.utils.prefix +
+            "cmdspew` to get a plain list of aliases and commands without detail."
         )
         .addFields(getIndividualCategories());
       msg.channel.send({ embeds: [embed] });

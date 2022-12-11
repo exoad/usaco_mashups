@@ -26,7 +26,10 @@ module.exports = {
           erased = true;
         }
         msg.channel.send(
-          "Blocked this user from this bot's services.\nWith level: " + args[1] + "\nErased Registry? " + erased
+          "Blocked this user from this bot's services.\nWith level: " +
+            args[1] +
+            "\nErased Registry? " +
+            erased
         );
       }
     }

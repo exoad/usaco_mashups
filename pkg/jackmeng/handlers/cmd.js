@@ -4,8 +4,8 @@ const BOT = require("../../../configs/bot.json");
 
 module.exports = (bot) => {
   const load = (dirs) => {
-    const commands = readdirSync("./pkg/jackmeng/commands/" + dirs).filter((d) =>
-      d.endsWith(".js")
+    const commands = readdirSync("./pkg/jackmeng/commands/" + dirs).filter(
+      (d) => d.endsWith(".js")
     );
     let count = 0;
     for (let f of commands) {

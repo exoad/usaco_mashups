@@ -8,13 +8,15 @@ module.exports = {
     category: "Utility",
     description: "Spews all of the avaliable commands",
     usage: app.strings.arguments_null,
-aliases: [`commandspew`],
+    aliases: [`commandspew`],
   },
   run: async (bot, msg, args) => {
     const embed = new EmbedBuilder()
       // @ts-ignore
       .setColor(colors.default_green)
-      .setDescription("```" + Array.from(bot.commands.keys()).toString() + "```")
+      .setDescription(
+        "```" + Array.from(bot.commands.keys()).toString() + "```"
+      )
       .setTimestamp()
       .setTitle(
         "Command Spew [" + Array.from(bot.commands.keys()).length + "]"

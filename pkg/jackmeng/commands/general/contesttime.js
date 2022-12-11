@@ -30,7 +30,7 @@ module.exports = {
         .setTitle("USACO Contest Schedule")
         .setDescription(!schedule ? "Unable to retrieve reqest" : schedule)
         .setFooter({
-          text: "[!!] These date and time are not up to date, even at the usaco.org level [!!]",
+          text: "[!!] These dates and times may or may not up to date, take it with a grain of salt [!!]",
         })
         .setColor("Random");
       msg.channel.send({ embeds: [embed] });
