@@ -26,6 +26,8 @@ module.exports = {
     if (bldb.has(id)) {
       return;
     } else {
+      if (!args) return;
+      if (args.join("%20").trim().length === 0) return;
       const { body } = await superagent.get(
         manifest.api_endpoints.owo_endpoint_own + args.join("%20")
       );

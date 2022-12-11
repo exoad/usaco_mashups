@@ -67,19 +67,30 @@ module.exports = {
         );
       } else {
         const embed = new EmbedBuilder()
-          .setTitle(fcmd.config.name)
+          .setTitle(!fcmd.config.name ? fcmd.config.name : cmd)
           .addFields(
             {
               name: "Description",
-              value: "```\n" + fcmd.config.description + "```",
+              value:
+                "```\n" +
+                (!fcmd.config.description
+                  ? "Unknown"
+                  : fcmd.config.description) +
+                "```",
             },
             {
               name: "Category",
-              value: "`" + fcmd.config.category + "`",
+              value:
+                "`" +
+                (!fcmd.config.category ? "Unknown" : fcmd.config.category) +
+                "`",
             },
             {
               name: "Usage",
-              value: "```\n" + fcmd.config.usage + "```",
+              value:
+                "```\n" +
+                (!fcmd.config.usage ? "Unknown" : fcmd.config.usage) +
+                "```",
             },
             {
               name: "Potential Aliases",
