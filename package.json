@@ -14,7 +14,7 @@
   "description": "USACO Mashup bot",
   "main": "pkg/jackmeng/app.js",
   "scripts": {
-    "test": "node ."
+    "test": "echo Hi"
   },
   "keywords": [
     "usaco-mashup",
