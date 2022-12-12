@@ -49,9 +49,7 @@ module.exports = {
         .setDescription(
           "This command can be used with an argument: `" +
             app.utils.prefix +
-            "help [command]` to get information specific for that command. You can also use `" +
-            app.utils.prefix +
-            "cmdspew` to get a plain list of aliases and commands without detail."
+            "help [command]` to get information specific for that command. You can also use `" + app.utils.prefix + "cmdspew` to get a plain list of aliases and commands without detail."
         )
         .addFields(getIndividualCategories());
       msg.channel.send({ embeds: [embed] });
@@ -67,30 +65,19 @@ module.exports = {
         );
       } else {
         const embed = new EmbedBuilder()
-          .setTitle(!fcmd.config.name ? fcmd.config.name : cmd)
+          .setTitle(fcmd.config.name)
           .addFields(
             {
               name: "Description",
-              value:
-                "```\n" +
-                (!fcmd.config.description
-                  ? "Unknown"
-                  : fcmd.config.description) +
-                "```",
+              value: "```\n" + fcmd.config.description + "```",
             },
             {
               name: "Category",
-              value:
-                "`" +
-                (!fcmd.config.category ? "Unknown" : fcmd.config.category) +
-                "`",
+              value: "`" + fcmd.config.category + "`",
             },
             {
               name: "Usage",
-              value:
-                "```\n" +
-                (!fcmd.config.usage ? "Unknown" : fcmd.config.usage) +
-                "```",
+              value: "```\n" + fcmd.config.usage + "```",
             },
             {
               name: "Potential Aliases",
