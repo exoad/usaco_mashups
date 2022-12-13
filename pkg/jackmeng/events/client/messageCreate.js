@@ -1,4 +1,5 @@
 const BOT = require("../../../../configs/bot.json");
+const bot_profile = require("../../fx_db/fun_BotGeneric");
 
 module.exports = async (bot, msg) => {
   if (
@@ -12,5 +13,6 @@ module.exports = async (bot, msg) => {
   let cmdFile = bot.commands.get(cmd) || bot.commands.get(bot.aliases.get(cmd));
   if (cmdFile) {
     cmdFile.run(bot, msg, args);
+    bot_profile.interaction_increment();
   }
 };
