@@ -1,8 +1,9 @@
 // @ts-nocheck
 const { EmbedBuilder } = require("discord.js");
 const colors = require("../../../../configs/colors.json");
+const internals = require("../../../../internal/MANIFEST.json");
 const app = require("../../../../configs/bot.json");
-
+const discordjs = require("../../fx/fun_DiscordJS");
 module.exports = {
   config: {
     name: "botinfo",
@@ -12,6 +13,7 @@ module.exports = {
     aliases: [`bot`],
   },
   run: async (bot, msg, args) => {
+    const e = discordjs.uptime(bot);
     const embed = new EmbedBuilder()
       .setColor(`${colors.default_orange}`)
       .setTitle("Bot Information Pane")
@@ -26,6 +28,16 @@ module.exports = {
           name: "Discord Server",
           value: "https://discord.gg/PbJQRT9zQ8",
           inline: true,
+        },
+        {
+          name: "Uptime",
+          value: `${e.days} days ${e.hours} hours , ${e.minutes} minutes & ${e.seconds} seconds`,
+          inline: true
+        },
+        {
+          name: "Database Schema Provider",
+          value: "`"+internals.database_backed_schema_v+"`",
+          inline: true
         }
       );
 

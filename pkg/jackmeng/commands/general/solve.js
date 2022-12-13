@@ -9,7 +9,7 @@ const { Database } = require("secure-db");
 const manifest = require("../../../../internal/MANIFEST.json");
 const qdbmaster = require("../../../../bin/map_master.json");
 const qdbslave = require("../../../../bin/map_slave.json");
-
+const usrParser = require("../../fx_db/fun_UserGeneric");
 module.exports = {
   config: {
     name: "solved",

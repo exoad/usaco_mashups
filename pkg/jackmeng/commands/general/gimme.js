@@ -33,11 +33,12 @@ module.exports = {
           "register [division=plat,gold,silver,bronze,none]`\n>   2. You have been blacklisted from the bot"
       );
     } else {
-      if (args.length == 0) {
+      if (args.length == 0) { // give a problem based on the user's division itself
         let div = db.get(id).division;
+        
       } else {
         let div = args[0];
-        
+
       }
     }
   },
