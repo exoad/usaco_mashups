@@ -1,4 +1,5 @@
 const { EmbedBuilder } = require("discord.js");
+const { parseMonth } = require("../../fx/fun_Basics");
 // @ts-ignore
 const colors = require("../../../../configs/colors.json");
 // @ts-ignore
@@ -36,22 +37,6 @@ module.exports = {
 
       function getProper(qpid) {
         return qdbslave[qdbmaster[qpid]];
-      }
-
-      function parseMonth(intMonth) {
-        return intMonth == "1"
-          ? "January"
-          : intMonth == "2"
-          ? "February"
-          : intMonth == "3"
-          ? "March"
-          : intMonth == "4"
-          ? "US Open"
-          : intMonth == "11"
-          ? "November"
-          : intMonth == "12"
-          ? "December"
-          : "?";
       }
       if (!args[0]) {
         const failure = new EmbedBuilder()

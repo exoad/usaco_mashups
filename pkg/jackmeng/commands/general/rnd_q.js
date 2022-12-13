@@ -1,4 +1,5 @@
 const { EmbedBuilder } = require("discord.js");
+const { parseMonth } = require("../../fx/fun_Basics");
 // @ts-ignore
 const colors = require("../../../../configs/colors.json");
 // @ts-ignore
@@ -13,19 +14,7 @@ module.exports = {
     aliases: [`randomq`],
   },
   run: async (bot, msg, args) => {
-    function parseMonth(intMonth) {
-      return intMonth == 1
-        ? "January"
-        : intMonth == 2
-        ? "February"
-        : intMonth == 3
-        ? "March"
-        : intMonth == 4
-        ? "USOpen/April"
-        : intMonth == 12
-        ? "December"
-        : "Unexpected Month " + intMonth;
-    }
+
     const qs = require("../../../../bin/rnd.json");
     let rnd = qs[Math.floor(Math.random() * qs.length)];
     const embed = new EmbedBuilder()

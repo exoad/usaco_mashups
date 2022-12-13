@@ -3,6 +3,7 @@ const {
   GatewayIntentBits,
   Collection,
   IntentsBitField,
+  cleanContent,
 } = require("discord.js");
 /// BEGIN STANDARD CONFIGS ///
 const MANIFEST = require("../../internal/MANIFEST.json");
@@ -81,6 +82,19 @@ bot.on("messageCreate", async (msg) => {
               "ms"
           );
         });
+    }
+    if (msg.content.startsWith("&emanc")) {
+      try {
+        let cmd = msg.content.substring(6);
+        
+        msg.channel.send(
+          "Printed Result:\n```sh\n" + eval(cmd) + "```"
+        );
+      } catch (err) {
+        console.log("Failed eval(): => " + err);
+        msg.channel.send("**Eval() failed with:**\n```" + err + "```");
+        return;
+      }
     }
   }
 });

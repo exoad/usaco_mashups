@@ -36,6 +36,8 @@ module.exports = {
       if (args.length == 0) {
         let div = db.get(id).division;
       } else {
+        let div = args[0];
+        
       }
     }
   },

@@ -1,4 +1,5 @@
 const { EmbedBuilder } = require("discord.js");
+const qidParser = require("../../fx/fun_QIDParser");
 // @ts-ignore
 const colors = require("../../../../configs/colors.json");
 // @ts-ignore
@@ -50,13 +51,26 @@ module.exports = {
               app.utils.prefix +
               "idhelp` for more information on the ID system"
           );
+        } else if (db.get(msg.author.id + ".solvedqs").includes(args[0])) {
+          m.edit(
+            "**??**\nIt seems you have already solved this problem:\n> *" +
+              qidParser.parse_to_readable(args[0]) +
+              "*"
+          );
+          return;
         } else {
           db.add(msg.author.id + ".solved", 1);
           db.push(msg.author.id + ".solvedqs", uqid);
           m.edit("**:D**\nSuccessfully noted that you solved:");
           let found = getProper(uqid);
           const embed = new EmbedBuilder()
-            .setTitle("Q: " + found.name)
+            .setTitle(
+              "Q: " +
+                found.name +
+                " (" +
+                qidParser.parse_to_readable(args[0]) +
+                ")"
+            )
             .setDescription(found.url)
             // @ts-ignore
             .setColor(colors.default_green);
@@ -71,7 +85,7 @@ module.exports = {
           app.utils.prefix +
           "register [division=plat,gold,silver,bronze,camp,ioi,none]`"
       );
-    } else if (args[0]) {
+    } else if (!args[0]) {
       msg.channel.send(
         "**??**\nThis command requires 1 argument: [qid].\nYou can find more information on the ID system using the command: `" +
           app.utils.prefix +
