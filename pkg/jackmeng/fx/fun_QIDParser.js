@@ -1,3 +1,6 @@
+/**
+ * @param  {string} qid A question Number ID
+ */
 function parse_to_arr(qid) {
   return [
     qid.substring(0, 4).toLowerCase(), // year
@@ -7,6 +10,26 @@ function parse_to_arr(qid) {
   ];
 }
 
+/**
+ * @param  {number} intDiv Divsiion specifier as an Integer
+ */
+function parseDiv(intDiv) {
+  return intDiv == 1
+    ? "Platinum"
+    : intDiv == 2
+    ? "Gold"
+    : intDiv == 3
+    ? "Silver"
+    : intDiv == 4
+    ? "Bronze"
+    : intDiv == 5
+    ? "Camp/IOI"
+    : "None/Unknown";
+}
+
+/**
+ * @param  {string} qid A question Number ID
+ */
 function parse_to_readable(qid) {
   const x = parse_to_arr(qid);
   return (
@@ -33,7 +56,7 @@ function parse_to_readable(qid) {
       ? "November"
       : x[1].startsWith("op")
       ? "USOpen"
-      : x[1].starsWith("ma")
+      : x[1].startsWith("ma")
       ? "March"
       : "Unknown") +
     " Problem #" +
@@ -41,4 +64,4 @@ function parse_to_readable(qid) {
   );
 }
 
-module.exports = { parse_to_readable, parse_to_arr };
+module.exports = { parse_to_readable, parse_to_arr, parseDiv };

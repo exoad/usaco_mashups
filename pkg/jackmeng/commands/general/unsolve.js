@@ -50,7 +50,7 @@ module.exports = {
       } else {
         let qid = args[0];
         if (qidVerifier.verify_qid(qid)) {
-          var s_q = db.get(msg.author.id).solvedqs;
+          let s_q = db.get(msg.author.id).solvedqs;
           if (!s_q || s_q.indexOf(qid.toLowerCase()) < 0) {
             msg.channel.send(
               "**!!**\nIt seems you have not solved: " +

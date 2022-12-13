@@ -6,7 +6,7 @@ const app = require("../../../../configs/bot.json");
 const { Database } = require("secure-db");
 // @ts-ignore
 const manifest = require("../../../../internal/MANIFEST.json");
-
+const {parseDiv} = require("../../fx/fun_QIDParser");
 module.exports = {
   config: {
     name: "me",
@@ -24,19 +24,7 @@ module.exports = {
         stringArgs0 = stringArgs0.toLowerCase();
         return dealerArr.includes(stringArgs0);
       }
-      function parseDiv(intDiv) {
-        return intDiv == 1
-          ? "Platinum"
-          : intDiv == 2
-          ? "Gold"
-          : intDiv == 3
-          ? "Silver"
-          : intDiv == 4
-          ? "Bronze"
-          : intDiv == 5
-          ? "Camp/IOI"
-          : "None/Unknown";
-      }
+
 
       function pDiv(divStr) {
         divStr = divStr.toLowerCase();

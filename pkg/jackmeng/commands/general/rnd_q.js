@@ -4,7 +4,7 @@ const { parseMonth } = require("../../fx/fun_Basics");
 const colors = require("../../../../configs/colors.json");
 // @ts-ignore
 const app = require("../../../../configs/bot.json");
-
+const { rnd_q } = require("../../fx/fun_StaticAPI");
 module.exports = {
   config: {
     name: "rndq",
@@ -14,9 +14,7 @@ module.exports = {
     aliases: [`randomq`],
   },
   run: async (bot, msg, args) => {
-
-    const qs = require("../../../../bin/rnd.json");
-    let rnd = qs[Math.floor(Math.random() * qs.length)];
+    let rnd = rnd_q();
     const embed = new EmbedBuilder()
       .setTitle(`RNDQ: ${rnd.name}`)
       .setURL(rnd.url)
