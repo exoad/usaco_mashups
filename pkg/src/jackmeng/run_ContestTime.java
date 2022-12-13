@@ -7,7 +7,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 // CSS-SELECTOR_PATH:
-public class ContestTime {
+public class run_ContestTime {
 
   static final String USACO_URL = "http://www.usaco.org/";
 

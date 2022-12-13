@@ -11,7 +11,7 @@ import static java.lang.System.out;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Parser {
+public class run_Parser {
   public static class Quad<A> {
     public List<A> first;
     public List<A> second;
@@ -89,9 +89,9 @@ public class Parser {
    */
   public static void main(String... args) throws Exception {
     if (args.length == 0) {
-      MINIM = Scraper.MINIM_SEARCH_QUERY;
-      MAXIM = Scraper.MAXIM_SEARCH_QUERY;
-      ATTRIBUTES_DELIMITER = Scraper.ATTRIBUTES_DELIMITER;
+      MINIM = run_Scraper.MINIM_SEARCH_QUERY;
+      MAXIM = run_Scraper.MAXIM_SEARCH_QUERY;
+      ATTRIBUTES_DELIMITER = run_Scraper.ATTRIBUTES_DELIMITER;
     } else {
       MINIM = Integer.parseInt(args[0]);
       MAXIM = Integer.parseInt(args[1]);
@@ -172,8 +172,8 @@ public class Parser {
 
 
       // END SESSION RUNNERS //
-      Parser.main();
-      ContestTime.main();
+      run_Parser.main();
+      run_ContestTime.main();
     }
 
   }

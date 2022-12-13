@@ -10,7 +10,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Parser {
+public class run_Parser {
 
   public static class Quad<A> {
     public List<A> first;

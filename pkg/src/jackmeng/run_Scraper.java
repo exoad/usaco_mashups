@@ -24,7 +24,7 @@ import org.jsoup.select.Elements;
  * @author Jack Meng
  * @since 1.0
  */
-public class Scraper {
+public class run_Scraper {
   public static class Contest {
     public STATE s;
     public String attributes;
