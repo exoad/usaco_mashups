@@ -6,6 +6,7 @@
     "http": "^0.0.1-security",
     "latenz": "^0.2.4",
     "moment": "^2.29.4",
+    "node-superfetch": "^0.3.3",
     "secure-db": "^3.2.1",
     "superagent": "^8.0.1",
     "systeminformation": "^5.16.6"
