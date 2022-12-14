@@ -8,7 +8,7 @@ function arr_rm(arr, v) {
   });
 }
 /**
- * @param  {number} intMonth The month number 1-12 representing what type to be validated as
+ * @param  {number|string} intMonth The month number 1-12 representing what type to be validated as
  */
 function parseMonth(intMonth) {
   return intMonth == 1

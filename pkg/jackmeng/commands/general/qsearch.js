@@ -79,7 +79,7 @@ module.exports = {
                   inline: true,
                 },
                 {
-                  name: "URI",
+                  name: "URL (HTTP)",
                   value: found.url,
                   inline: true,
                 },

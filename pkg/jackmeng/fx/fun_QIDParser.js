@@ -27,7 +27,56 @@ function parseDiv(intDiv) {
     : "None/Unknown";
 }
 
+function to_div_int(name) {
+  name = name.toLowerCase();
+  return name.startsWith("pla")
+    ? 1
+    : name.startsWith("gol")
+    ? 2
+    : name.startsWith("sil")
+    ? 3
+    : name.startsWith("bron")
+    ? 4
+    : 5;
+}
+
+function to_month_name(name) {
+  name = name.toLowerCase();
+  return name.startsWith("ja")
+    ? "January"
+    : name.startsWith("dec")
+    ? "December"
+    : name.startsWith("fe")
+    ? "February"
+    : name.startsWith("no")
+    ? "November"
+    : name.startsWith("op")
+    ? "USOpen"
+    : name.startsWith("ma")
+    ? "March"
+    : "UnknownMonth";
+}
+
+function to_month_num(name) {
+  name = name.toLowerCase();
+  return name.startsWith("ja")
+    ? 1
+    : name.startsWith("dec")
+    ? 12
+    : name.startsWith("fe")
+    ? 2
+    : name.startsWith("no")
+    ? 11
+    : name.startsWith("op")
+    ? 4
+    : name.startsWith("ma")
+    ? 3
+    : 0;
+}
+
 /**
+ * You should refer to using the much more intuitive:
+ * fun_StaticAPI.parse_pack(qid) and build your own readable format from there
  * @param  {string} qid A question Number ID
  */
 function parse_to_readable(qid) {
@@ -64,4 +113,11 @@ function parse_to_readable(qid) {
   );
 }
 
-module.exports = { parse_to_readable, parse_to_arr, parseDiv };
+module.exports = {
+  parse_to_readable,
+  parse_to_arr,
+  parseDiv,
+  to_div_int,
+  to_month_name,
+  to_month_num
+};
