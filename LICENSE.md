@@ -8,7 +8,7 @@ Version 2.0, November 2022</p>
 
 
 <p style="text-align: right">
-Copyright © Jack Meng 2020-2022</p>
+Copyright © Jack Meng 2023</p>
 
 _A safe-permissive license that enables friendly end-user consumption_
 </div>
