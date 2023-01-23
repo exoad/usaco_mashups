@@ -2,3 +2,5 @@
 
 
 ```oh yea idk how to javascript if u cant tell```
+
+```notice: this was an one off project, so dont expect me to constantly look after this project. therefore, it might get a few updates over a year```
