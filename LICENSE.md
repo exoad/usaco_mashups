@@ -17,7 +17,7 @@ You may only use the bundled source/binary(s) only in compliance with this LICEN
 
 <pre align="center" style="text-align:center">
   
-Copyright © [YYYY] [NAMES]
+Copyright © 2022-2023 Jack Meng (Exoad)
 All rights reserved to the above copyright holder(s).
   
 </pre>
