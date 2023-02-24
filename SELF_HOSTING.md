@@ -3,7 +3,7 @@ This project is not runnable out of the box and requires additional setup.
 
 
 ### Notice: By self hosting, you acknowledge the licenses written in ./LICENSE.md & ./LICENSE where:
-    1. Halcyon License -> All api source code
+    1. Halcyon License -> All source code
     2. GNU Affero -> All static api JSON files
 Any security vulnerabilities introduced during hosting is at your own dispense.
 You are also to assure the entire safe management of the internal secure db that preserves
