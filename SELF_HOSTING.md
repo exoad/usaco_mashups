@@ -1,5 +1,5 @@
 # Self Hosting
-This project is not runnable out of the box and requires additional by you.
+This project is not runnable out of the box and requires additional setup.
 
 
 ### Notice: By self hosting, you acknowledge the licenses written in ./LICENSE.md & ./LICENSE where:
