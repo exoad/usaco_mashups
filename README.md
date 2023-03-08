@@ -11,3 +11,5 @@ Wanna self host? Check out this [guide](./SELF_HOSTING.md)
 source code license : [LICENSE](./LICENSE)
 
 static api resource license : [LICENSE.md](./LICENSE.md)
+
+ntoice the static api is not kept up to date
