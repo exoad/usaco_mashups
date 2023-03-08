@@ -39,7 +39,7 @@ public class run_Scraper {
     NOGOOD, BRONZE, SILVER, GOLD, PLATINUM
   }
 
-  static final int MAXIM_SEARCH_QUERY = 1238;
+  static final int MAXIM_SEARCH_QUERY = 1500; // this value should be updated (increased) as more contests is addd, due to the cpid growing
   static final int MINIM_SEARCH_QUERY = 84;
   static final long TIME_LIMIT_ON_HOLD = 50L;
   static final int[] QUERY_LIST = { 1, 2, 3, 4 };
