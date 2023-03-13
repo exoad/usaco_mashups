@@ -55,7 +55,7 @@ You are to provide the emptied token spots for these fields:
 
 This step requires you have a Java runtime (preferably Java JSE11+). Then you can run the attached the Java parsing files under "pkg/src/jackmeng/" in the following order:
 
-**IN NO WAY SHOULD THE STATIC API SCRAPER BE IN RUN CONCURRENCE WITH THE NODEJS BACKEND. THERE ARE NO SYNCHRONIZATION AND MAY CAUSE UNWANTED OVERWRITS AND CORRUPTED READS BY BOTH ENDS (Java + JS)**
+**IN NO WAY SHOULD THE STATIC API SCRAPER BE IN RUN CONCURRENCE WITH THE NODEJS BACKEND. THERE ARE NO SYNCHRONIZATION AND MAY CAUSE UNWANTED OVERWRITES AND CORRUPTED READS BY BOTH ENDS (Java + JS)**
 
 1. `run_Scraper.java` -> Generates the necessary JSON files that can then be interpreted and categorized later by other parsers.
 2. `run_Parser.java` ->  Generates child JSON files from the original scraped JSON and divides them to be easily consumed by the JavaScript end
