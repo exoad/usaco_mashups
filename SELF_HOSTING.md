@@ -60,3 +60,11 @@ This step requires you have a Java runtime (preferably Java JSE11+). Then you ca
 1. `run_Scraper.java` -> Generates the necessary JSON files that can then be interpreted and categorized later by other parsers.
 2. `run_Parser.java` ->  Generates child JSON files from the original scraped JSON and divides them to be easily consumed by the JavaScript end
 3. `run_ContestTime.java` -> Generates an almost optional child scraped JSON that is not related to the USACO contest problems itself.
+
+** DO NOT MESS UP THE ORDER **
+
+## Using the GUI
+
+There is also funky GUI you can use that is attached to the program itself in the Java Process. You can launch this via running the class `jackmeng._JackMeng`. It has functionalities to run the bot, update it, etc., but all depends on if you have the right tools or not (i.e. NodeJS exists?, proper packages updated?...)
+
+This part of the software is a work in progress with more features being planned for the future!
