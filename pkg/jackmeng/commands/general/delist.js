@@ -21,7 +21,7 @@ module.exports = {
       const mfilter = (trrr) => trrr.author.id === msg.author.id;
       msg.channel
         .send(
-          "**Are you sure?**\nDelisting your account will delete everything regarding your account from the registry.\nThis process is undoable...\nType y/Y/yes/n/N/no\nTime limit: 5 seconds"
+          "**Are you sure?**\nDelisting your account will delete everything regarding your account from the registry.\nThis process is irreversible...\nType y/Y/yes/n/N/no\nTime limit: 5 seconds"
         )
         .then(
           await msg.channel
