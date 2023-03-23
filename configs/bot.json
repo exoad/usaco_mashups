@@ -5,6 +5,9 @@
   },
   "internals": {
     "listeners-max": 25,
+    "use-command-timeout": true,
+    "command-timeout-ms": 1750,
+    "command-timeout-message": "",
     "handlers-mocale": [
       "cmd",
       "ev"

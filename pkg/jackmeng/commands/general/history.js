@@ -14,7 +14,7 @@ module.exports = {
     description:
       "Get certain data surrounding your usage with this bot.\nThis command does not provide full telemetry collected.\nMake sure to use this command with caution if there are certain things you don't want others to see.",
     usage:
-      "1 Argument Accepted: [history_type]\n\nhistory_type -> all,solved,queries,solves\n\nExample Usage: " +
+      "1 Argument Accepted: [history_type]\n\nhistory_type -> all,solved,queries\n\nExample Usage: " +
       app.utils.prefix +
       "history all",
     aliases: [`hist`],
@@ -33,7 +33,7 @@ module.exports = {
       if (db.has(msg.author.id)) {
         msg.channel.send(":wave: Surfing the registry...").then((m) => {
           function better_str(funArr) {
-            if (funArr.length == 0) return "[EMPTY]";
+            if (funArr.length == 0) return "?";
             let str = "";
             funArr.forEach((m) => {
               str += m.toString() + "\n";
@@ -82,7 +82,7 @@ module.exports = {
                 "#" +
                 msg.author.discriminator
             )
-            .setName(rndstr(10) + ".log");
+            .setName(rndstr(10) + ".ex");
           msg.channel.send({ files: [hist] });
         });
       } else {

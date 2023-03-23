@@ -2,6 +2,7 @@ const { readdirSync } = require("fs");
 const moment = require("moment");
 const BOT = require("../../../configs/bot.json");
 
+
 module.exports = (bot) => {
   const load = (dirs) => {
     const commands = readdirSync("./pkg/jackmeng/commands/" + dirs).filter(
