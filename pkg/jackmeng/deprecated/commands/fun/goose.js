@@ -3,12 +3,12 @@
 
 const { EmbedBuilder } = require("discord.js");
 // @ts-ignore
-const colors = require("../../../../configs/colors.json");
+const colors = require("../../../../../configs/colors.json");
 // @ts-ignore
-const app = require("../../../../configs/bot.json");
+const app = require("../../../../../configs/bot.json");
 const { Database } = require("secure-db");
 // @ts-ignore
-const manifest = require("../../../../internal/MANIFEST.json");
+const manifest = require("../../../../../internal/MANIFEST.json");
 const superagent = require("superagent");
 
 module.exports = {
