@@ -68,6 +68,8 @@ module.exports = {
             mybot.interactions() +
             "`\n**Accepted Guilds** `" +
             bot.guilds.cache.size +
+            "`\n**Global Cooldown**`" +
+            app.internals["use-command-timeout"] +
             "`",
         }
       );
