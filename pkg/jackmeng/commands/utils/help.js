@@ -80,7 +80,7 @@ module.exports = {
               value: "```\n" + fcmd.config.usage + "```",
             },
             {
-              name: "Potential Aliases",
+              name: "Aliases",
               value: "```" + Array.from(fcmd.config.aliases).toString() + "```",
             }
           )

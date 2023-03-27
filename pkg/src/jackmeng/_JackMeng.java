@@ -8,6 +8,15 @@ public class _JackMeng
   {
     JFrame jf = new JFrame("USACO_MashUp Bot");
 
+    JButton start_Bot = new JButton("Start");
+    start_Bot.addActionListener(e -> );
+
+    jf.pack();
+    jf.setVisible(true);
+  }
+
+  static void exec(String cmd)
+  {
     
   }
 

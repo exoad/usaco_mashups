@@ -1,0 +1,5 @@
+#1 Make `history` command instead of using a file use reaction commands to page between different commands. This also enables users on mobile to easily view their solves without having to download the file (like that on desktop).
+
+#2 Fully test out the interpolation of custom tags and future tags into user-db without having to reupdate the db entirely. (This goes for the currently in development `solving` command)
+
+# Finish the GUI starter for the bot. (Swing/Java)
