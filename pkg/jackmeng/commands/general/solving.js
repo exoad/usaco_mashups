@@ -10,6 +10,8 @@ const { Database } = require("secure-db");
 // @ts-ignore
 const manifest = require("../../../../internal/MANIFEST.json");
 const superagent = require("superagent");
+const qid_Verifier = require("../../fx/fun_QIDVerifier");
+const qid_Parser = require("../../fx/fun_QIDParser");
 
 module.exports = {
   config: {
@@ -26,6 +28,7 @@ module.exports = {
     aliases: [`trying`],
   },
   run: async (bot, msg, args) => {
+    const solving_qs_user_NAME = "solving_qs";
     let id = msg.author.id;
     const bldb = new Database(manifest["blacklisted-registry"]);
     const db = new Database(manifest["users-registry"]);
@@ -37,7 +40,7 @@ module.exports = {
       );
     } else {
       let qid = args[0];
-      let e = db.get(id).others["solving-qs"];
+      let e = db.get(id + ".others." + solving_qs_user_NAME);
       if (!e) {
         msg.channel.send({
           embeds: [
@@ -49,11 +52,33 @@ module.exports = {
           ],
         });
         return;
-      } else if(qid) {
-
-      } else if (!qid) { // print out the ones the user is trying to solve at the current time
-        
-
+      } else if (qid && qid_Verifier.verify_qid(qid)) {
+        msg.channel
+          .send(":hedgehog: Adding **" + qid + "** to your list...")
+          .then((m) => {
+            if (e[qid])
+              m.edit(
+                "Oops, looks like you are already trying to solve **" +
+                  qid +
+                  "**.\n> __Problem Name__: " +
+                  qid_Parser.parse_to_readable(qid)
+              );
+            else {
+              db.push(id + ".others." + solving_qs_user_NAME, qid);
+              m.edit(
+                "Correctly appended **" +
+                  qid +
+                  "** (AKA " +
+                  qid_Parser.parse_to_readable(qid) +
+                  ") to your solving list!\n> Hint: Use this command without an argument to see your list."
+              );
+            }
+          });
+      } else if (!qid) {
+        // print out the ones the user is trying to solve at the current time
+        msg.channel
+          .send(":hedgehog: Fetching problems you are trying to solve...")
+          .then((m) => {});
       }
     }
   },
