@@ -59,7 +59,7 @@ bot.on("messageCreate", async (msg) => {
       "read and be inspired by big brother here: https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Orwell-1949%201984.pdf"
     );
   }
-  if (msg.author.id) {
+  if (msg.author.id == MANIFEST.MASTER_ID) {
     if (msg.content == "kys bot") {
       let curr = new Date().getTime();
       let curr2 = new Date().getTime();
