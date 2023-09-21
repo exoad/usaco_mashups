@@ -9,7 +9,7 @@
     "node-superfetch": "^0.3.3",
     "secure-db": "^3.2.1",
     "superagent": "^8.0.1",
-    "systeminformation": "^5.16.6"
+    "systeminformation": "^5.21.7"
   },
   "name": "usaco-mashup-bot",
   "version": "1.0.0",
