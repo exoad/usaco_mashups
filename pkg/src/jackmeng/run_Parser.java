@@ -204,9 +204,11 @@ public class run_Parser
       Quad< String > divQs = new Quad<>(10);
       /* MOVE ON TO PROBLEM SORTING */
 
-      // END SESSION RUNNERS //
-      run_Parser.main();
-      run_ContestTime.main();
+      /*------------------------- /
+      / // END SESSION RUNNERS // /
+      / run_Parser.main();        /
+      / run_ContestTime.main();   /
+      /--------------------------*/
     }
 
   }
