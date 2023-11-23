@@ -8,9 +8,9 @@ Wanna self host? Check out this [guide](./SELF_HOSTING.md)
 ```notice: this was an one off project, so dont expect me to constantly look after this project. therefore, it might get a few updates over a year```
 
 
-source code license : [LICENSE.md](./LICENSE.md)
+source code license : [LICENSE](./LICENSE)
 
-static api resource license : [LICENSE](./LICENSE) 
+static api resource license : [LICENSE](./bin/LICENSE) 
 
 ## Static API (Web)
 
