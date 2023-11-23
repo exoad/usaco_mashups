@@ -14,8 +14,7 @@
     ],
     "commands-mocale": [
       "general",
-      "utils",
-      "fun"
+      "utils"
     ],
     "commands-locale": "commands",
     "events-mocale": [
