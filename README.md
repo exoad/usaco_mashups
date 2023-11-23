@@ -11,3 +11,7 @@ Wanna self host? Check out this [guide](./SELF_HOSTING.md)
 source code license : [LICENSE.md](./LICENSE.md)
 
 static api resource license : [LICENSE](./LICENSE) 
+
+## Static API (Web)
+
+Simply reference the JSON file directly with `https://exoad.github.io/usaco_mashups/bin/{file_name}.json` for example `map_master`
