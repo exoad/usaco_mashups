@@ -38,11 +38,11 @@ module.exports = {
 <strong>Example Usage</strong>
 </summary>
 
+Source: [`./pkg/jackmeng/commands/utils/ping.js`](./pkg/jackmeng/commands/utils/ping.js)
+
 ```js
 const { EmbedBuilder, messageLink } = require("discord.js");
-// @ts-ignore
 const colors = require("../../../../configs/colors.json");
-// @ts-ignore
 const app = require("../../../../configs/bot.json");
 const ping = require("latenz");
 
