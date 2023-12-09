@@ -5,7 +5,7 @@
 
 If you don't want to use the official bot, you can self host the bot yourself.
 
-**Check out [`SELF_HOSTING.md`](./SELF_HOSTING.md)** for more info!**
+**Check out [`SELF_HOSTING.md`](./SELF_HOSTING.md) for more info!**
 
 ## Contributing & Documentation
 
