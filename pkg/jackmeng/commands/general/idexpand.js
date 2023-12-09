@@ -1,13 +1,11 @@
 const { EmbedBuilder } = require("discord.js");
 // @ts-ignore
-const colors = require("../../../../configs/colors.json");
 const qidParser = require("../../fx/fun_QIDParser");
 // @ts-ignore
 const app = require("../../../../configs/bot.json");
 const { Database } = require("secure-db");
 // @ts-ignore
 const manifest = require("../../../../internal/MANIFEST.json");
-const superagent = require("superagent");
 
 module.exports = {
   config: {

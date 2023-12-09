@@ -1,10 +1,6 @@
-const { EmbedBuilder } = require("discord.js");
-// @ts-ignore
-const colors = require("../../../../configs/colors.json");
-// @ts-ignore
+require("discord.js");
 const app = require("../../../../configs/bot.json");
 const { Database } = require("secure-db");
-// @ts-ignore
 const manifest = require("../../../../internal/MANIFEST.json");
 
 module.exports = {
@@ -15,7 +11,7 @@ module.exports = {
     usage: app.strings.arguments_null,
     aliases: [`deregister`],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg) => {
     const bldb = new Database(manifest["blacklisted-registry"]);
     if (!bldb.has(msg.author.id) || bldb.get(msg.author.id).level == "1") {
       const mfilter = (trrr) => trrr.author.id === msg.author.id;

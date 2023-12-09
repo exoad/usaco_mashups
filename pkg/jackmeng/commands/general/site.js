@@ -11,7 +11,7 @@ module.exports = {
     usage: app.strings.arguments_null,
     aliases: [`usacosite`, `cow`],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg, _args) => {
     const embed = new EmbedBuilder()
       .setTitle("USACO Site")
       // @ts-ignore

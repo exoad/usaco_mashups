@@ -23,7 +23,7 @@ module.exports = {
       "solved 2021opnbrnz1",
     aliases: [`ac`],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg, args) => {
     const bldb = new Database(manifest["blacklisted-registry"]);
     const db = new Database(manifest["users-registry"]);
     if (!bldb.has(msg.author.id) && db.has(msg.author.id) && args[0]) {

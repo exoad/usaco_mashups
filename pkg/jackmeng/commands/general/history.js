@@ -1,6 +1,4 @@
-const { EmbedBuilder, AttachmentBuilder } = require("discord.js");
-// @ts-ignore
-const colors = require("../../../../configs/colors.json");
+const { AttachmentBuilder } = require("discord.js");
 // @ts-ignore
 const app = require("../../../../configs/bot.json");
 const { Database } = require("secure-db");
@@ -19,7 +17,7 @@ module.exports = {
       "history all",
     aliases: [`hist`],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg, args) => {
     const bldb = new Database(manifest["blacklisted-registry"]);
     const db = new Database(manifest["users-registry"]);
     let firstArg = args[0];

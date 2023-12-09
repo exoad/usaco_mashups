@@ -15,7 +15,7 @@ module.exports = {
     usage: "1 argument | {division=plat,gold,silver,bronze,camp,ioi,none}",
     aliases: [``],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg, args) => {
     let author = msg.author.id;
 
     const blacklistdb = new Database(manifest["blacklisted-registry"]);

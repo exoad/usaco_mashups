@@ -3,13 +3,11 @@
 
 const { EmbedBuilder } = require("discord.js");
 // @ts-ignore
-const colors = require("../../../../configs/colors.json");
 // @ts-ignore
 const app = require("../../../../configs/bot.json");
 const { Database } = require("secure-db");
 // @ts-ignore
 const manifest = require("../../../../internal/MANIFEST.json");
-const superagent = require("superagent");
 const qid_Verifier = require("../../fx/fun_QIDVerifier");
 const qid_Parser = require("../../fx/fun_QIDParser");
 
@@ -27,7 +25,7 @@ module.exports = {
       "solving 2021opnbrnz1",
     aliases: [`trying`],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg, args) => {
     const solving_qs_user_NAME = "solving_qs";
     let id = msg.author.id;
     const bldb = new Database(manifest["blacklisted-registry"]);
@@ -78,7 +76,7 @@ module.exports = {
         // print out the ones the user is trying to solve at the current time
         msg.channel
           .send(":hedgehog: Fetching problems you are trying to solve...")
-          .then((m) => {});
+          .then((_m) => {});
       }
     }
   },

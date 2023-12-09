@@ -1,6 +1,3 @@
-/**
- */
-
 const { EmbedBuilder, Embed } = require("discord.js");
 // @ts-ignore
 const colors = require("../../../../configs/colors.json");

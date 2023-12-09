@@ -1,8 +1,6 @@
 const { EmbedBuilder } = require("discord.js");
 const { parseMonth } = require("../../fx/fun_Basics");
 // @ts-ignore
-const colors = require("../../../../configs/colors.json");
-// @ts-ignore
 const app = require("../../../../configs/bot.json");
 const { rnd_q } = require("../../fx/fun_StaticAPI");
 module.exports = {
@@ -13,7 +11,7 @@ module.exports = {
     usage: app.strings.arguments_null,
     aliases: [`randomq`],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg, _args) => {
     let rnd = rnd_q();
     const embed = new EmbedBuilder()
       .setTitle(`RNDQ: ${rnd.name}`)

@@ -1,6 +1,4 @@
-const { EmbedBuilder, Embed, parseEmoji } = require("discord.js");
-// @ts-ignore
-const colors = require("../../../../configs/colors.json");
+const { EmbedBuilder } = require("discord.js");
 // @ts-ignore
 const app = require("../../../../configs/bot.json");
 const { Database } = require("secure-db");
@@ -16,7 +14,7 @@ module.exports = {
       "Optional Arguments\n1 -> setdiv = set division\n2 -> A division to set yourself to {plat,gold,silver,bronze,ioi,camp,none}",
     aliases: [`who`],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg, args) => {
     const bldb = new Database(manifest["blacklisted-registry"]);
     const db = new Database(manifest["users-registry"]);
     if (!bldb.has(msg.author.id) || bldb.get(msg.author.id).level == "1") {

@@ -1,7 +1,6 @@
 const { EmbedBuilder } = require("discord.js");
 const { parseMonth } = require("../../fx/fun_Basics");
 // @ts-ignore
-const colors = require("../../../../configs/colors.json");
 // @ts-ignore
 const app = require("../../../../configs/bot.json");
 const { Database } = require("secure-db");
@@ -24,7 +23,7 @@ module.exports = {
       "qsearch 2012marsilv3",
     aliases: [`qfind`],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg, args) => {
     const bldb = new Database(manifest["blacklisted-registry"]);
     if (!bldb.has(msg.author.id) || bldb.get(msg.author.id).level == "1") {
       const db = new Database(manifest["users-registry"]);
