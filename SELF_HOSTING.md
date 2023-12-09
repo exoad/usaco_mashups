@@ -22,7 +22,7 @@ The primitive things you need to even start things are the following:
 
 The last steps are quite simple once you have the above.
 
-You need to first grab your bot profile's token and then follow this file template and place it in the directory `./internals/`
+You need to first grab your bot profile's token and then follow this file template and place it in the directory `./internal/`
 as `MANIFEST.json`
 ```json
 
