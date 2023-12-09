@@ -36,6 +36,7 @@ module.exports = {
 
 <summary>
 <strong>Example Usage</strong>
+</summary>
 
 ```js
 const { EmbedBuilder, messageLink } = require("discord.js");
