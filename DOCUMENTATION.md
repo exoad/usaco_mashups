@@ -10,24 +10,27 @@ Here are some common causes of some errors that you may encounter while modifyin
 
 This error is caused by a command file that does not have the required `config` field filled out. See [Code_Template:Commands](#commands).
 
-**Fix**
+> [!INFORMATION]
+>
+> **Fix**
+>
+> Make sure you fill out the `config` field such that the command file looks something like this:
+>
+> ```js
+> module.exports = {
+>  config: {
+>    name: "my_command",
+>    category: "Fun Commands",
+>    description: "",
+>    usage: "",
+>    aliases: [``],
+>  },
+>  run: async (bot, msg, args) => {
+>    //...
+>  },
+> };
+> ```
 
-Make sure you fill out the `config` field such that the command file looks something like this:
-
-```js
-module.exports = {
-  config: {
-    name: "my_command",
-    category: "Fun Commands",
-    description: "",
-    usage: "",
-    aliases: [``],
-  },
-  run: async (bot, msg, args) => {
-    //...
-  },
-};
-```
 
 ## Code Templates
 
