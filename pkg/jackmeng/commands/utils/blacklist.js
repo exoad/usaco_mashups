@@ -1,8 +1,6 @@
 const { EmbedBuilder } = require("discord.js");
 // @ts-ignore
-const colors = require("../../../../configs/colors.json");
 // @ts-ignore
-const app = require("../../../../configs/bot.json");
 const { Database } = require("secure-db");
 const manifest = require("../../../../internal/MANIFEST.json");
 
@@ -14,7 +12,7 @@ module.exports = {
     usage: "REDACTED",
     aliases: [`block`],
   },
-  run: async (bot, msg, args) => {
+  run: async (_bot, msg, args) => {
     if (msg.author.id == manifest.MASTER_ID) {
       const db = new Database(manifest["blacklisted-registry"]);
       const usersdb = new Database(manifest["users-registry"]);

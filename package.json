@@ -3,6 +3,7 @@
     "discord.js": "^14.5.0",
     "express": "^4.18.1",
     "fs": "^0.0.1-security",
+    "fuse.js": "^7.0.0",
     "http": "^0.0.1-security",
     "latenz": "^0.2.4",
     "moment": "^2.29.4",
@@ -13,7 +14,7 @@
     "systeminformation": "^5.21.7"
   },
   "name": "usaco-mashup-bot",
-  "version": "1.0.0",
+  "version": "1.5.1",
   "description": "USACO Mashup bot",
   "main": "pkg/jackmeng/app.js",
   "scripts": {
@@ -24,6 +25,6 @@
     "usaco"
   ],
   "author": "Jack Meng (exoad)",
-  "license": "Standard Halcyoninae Protective License 1.0",
+  "license": "BSD-4-Clause",
   "displayName": "USACO Mashup Bot"
 }

@@ -1,3 +1,7 @@
+/**
+ * THIS COMMAND WILL BE MOVED TO fuzzy_search.js
+ */
+
 const { EmbedBuilder } = require("discord.js");
 const { parseMonth } = require("../../fx/fun_Basics");
 // @ts-ignore

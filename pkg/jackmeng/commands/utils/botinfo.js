@@ -14,7 +14,7 @@ module.exports = {
     usage: app.strings.arguments_null,
     aliases: [`bot`],
   },
-  run: async (bot, msg, args) => {
+  run: async (bot, msg, _args) => {
     const e = discordjs.uptime(bot);
     const embed = new EmbedBuilder()
       .setColor(`${colors.default_orange}`)

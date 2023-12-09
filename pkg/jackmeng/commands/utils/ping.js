@@ -1,6 +1,5 @@
-const { EmbedBuilder, messageLink } = require("discord.js");
+require("discord.js");
 // @ts-ignore
-const colors = require("../../../../configs/colors.json");
 // @ts-ignore
 const app = require("../../../../configs/bot.json");
 const ping = require("latenz");
@@ -13,7 +12,7 @@ module.exports = {
     usage: app.strings.arguments_null,
     aliases: [],
   },
-  run: async (bot, msg, args) => {
+  run: async (bot, msg) => {
     msg.channel.send("Playing ping pong... :ping_pong:").then((m) => {
       let client = Date.now() - msg.createdTimestamp;
       let api = Math.round(bot.ws.ping);

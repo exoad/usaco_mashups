@@ -80,6 +80,7 @@ function calc_division(divNumerics, string_calc) {
 }
 
 function rnd_q_by_div_qid(division) {
+  const e = Math.floor(Math.random() * 4);
   switch (division) {
     case DIVISION_TYPES.PLATINUM:
       return qtype.plat[Math.floor(Math.random() * qtype.plat.length)];
@@ -90,7 +91,6 @@ function rnd_q_by_div_qid(division) {
     case DIVISION_TYPES.BRONZE:
       return qtype.brnz[Math.floor(Math.random() * qtype.brnz.length)];
     default:
-      const e = Math.floor(Math.random() * 4);
       return e == 0
         ? qtype.plat[Math.floor(Math.random() * qtype.plat.length)]
         : e == 1
@@ -163,6 +163,10 @@ function parse_pack(qid) {
   };
 }
 
+function exportStaticSlaveApi() {
+  return require("../../../bin/map_slave.json");
+}
+
 module.exports = {
   full_by_qid,
   is_bronze,
@@ -179,4 +183,5 @@ module.exports = {
   DIVISION_NUMERICS,
   type_2_numeric,
   calc_division,
+  exportStaticSlaveApi
 };

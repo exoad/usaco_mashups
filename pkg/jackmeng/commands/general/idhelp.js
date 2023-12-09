@@ -2,7 +2,7 @@ const { EmbedBuilder } = require("discord.js");
 // @ts-ignore
 // @ts-ignore
 const app = require("../../../../configs/bot.json");
-const { Database } = require("secure-db");
+require("secure-db");
 // @ts-ignore
 
 module.exports = {

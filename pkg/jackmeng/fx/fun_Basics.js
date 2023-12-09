@@ -1,3 +1,10 @@
+const Fuse=require('fuse.js');
+
+function fuzzySearchStrings(keys, searchPattern, list) {
+  const fuse=new Fuse(list, {keys:keys});
+  return fuse.search(searchPattern);
+}
+
 /**
  * @param  {Array} arr Array to look through (filter through)
  * @param  {Object} v Object instance to remove
@@ -24,4 +31,4 @@ function parseMonth(intMonth) {
     : "Unexpected Month " + intMonth;
 }
 
-module.exports = { arr_rm, parseMonth };
+module.exports = { arr_rm, parseMonth, fuzzySearchStrings };

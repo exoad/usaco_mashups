@@ -10,7 +10,7 @@ module.exports = {
     usage: app.strings.arguments_null,
     aliases: [`commandspew`],
   },
-  run: async (bot, msg, args) => {
+  run: async (bot, msg, _args) => {
     const embed = new EmbedBuilder()
       // @ts-ignore
       .setColor(colors.default_green)
