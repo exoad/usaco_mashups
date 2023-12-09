@@ -10,7 +10,7 @@ Here are some common causes of some errors that you may encounter while modifyin
 
 This error is caused by a command file that does not have the required `config` field filled out. See [Code_Template:Commands](#commands).
 
-> [!INFORMATION]
+> [!INFO]
 >
 > **Fix**
 >
