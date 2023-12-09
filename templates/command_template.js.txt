@@ -1,7 +1,3 @@
-const { EmbedBuilder } = require("discord.js");
-const app = require("../../../../configs/bot.json");
-const colors = require("../../../../configs/colors.json");
-
 module.exports = {
   config: {
     name: "",
@@ -10,7 +6,5 @@ module.exports = {
     usage: "",
     aliases: [``],
   },
-  run: async (bot, msg, args) => {
-
-  },
+  run: async (bot, msg, args) => {},
 };
