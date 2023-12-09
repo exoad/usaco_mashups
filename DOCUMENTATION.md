@@ -62,6 +62,9 @@ module.exports = {
 * `usage` - **optional**, a demonstration on how this command can be used
 * `aliases` - any other `name`'s that also relate to this command
 
+> [!WARNING]
+> You must have all of the **non-optional fields filled out** or else you will get an error when trying to run the bot!
+
 <details>
 
 <summary>
