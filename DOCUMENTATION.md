@@ -2,6 +2,33 @@
 
 > This is documentation for getting to know the code itself.
 
+## Ugh! Another error...
+
+Here are some common causes of some errors that you may encounter while modifying the bot that are caused by YOU.
+
+### `TypeError: Cannot read properties of undefined (reading 'name') at load (pkg/jackmeng/handlers/cmd.js:14:35)`
+
+This error is caused by a command file that does not have the required `config` field filled out. See [Code_Template:Commands](#commands).
+
+**Fix**
+
+Make sure you fill out the `config` field such that the command file looks something like this:
+
+```js
+module.exports = {
+  config: {
+    name: "my_command",
+    category: "Fun Commands",
+    description: "",
+    usage: "",
+    aliases: [``],
+  },
+  run: async (bot, msg, args) => {
+    //...
+  },
+};
+```
+
 ## Code Templates
 
 Code Templates are used for repetitive code. All of which can be found under [`./templates`](./templates/).
